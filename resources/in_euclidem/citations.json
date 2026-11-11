@@ -1,0 +1,181 @@
+{
+  "friedlein:1873": {
+    "author": "Proclus Diadochus (ed. Gottfried Friedlein)",
+    "work": "Procli Diadochi in primum Euclidis Elementorum librum commentarii",
+    "locus": "Leipzig: B. G. Teubner, 1873",
+    "year": "1873",
+    "category": "edition",
+    "note": "Standard critical Teubner Greek edition (pp. 1–436, Indices pp. 437–507; CTS URN urn:cts:greekLit:tlg4036.tlg011.opp-grc1) providing canonical page-and-line numbering.",
+    "url": "https://archive.org/details/friedlein-procli-diadochi-in-primum-euclidis-elementorum-librum-commentarii-gr-1873"
+  },
+  "taylor:1788": {
+    "author": "Thomas Taylor (trans.)",
+    "work": "The Philosophical and Mathematical Commentaries of Proclus, on the First Book of Euclid's Elements, Vol. I",
+    "locus": "London, 1788 / 1792 (Project Gutenberg #74253)",
+    "year": "1788/1792",
+    "category": "edition",
+    "note": "First English translation, Volume I covering Prologue Book I, Prologue Book II, and Definitions.",
+    "url": "https://www.gutenberg.org/ebooks/74253"
+  },
+  "taylor:1789": {
+    "author": "Thomas Taylor (trans.)",
+    "work": "The Philosophical and Mathematical Commentaries of Proclus, on the First Book of Euclid's Elements, Vol. II",
+    "locus": "London, 1789 / 1792 (Project Gutenberg #79455)",
+    "year": "1789/1792",
+    "category": "edition",
+    "note": "First English translation, Volume II covering Petitions/Postulates, Axioms, and Propositions I.1–I.48.",
+    "url": "https://www.gutenberg.org/ebooks/79455"
+  },
+  "grynaeus:1533": {
+    "author": "Simon Grynaeus (ed.)",
+    "work": "Εὐκλείδου Στοιχείων βιβλ. ιε΄ ... Procli in primum Euclidis Elementorum librum commentariorum libri IIII (Editio Princeps)",
+    "locus": "Basel: Johann Herwagen, 1533",
+    "year": "1533",
+    "category": "edition",
+    "note": "Editio princeps of the Greek text of Euclid and Proclus's Commentary, whose pagination appears in the left margin of Friedlein and was used by Thomas Taylor."
+  },
+  "barocius:1560": {
+    "author": "Franciscus Barocius (Francesco Barozzi)",
+    "work": "Procli Diadochi Lycii in primum Euclidis Elementorum librum commentariorum ad universam mathematicam disciplinam principium eruditionis tradentium libri IIII",
+    "locus": "Padua: Gratiosus Perchacinus, 1560",
+    "year": "1560",
+    "category": "edition",
+    "note": "Renaissance Latin translation collated from superior Greek manuscripts in Venice and Crete, supplying crucial lacunae of the 1533 Basel Greek text."
+  },
+  "plato:rep:VI.510b-511d": {
+    "author": "Plato",
+    "work": "Republic",
+    "locus": "VI, 509d–511e (The Divided Line)",
+    "year": "c. 375 BC",
+    "category": "ancient",
+    "note": "Foundational Platonic text establishing dianoia and mathematical objects as intermediate (metaxy) between sensibles and pure intelligibles (Friedlein 3–4, 10, 42)."
+  },
+  "plato:rep:VII.525a-534e": {
+    "author": "Plato",
+    "work": "Republic",
+    "locus": "VII, 525a–534e (Curriculum of the Quadrivium & Dialectic)",
+    "year": "c. 375 BC",
+    "category": "ancient",
+    "note": "Mathematics as the 'prelude' awakening the eye of the soul and Dialectic as the 'coping-stone' (thrigkos) of the sciences (Friedlein 20–29, 42–44)."
+  },
+  "plato:timaeus:31c-36d": {
+    "author": "Plato",
+    "work": "Timaeus",
+    "locus": "31c–36d, 53c–56c",
+    "year": "c. 360 BC",
+    "category": "ancient",
+    "note": "Harmonic composition of the World-Soul and construction of the five regular cosmic polyhedra—identified by Proclus as the ultimate skopos of Euclid's Elements (Friedlein 16, 62, 70–71)."
+  },
+  "plato:meno:81e-85d": {
+    "author": "Plato",
+    "work": "Meno",
+    "locus": "81e–85d",
+    "year": "c. 385 BC",
+    "category": "ancient",
+    "note": "Recollection (anamnesis) demonstrated by Socrates eliciting the doubling of the square from an untaught boy, proving mathematical logoi are innate in the soul (Friedlein 45)."
+  },
+  "plato:parmenides:137e": {
+    "author": "Plato",
+    "work": "Parmenides",
+    "locus": "137e",
+    "year": "c. 370 BC",
+    "category": "ancient",
+    "note": "Plato's optical definition of the straight line as 'that of which the middle covers both extremities' (Friedlein 109–110)."
+  },
+  "plato:philebus:16c-26d": {
+    "author": "Plato",
+    "work": "Philebus",
+    "locus": "16c–26d",
+    "year": "c. 355 BC",
+    "category": "ancient",
+    "note": "Metaphysics of Limit (peras) and the Unlimited (apeiron) as cosmic principles generating all mathematical harmony and figure (Friedlein 5–7)."
+  },
+  "aristotle:anal-post:I.1-10": {
+    "author": "Aristotle",
+    "work": "Posterior Analytics",
+    "locus": "I.1–2, I.4–5, I.10 (71a–77a)",
+    "year": "c. 335 BC",
+    "category": "ancient",
+    "note": "Theory of apodictic science, first principles (axioms, hypotheses, postulates), and universal commensurately-first (katholou proton) demonstration (Friedlein 75–76, 178–183, 206, 381–383)."
+  },
+  "aristotle:met:981b-1078a": {
+    "author": "Aristotle",
+    "work": "Metaphysics",
+    "locus": "A.1 (981b20), B.2 (997b35), M.3 (1078a)",
+    "year": "c. 330 BC",
+    "category": "ancient",
+    "note": "Egyptian leisure of the priestly caste (64–65), Protagoras's critique of geometric tangency (139–140), intelligible matter (hyle noete, 48–53), and mathematical beauty (26–27)."
+  },
+  "aristotle:de-anima:III.4-8": {
+    "author": "Aristotle",
+    "work": "De Anima",
+    "locus": "I.4 (409a4), III.4–8 (429a–432a)",
+    "year": "c. 330 BC",
+    "category": "ancient",
+    "note": "Motion of a point generating a line (97), soul as 'place of forms' (topos eidon, 16), and passive intellect / phantasia (51–52)."
+  },
+  "aristotle:de-caelo:I.5": {
+    "author": "Aristotle",
+    "work": "De Caelo",
+    "locus": "I.5, 271b28–30",
+    "year": "c. 335 BC",
+    "category": "ancient",
+    "note": "Lemma invoked by Proclus (Friedlein 371, 10) in his attempted proof of Postulate 5: two straight lines diverging from one point separate beyond any finite distance."
+  },
+  "euclid:elements": {
+    "author": "Euclid",
+    "work": "Elements (Στοιχεῖα), Book I",
+    "locus": "Defs. 1–23, Posts. 1–5, CN 1–5, Props. I.1–I.48",
+    "year": "c. 300 BC",
+    "category": "ancient",
+    "note": "The canonical treatise expounded throughout Proclus's Commentary; cross-linked via GEOMETOR `:just:` to `geometor/euclid` and `geometor/elements`."
+  },
+  "eudemus:history-of-geometry": {
+    "author": "Eudemus of Rhodes",
+    "work": "History of Geometry (Γεωμετρικὴ Ἱστορία, fragments)",
+    "locus": "apud Proclum, Friedlein 64–70, 125, 157, 250, 299, 333, 352, 379, 419",
+    "year": "c. 320 BC",
+    "category": "ancient",
+    "note": "Lost Peripatetic history of Greek geometry whose priceless fragments—the Eudemian Summary and attributions to Thales, Oenopides, Hippocrates, and the Pythagoreans—survive almost solely through Proclus."
+  },
+  "geminus:philokalia": {
+    "author": "Geminus of Rhodes",
+    "work": "Theory of the Mathematical Sciences / Philokalia (fragments)",
+    "locus": "apud Proclum, Friedlein 38–42, 105, 111, 126, 176–177, 181–192, 241, 251",
+    "year": "1st cent. BC",
+    "category": "ancient",
+    "note": "Encyclopedic Stoic-mathematical treatise on the classification of sciences, curves (homoeomeric, spiric, cissoid, conchoid), asymptotic lines, and postulates."
+  },
+  "ptolemy:parallel-lines": {
+    "author": "Claudius Ptolemy",
+    "work": "That Straight Lines Produced from Angles Less Than Two Right Angles Meet (fragments)",
+    "locus": "apud Proclum, Friedlein 191, 362–368",
+    "year": "2nd cent. AD",
+    "category": "ancient",
+    "note": "Lost monograph attempting to demonstrate Euclid's Fifth Postulate; preserved solely in Proclus's Commentary on Prop. I.29."
+  },
+  "pappus:collectio": {
+    "author": "Pappus of Alexandria",
+    "work": "Mathematical Collection & Commentary on Euclid",
+    "locus": "apud Proclum, Friedlein 189, 197, 249–250",
+    "year": "c. 320 AD",
+    "category": "ancient",
+    "note": "Source of the famous zero-construction symmetry proof of Prop. I.5 (pons asinorum) and critical notes on Postulate 4 and the Common Notions."
+  },
+  "heath:1926": {
+    "author": "Sir Thomas Little Heath",
+    "work": "The Thirteen Books of Euclid's Elements (2nd ed., 3 vols.)",
+    "locus": "Cambridge University Press, 1926 (`geometor/euclid`)",
+    "year": "1926",
+    "category": "modern",
+    "note": "Primary modern critical commentary on Euclid in `geometor/euclid`, citing Proclus across 156 distinct Friedlein loci."
+  },
+  "hoenen:1954": {
+    "author": "Petrus H. J. Hoenen, S.J.",
+    "work": "De Noetica Geometriae: Origine Theoriae Cognitionis",
+    "locus": "Rome: Analecta Gregoriana Vol. 63, 1954 (`geometor/hoenen`)",
+    "year": "1954",
+    "category": "modern",
+    "note": "Companion GEOMETOR treatise engaging Proclus on sensible inexactitude, phantasia and intelligible matter (Friedlein 12, 49, 97, 139–140, 185), and the epistemology of Postulate 5 (Friedlein 191, 365–373)."
+  }
+}
