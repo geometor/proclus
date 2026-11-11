@@ -1,0 +1,17 @@
+# Build & Documentation Output
+docs/
+dist/
+build/
+
+# Python & Virtual Environments
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Large Binary Scans
+resources/sources/*.pdf
+resources/in_euclidem/sources/*.pdf
