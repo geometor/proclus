@@ -1,0 +1,266 @@
+
+
+<!DOCTYPE html>
+<html lang="en" data-content_root="../../../../../">
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>geometor.proclus.compile_codex &mdash; GEOMETOR • proclus</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..700;1,400..700&family=Fira+Sans+Condensed:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/pygments.css?v=ea5fcf70" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/css/styles.css?v=66998e95" />
+  <link rel="stylesheet" type="text/css" href="../../../../../_static/graphviz.css?v=4ae1632d" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" />
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+  <link rel="stylesheet" href="../../../../../_static/css/print.css" type="text/css" media="print" />
+  <link rel="icon" href="../../../../../_static/favicon.ico" />
+</head>
+
+<body class="book-theme-classical-serif">
+  <header>
+    <div class="logo">
+      <a href="../../../../../index.html">
+        <img src="../../../../../_static/logo.png" class="logo" alt="Logo"/>
+      </a>
+      <div class="org-repo">
+        <span class="org">GEOMETOR</span>
+        •
+        <span class="repo">proclus</span>
+      </div>
+    </div>
+    <nav aria-label="Header">
+      <input type="checkbox" id="nav-Header-toggle" >
+      <label for="nav-Header-toggle" >Header</label>
+      <ul>
+        <li>
+          <a href="../../../../../in_euclidem/index.html"  >In Euclidem</a>
+        </li>
+        <li>
+          <a href="../../../../../mission/index.html"  >mission</a>
+        </li>
+        <li>
+          <a href="../../../../../about/index.html"  >about</a>
+        </li>
+        <li>
+          <a href="../../../../../log/index.html"  >log</a>
+        </li>
+        <li>
+          <a href="../../../../index.html" class="is-active" aria-selected="true" >modules</a>
+        </li>
+      </ul>
+    </nav>
+    <div class="motto"></div>
+  </header>
+  <main class="book-main">
+    <article class="book-layout book-reading-pane">
+      <header class="book-header">
+        <div class="book-header-bar">
+          <div class="book-header-identity">
+            <a class="book-portal-link" href="../../../../../index.html" title="Return to Project Portal">&larr; proclus</a>
+            <span class="book-header-sep">/</span>
+            <a class="book-title-link" href="../../../../../index.html">GEOMETOR • proclus</a>
+          </div>
+          <div class="book-header-breadcrumbs book-header-badges" role="navigation" aria-label="Breadcrumbs">
+            <a class="book-crumb-link" href="../../../../index.html">modules</a>
+          </div>
+        </div>
+        <div class="book-header-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../cli/index.html" title="geometor.proclus.cli">&larr; <span class="nav-label">Prev</span></a>
+          </div>
+          <div class="book-nav-center">
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../concordance/index.html" title="geometor.proclus.concordance"><span class="nav-label">Next</span> &rarr;</a>
+          </div>
+        </div>
+      </header>
+      <div class="content body book-content" role="main">
+        <section class="level-1" id="module-geometor.proclus.compile_codex">
+        <span id="geometor-proclus-compile-codex"></span><h1>geometor.proclus.compile_codex<a class="headerlink" href="#module-geometor.proclus.compile_codex" title="Link to this heading">¶</a></h1>
+        <p>Deterministic apparatus compiler and Multi-Track Codex verifier for GEOMETOR Proclus.</p>
+        <section class="level-2" id="functions">
+        <h2>Functions<a class="headerlink" href="#functions" title="Link to this heading">¶</a></h2>
+        <table class="autosummary longtable docutils align-default">
+        <tbody>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.slugify_key" title="geometor.proclus.compile_codex.slugify_key"><code class="xref py py-obj docutils literal notranslate"><span class="pre">slugify_key</span></code></a>(key) → str</p></td>
+        <td><p>Slugify an apparatus key identically to <code class="docutils literal notranslate"><span class="pre">photon_platform.publish.roles.geometry</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.default_docsrc_book_dir" title="geometor.proclus.compile_codex.default_docsrc_book_dir"><code class="xref py py-obj docutils literal notranslate"><span class="pre">default_docsrc_book_dir</span></code></a>() → pathlib.Path</p></td>
+        <td><p>Return <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem</span></code> path.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.render_concordance_rst" title="geometor.proclus.compile_codex.render_concordance_rst"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_concordance_rst</span></code></a>(concordance) → str</p></td>
+        <td><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/concordance.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">concordance.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.render_bibliography_rst" title="geometor.proclus.compile_codex.render_bibliography_rst"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_bibliography_rst</span></code></a>(citations) → str</p></td>
+        <td><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/bibliography.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">citations.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.render_persons_rst" title="geometor.proclus.compile_codex.render_persons_rst"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_persons_rst</span></code></a>(persons) → str</p></td>
+        <td><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/persons.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">persons.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.render_glossary_rst" title="geometor.proclus.compile_codex.render_glossary_rst"><code class="xref py py-obj docutils literal notranslate"><span class="pre">render_glossary_rst</span></code></a>(glossary) → str</p></td>
+        <td><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/glossary.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">glossary.json</span></code>.</p></td>
+        </tr>
+        <tr class="row-odd"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.write_apparatus_pages" title="geometor.proclus.compile_codex.write_apparatus_pages"><code class="xref py py-obj docutils literal notranslate"><span class="pre">write_apparatus_pages</span></code></a>([resources_dir, book_dir]) → list[pathlib.Path]</p></td>
+        <td><p>Compile all four apparatus RST files (<cite>concordance</cite>, <cite>bibliography</cite>, <cite>persons</cite>, <cite>glossary</cite>).</p></td>
+        </tr>
+        <tr class="row-even"><td><p><a class="reference internal" href="#geometor.proclus.compile_codex.verify_codex_tracks" title="geometor.proclus.compile_codex.verify_codex_tracks"><code class="xref py py-obj docutils literal notranslate"><span class="pre">verify_codex_tracks</span></code></a>([book_dir]) → dict[str, Any]</p></td>
+        <td><p>Verify that all 7 Codex units have all 4 synchronized tracks and zero Python construction code.</p></td>
+        </tr>
+        </tbody>
+        </table>
+        </section>
+        <section class="level-2" id="module-contents">
+        <h2>Module Contents<a class="headerlink" href="#module-contents" title="Link to this heading">¶</a></h2>
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.slugify_key">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">slugify_key</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">key</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">str</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.slugify_key" title="Link to this definition">¶</a></dt>
+        <dd><p>Slugify an apparatus key identically to <code class="docutils literal notranslate"><span class="pre">photon_platform.publish.roles.geometry</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.default_docsrc_book_dir">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">default_docsrc_book_dir</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">pathlib.Path</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.default_docsrc_book_dir" title="Link to this definition">¶</a></dt>
+        <dd><p>Return <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem</span></code> path.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.render_concordance_rst">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">render_concordance_rst</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">concordance</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.render_concordance_rst" title="Link to this definition">¶</a></dt>
+        <dd><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/concordance.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">concordance.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.render_bibliography_rst">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">render_bibliography_rst</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">citations</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.render_bibliography_rst" title="Link to this definition">¶</a></dt>
+        <dd><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/bibliography.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">citations.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.render_persons_rst">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">render_persons_rst</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">persons</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.render_persons_rst" title="Link to this definition">¶</a></dt>
+        <dd><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/persons.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">persons.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.render_glossary_rst">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">render_glossary_rst</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">glossary</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span><span class="p"><span class="pre">]</span></span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">str</span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.render_glossary_rst" title="Link to this definition">¶</a></dt>
+        <dd><p>Render <code class="docutils literal notranslate"><span class="pre">docsrc/in_euclidem/glossary.rst</span></code> from <code class="docutils literal notranslate"><span class="pre">glossary.json</span></code>.</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.write_apparatus_pages">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">write_apparatus_pages</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">resources_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">book_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">list</span><span class="p"><span class="pre">[</span></span><span class="pre">pathlib.Path</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.write_apparatus_pages" title="Link to this definition">¶</a></dt>
+        <dd><p>Compile all four apparatus RST files (<cite>concordance</cite>, <cite>bibliography</cite>, <cite>persons</cite>, <cite>glossary</cite>).</p>
+        </dd></dl>
+
+        <dl class="py function">
+        <dt class="sig sig-object py" id="geometor.proclus.compile_codex.verify_codex_tracks">
+        <span class="sig-prename descclassname"><span class="pre">geometor.proclus.compile_codex.</span></span><span class="sig-name descname"><span class="pre">verify_codex_tracks</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">book_dir</span></span><span class="p"><span class="pre">:</span></span><span class="w"> </span><span class="n"><span class="pre">pathlib.Path</span><span class="w"> </span><span class="p"><span class="pre">|</span></span><span class="w"> </span><span class="pre">None</span></span><span class="w"> </span><span class="o"><span class="pre">=</span></span><span class="w"> </span><span class="default_value"><span class="pre">None</span></span></em><span class="sig-paren">)</span> <span class="sig-return"><span class="sig-return-icon">&#x2192;</span> <span class="sig-return-typehint"><span class="pre">dict</span><span class="p"><span class="pre">[</span></span><span class="pre">str</span><span class="p"><span class="pre">,</span></span><span class="w"> </span><span class="pre">Any</span><span class="p"><span class="pre">]</span></span></span></span><a class="headerlink" href="#geometor.proclus.compile_codex.verify_codex_tracks" title="Link to this definition">¶</a></dt>
+        <dd><p>Verify that all 7 Codex units have all 4 synchronized tracks and zero Python construction code.</p>
+        </dd></dl>
+
+        </section>
+        </section>
+
+      </div>
+      <footer class="book-footer">
+        <div class="book-footer-ornament">&#10086;</div>
+        <div class="book-footer-nav">
+          <div class="book-nav-prev">
+            <a class="book-nav-btn" href="../cli/index.html" title="geometor.proclus.cli">&larr; <span class="nav-label">geometor.proclus.cli</span></a>
+          </div>
+          <div class="book-nav-center">
+            <a class="book-toc-link" href="../../../../../index.html">GEOMETOR • proclus</a>
+          </div>
+          <div class="book-nav-next">
+            <a class="book-nav-btn" href="../concordance/index.html" title="geometor.proclus.concordance"><span class="nav-label">geometor.proclus.concordance</span> &rarr;</a>
+          </div>
+        </div>
+      </footer>
+    </article>
+  </main>
+  <div class="asides">
+    <aside class="aside-search">
+      <h3>Search</h3>
+      <div id="searchbox" role="search">
+        <form id="rtd-search-form" class="wy-form search-form" action="../../../../../search.html" method="get">
+          <div class="search-field">
+            <input type="search" name="q" placeholder="Search docs..." aria-label="Search docs" autocomplete="off" />
+            <button type="submit" class="search-submit" aria-label="Search" title="Search">
+              <svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <circle cx="11" cy="11" r="8"></circle>
+                <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+              </svg>
+            </button>
+          </div>
+          <input type="hidden" name="check_keywords" value="yes" />
+          <input type="hidden" name="area" value="default" />
+        </form>
+      </div>
+    </aside>
+    <aside class="aside-recent-logs">
+      <h3>Recent Logs</h3>
+      <ul>
+        <li><a href="../../../../../log/26.315-063500/index.html">Initial 4-Track Book Codex & Friedlein (1873) Citation Concordance of Proclus Diadochus</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-tags">
+      <h3>Tags</h3>
+      <ul>
+        <li><a href="../../../../../tags/apparatus.html">apparatus</a></li>
+        <li><a href="../../../../../tags/euclid.html">euclid</a></li>
+        <li><a href="../../../../../tags/friedlein.html">friedlein</a></li>
+        <li><a href="../../../../../tags/hoenen.html">hoenen</a></li>
+        <li><a href="../../../../../tags/proclus.html">proclus</a></li>
+        <li><a href="../../../../../tags/taylor.html">taylor</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-categories">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="../../../../../categories/codex.html">codex</a></li>
+        <li><a href="../../../../../categories/concordance.html">concordance</a></li>
+      </ul>
+    </aside>
+    <aside class="aside-types">
+      <h3>Types</h3>
+      <ul>
+        <li><a href="../../../../../types/apparatus.html">apparatus</a></li>
+        <li><a href="../../../../../types/chapter.html">chapter</a></li>
+        <li><a href="../../../../../types/el.html">el</a></li>
+        <li><a href="../../../../../types/log.html">log</a></li>
+        <li><a href="../../../../../types/notes.html">notes</a></li>
+        <li><a href="../../../../../types/summary.html">summary</a></li>
+      </ul>
+    </aside>
+  </div>
+  <footer>
+    <div class="footer-nav">
+      <ul>
+        <li><a href="../../../../../changelog.html"  >changelog</a></li>
+      </ul>
+    </div>
+    <hr />
+    <div role="contentinfo">
+      <p>
+        &copy; Copyright c. 470 AD (Friedlein 1873 / Taylor 1788–1789) • Digital Edition GEOMETOR.
+      </p>
+    </div>
+  </footer>
+
+  <script src="../../../../../_static/jquery.js?v=5d32c60e"></script>
+  <script src="../../../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+  <script src="../../../../../_static/documentation_options.js?v=01f34227"></script>
+  <script src="../../../../../_static/doctools.js?v=fd6eb6e6"></script>
+  <script src="../../../../../_static/sphinx_highlight.js?v=6ffebe34"></script>
+  <script src="../../../../../_static/js/collection_controls.js?v=b6b5297a"></script>
+  <script src="../../../../../_static/js/geometor_interactive.js?v=b2892320"></script>
+  <script src="../../../../../_static/js/search_highlight.js"></script>
+
+</body>
+</html>

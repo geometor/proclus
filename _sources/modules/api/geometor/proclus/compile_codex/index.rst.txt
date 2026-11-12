@@ -1,0 +1,69 @@
+geometor.proclus.compile_codex
+==============================
+
+.. py:module:: geometor.proclus.compile_codex
+
+.. autoapi-nested-parse::
+
+   Deterministic apparatus compiler and Multi-Track Codex verifier for GEOMETOR Proclus.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.proclus.compile_codex.slugify_key
+   geometor.proclus.compile_codex.default_docsrc_book_dir
+   geometor.proclus.compile_codex.render_concordance_rst
+   geometor.proclus.compile_codex.render_bibliography_rst
+   geometor.proclus.compile_codex.render_persons_rst
+   geometor.proclus.compile_codex.render_glossary_rst
+   geometor.proclus.compile_codex.write_apparatus_pages
+   geometor.proclus.compile_codex.verify_codex_tracks
+
+
+Module Contents
+---------------
+
+.. py:function:: slugify_key(key: str) -> str
+
+   Slugify an apparatus key identically to ``photon_platform.publish.roles.geometry``.
+
+
+.. py:function:: default_docsrc_book_dir() -> pathlib.Path
+
+   Return ``docsrc/in_euclidem`` path.
+
+
+.. py:function:: render_concordance_rst(concordance: dict[str, Any]) -> str
+
+   Render ``docsrc/in_euclidem/concordance.rst`` from ``concordance.json``.
+
+
+.. py:function:: render_bibliography_rst(citations: dict[str, dict[str, Any]]) -> str
+
+   Render ``docsrc/in_euclidem/bibliography.rst`` from ``citations.json``.
+
+
+.. py:function:: render_persons_rst(persons: dict[str, dict[str, Any]]) -> str
+
+   Render ``docsrc/in_euclidem/persons.rst`` from ``persons.json``.
+
+
+.. py:function:: render_glossary_rst(glossary: dict[str, dict[str, Any]]) -> str
+
+   Render ``docsrc/in_euclidem/glossary.rst`` from ``glossary.json``.
+
+
+.. py:function:: write_apparatus_pages(resources_dir: pathlib.Path | None = None, book_dir: pathlib.Path | None = None) -> list[pathlib.Path]
+
+   Compile all four apparatus RST files (`concordance`, `bibliography`, `persons`, `glossary`).
+
+
+.. py:function:: verify_codex_tracks(book_dir: pathlib.Path | None = None) -> dict[str, Any]
+
+   Verify that all 7 Codex units have all 4 synchronized tracks and zero Python construction code.
+
+

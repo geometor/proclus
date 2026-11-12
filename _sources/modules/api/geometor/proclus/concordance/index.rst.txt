@@ -1,0 +1,198 @@
+geometor.proclus.concordance
+============================
+
+.. py:module:: geometor.proclus.concordance
+
+.. autoapi-nested-parse::
+
+   Friedlein (1873) page-and-line concordance and section resolver for Proclus.
+
+
+
+Attributes
+----------
+
+.. autoapisummary::
+
+   geometor.proclus.concordance.CODEX_UNITS
+   geometor.proclus.concordance.CODEX_UNITS_BY_SLUG
+   geometor.proclus.concordance.FRIEDLEIN_SECTIONS
+
+
+Classes
+-------
+
+.. autoapisummary::
+
+   geometor.proclus.concordance.CodexUnitSpec
+   geometor.proclus.concordance.SectionSpec
+   geometor.proclus.concordance.FriedleinLocus
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.proclus.concordance.format_canonical_locus
+   geometor.proclus.concordance.parse_friedlein_locus
+   geometor.proclus.concordance.resolve_friedlein_section
+   geometor.proclus.concordance.default_resources_dir
+   geometor.proclus.concordance.load_concordance
+   geometor.proclus.concordance.load_sources_manifest
+   geometor.proclus.concordance.verify_concordance
+
+
+Module Contents
+---------------
+
+.. py:class:: CodexUnitSpec
+
+   Canonical unit in the Multi-Track Book Codex (`docsrc/in_euclidem/`).
+
+
+   .. py:attribute:: slug
+      :type:  str
+
+
+   .. py:attribute:: number_label
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: subtitle
+      :type:  str
+
+
+   .. py:attribute:: friedlein_start
+      :type:  int
+
+
+   .. py:attribute:: friedlein_end
+      :type:  int
+
+
+   .. py:attribute:: taylor_book
+      :type:  str
+
+
+.. py:class:: SectionSpec
+
+   Fine-grained section within Proclus's Commentary mapped by Friedlein page/line.
+
+
+   .. py:attribute:: unit_slug
+      :type:  str
+
+
+   .. py:attribute:: section_id
+      :type:  str
+
+
+   .. py:attribute:: title
+      :type:  str
+
+
+   .. py:attribute:: start_page
+      :type:  int
+
+
+   .. py:attribute:: start_line
+      :type:  int
+
+
+   .. py:attribute:: end_page
+      :type:  int
+
+
+   .. py:attribute:: end_line
+      :type:  int
+
+
+   .. py:attribute:: euclid_element
+      :type:  str | None
+      :value: None
+
+
+
+.. py:class:: FriedleinLocus
+
+   Normalized representation of a Friedlein (1873) page-and-line citation.
+
+
+   .. py:attribute:: raw
+      :type:  str
+
+
+   .. py:attribute:: start_page
+      :type:  int
+
+
+   .. py:attribute:: start_line
+      :type:  int | None
+
+
+   .. py:attribute:: end_page
+      :type:  int
+
+
+   .. py:attribute:: end_line
+      :type:  int | None
+
+
+   .. py:attribute:: canonical
+      :type:  str
+
+
+.. py:data:: CODEX_UNITS
+   :type:  tuple[CodexUnitSpec, ...]
+
+.. py:data:: CODEX_UNITS_BY_SLUG
+   :type:  dict[str, CodexUnitSpec]
+
+.. py:data:: FRIEDLEIN_SECTIONS
+   :type:  tuple[SectionSpec, ...]
+
+.. py:function:: format_canonical_locus(start_page: int, start_line: int | None, end_page: int, end_line: int | None) -> str
+
+   Format a normalized Friedlein citation string.
+
+
+.. py:function:: parse_friedlein_locus(locus: str, display_hint: str = '') -> FriedleinLocus
+
+   Parse a Friedlein (1873) page/line locus key into structured page and line bounds.
+
+   Handles standard Teubner citations (``"12.14-22"``, ``"103.21-107.10"``),
+   whole-page ranges (``"64-70"``, ``"399-400"``), compressed trailing-digit
+   page ranges (``"303-4"``, ``"323-6"``, ``"424-5"``), and Hoenen/Heath
+   shorthand keys (``"p97"``, ``"p185"``, ``"65-20"``, ``"189.190"``).
+
+
+.. py:function:: resolve_friedlein_section(page: int, line: int | None = None) -> SectionSpec
+
+   Resolve a Friedlein (1873) page and optional line number to its Codex section.
+
+
+.. py:function:: default_resources_dir() -> pathlib.Path
+
+   Return the default ``resources/in_euclidem`` directory path.
+
+
+.. py:function:: load_concordance(path: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load ``concordance.json``.
+
+
+.. py:function:: load_sources_manifest(path: pathlib.Path | None = None) -> dict[str, Any]
+
+   Load ``sources_manifest.json``.
+
+
+.. py:function:: verify_concordance(concordance_path: pathlib.Path | None = None, manifest_path: pathlib.Path | None = None, euclid_citations_path: pathlib.Path | None = None, hoenen_citations_path: pathlib.Path | None = None) -> dict[str, Any]
+
+   Verify concordance integrity, source SHA-256 hashes, and sibling citation coverage.
+
+

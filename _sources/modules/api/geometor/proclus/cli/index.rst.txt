@@ -1,0 +1,27 @@
+geometor.proclus.cli
+====================
+
+.. py:module:: geometor.proclus.cli
+
+.. autoapi-nested-parse::
+
+   Command-line interface for ``geometor-proclus``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.proclus.cli.main
+
+
+Module Contents
+---------------
+
+.. py:function:: main(argv: list[str] | None = None) -> int
+
+   Run the ``geometor-proclus`` CLI.
+
+

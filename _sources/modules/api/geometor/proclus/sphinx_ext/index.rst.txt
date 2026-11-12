@@ -1,0 +1,43 @@
+geometor.proclus.sphinx_ext
+===========================
+
+.. py:module:: geometor.proclus.sphinx_ext
+
+.. autoapi-nested-parse::
+
+   Runtime Sphinx & photon-platform/publish integration for GEOMETOR Proclus.
+
+   Registers the ``el`` ("Greek (1873)") companion track in ``photon_platform.publish.book``
+   at build time (without modifying ``photon-platform/publish``) and configures
+   offline-safe local intersphinx inventories for ``euclid``, ``elements``, and ``hoenen``.
+
+
+
+Functions
+---------
+
+.. autoapisummary::
+
+   geometor.proclus.sphinx_ext.register_greek_book_track
+   geometor.proclus.sphinx_ext.configure_local_intersphinx
+   geometor.proclus.sphinx_ext.setup
+
+
+Module Contents
+---------------
+
+.. py:function:: register_greek_book_track() -> None
+
+   Extend ``photon_platform.publish.book`` to recognize ``<stem>-el`` Greek tracks.
+
+
+.. py:function:: configure_local_intersphinx(intersphinx_mapping: dict[str, Any], project_root: pathlib.Path) -> None
+
+   Bind local ``objects.inv`` files for ``euclid``, ``elements``, and ``hoenen`` and drop unreachable remote-only targets.
+
+
+.. py:function:: setup(app: Any) -> dict[str, Any]
+
+   Sphinx extension entry point.
+
+
