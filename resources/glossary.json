@@ -1,0 +1,442 @@
+{
+  "ousia-mathematike": {
+    "headword": "ousia mathematike (οὐσία μαθηματική)",
+    "translation": "mathematical essence / being",
+    "term": "ousia mathematike",
+    "greek": "οὐσία μαθηματική",
+    "latin": "essentia mathematica",
+    "english": "mathematical essence / being",
+    "definition": "The intermediate ontological realm of mathematical objects: unmoved and exact unlike sensibles, yet pluralized and extended unlike pure indivisible Forms.",
+    "friedlein_loci": "3–5"
+  },
+  "metaxy": {
+    "headword": "metaxy / mesotes (μεταξύ / μεσότης)",
+    "translation": "intermediate status",
+    "term": "metaxy / mesotes",
+    "greek": "μεταξύ / μεσότης",
+    "latin": "medietas",
+    "english": "intermediate status",
+    "definition": "The middle rank occupied by mathematical reality and dianoia between pure Intellect (nous) and sense-perception/opinion (aisthesis/doxa).",
+    "friedlein_loci": "3–5, 10–11"
+  },
+  "peras": {
+    "headword": "peras (πέρας)",
+    "translation": "Limit",
+    "term": "peras",
+    "greek": "πέρας",
+    "latin": "terminus / finis",
+    "english": "Limit",
+    "definition": "First cosmic principle (from Plato's Philebus) bestowing boundary, definite ratio, symmetry, and intelligible form upon mathematical figures; also geometric extremity.",
+    "friedlein_loci": "5–7, 136"
+  },
+  "apeiron": {
+    "headword": "apeiron (ἄπειρον)",
+    "translation": "the Unlimited / Indefinite",
+    "term": "apeiron",
+    "greek": "ἄπειρον",
+    "latin": "infinitum",
+    "english": "the Unlimited / Indefinite",
+    "definition": "Complementary cosmic principle supplying inexhaustible progression, continuous divisibility, multiplicity, and infinite extendibility in magnitude and number.",
+    "friedlein_loci": "5–7, 185, 278"
+  },
+  "nous": {
+    "headword": "nous (νοῦς)",
+    "translation": "Intellect",
+    "term": "nous",
+    "greek": "νοῦς",
+    "latin": "intellectus",
+    "english": "Intellect",
+    "definition": "Supreme intuitive intelligence contemplating simple, partless, unextended archetypal Forms prior to discursive unfolding.",
+    "friedlein_loci": "3–4, 10–18"
+  },
+  "dianoia": {
+    "headword": "dianoia (διάνοια)",
+    "translation": "discursive understanding",
+    "term": "dianoia",
+    "greek": "διάνοια",
+    "latin": "ratio discursiva",
+    "english": "discursive understanding",
+    "definition": "The specifically mathematical faculty of the soul, unfolding innate intelligible logoi step-by-step from principles to conclusions.",
+    "friedlein_loci": "3–4, 10–18, 51–57"
+  },
+  "doxa": {
+    "headword": "doxa (δόξα)",
+    "translation": "opinion",
+    "term": "doxa",
+    "greek": "δόξα",
+    "latin": "opinio",
+    "english": "opinion",
+    "definition": "Cognitive faculty directed toward mutable sensible things, lacking knowledge of Demonstrative Causes (aitiai).",
+    "friedlein_loci": "3–4, 11"
+  },
+  "phantasia": {
+    "headword": "phantasia (φαντασία)",
+    "translation": "mathematical imagination",
+    "term": "phantasia",
+    "greek": "φαντασία",
+    "latin": "imaginatio / phantasia",
+    "english": "mathematical imagination",
+    "definition": "Formative intellective-imaginative screen ('passive nous') onto which dianoia projects universal logoi as extended, divisible, yet exact geometric figures.",
+    "friedlein_loci": "51–57, 78–79, 141"
+  },
+  "hyle-noete": {
+    "headword": "hyle noete (ὕλη νοητή)",
+    "translation": "intelligible / imaginative matter",
+    "term": "hyle noete",
+    "greek": "ὕλη νοητή",
+    "latin": "materia intelligibilis",
+    "english": "intelligible / imaginative matter",
+    "definition": "Aristotelian term reinterpreted by Proclus as the pure spatial extension in phantasia individualizing plural congruent circles and triangles; central to Hoenen's Caput IV.",
+    "friedlein_loci": "48–54"
+  },
+  "probole": {
+    "headword": "probole (προβολή)",
+    "translation": "projection",
+    "term": "probole",
+    "greek": "προβολή",
+    "latin": "proiectio",
+    "english": "projection",
+    "definition": "The active projection by which dianoia unfolds its partless internal reason-principles onto the mirror-like screen of phantasia to examine their properties.",
+    "friedlein_loci": "51–56, 78–79, 141"
+  },
+  "hysterogenes": {
+    "headword": "hysterogenes (ὑστερογενής)",
+    "translation": "later-born / abstracted universal",
+    "term": "hysterogenes",
+    "greek": "ὑστερογενής",
+    "latin": "posterius genitus",
+    "english": "later-born / abstracted universal",
+    "definition": "Concept formed empirically a posteriori from sense-objects; rejected by Proclus for mathematics because sensibles lack exactness and necessity.",
+    "friedlein_loci": "12–15, 50"
+  },
+  "anamnesis": {
+    "headword": "anamnesis (ἀνάμνησις)",
+    "translation": "recollection",
+    "term": "anamnesis",
+    "greek": "ἀνάμνησις",
+    "latin": "reminiscentia",
+    "english": "recollection",
+    "definition": "Platonic awakening of the soul's substantial mathematical logoi from within, illustrated by the Meno's doubling of the square.",
+    "friedlein_loci": "44–46"
+  },
+  "stoicheion": {
+    "headword": "stoicheion (στοιχεῖον)",
+    "translation": "element",
+    "term": "stoicheion",
+    "greek": "στοιχεῖον",
+    "latin": "elementum",
+    "english": "element",
+    "definition": "A foundational proposition whose mastery pervades and unlocks the demonstration of many subsequent theorems, as letters compose speech.",
+    "friedlein_loci": "71–74"
+  },
+  "stoicheiosis": {
+    "headword": "stoicheiosis (στοιχείωσις)",
+    "translation": "elementary treatise / axiomatic system",
+    "term": "stoicheiosis",
+    "greek": "στοιχείωσις",
+    "latin": "elementatio",
+    "english": "elementary treatise / axiomatic system",
+    "definition": "Systematic deductive arrangement ascending from first principles through elementary propositions to the capstone of a science.",
+    "friedlein_loci": "70–75, 84, 432"
+  },
+  "horos": {
+    "headword": "horos (ὅρος)",
+    "translation": "definition / boundary",
+    "term": "horos",
+    "greek": "ὅρος",
+    "latin": "definitio / terminus",
+    "english": "definition / boundary",
+    "definition": "Both a conceptual definition delimiting an essence (Defs. 1–23) and the geometric boundary enclosing a figure (Def. 13).",
+    "friedlein_loci": "76, 85, 136–137"
+  },
+  "hypothesis": {
+    "headword": "hypothesis (ὑπόθεσις)",
+    "translation": "hypothesis",
+    "term": "hypothesis",
+    "greek": "ὑπόθεσις",
+    "latin": "hypothesis / suppositio",
+    "english": "hypothesis",
+    "definition": "An unproved assumption posited by the teacher and conceded by the learner as the starting point of demonstration.",
+    "friedlein_loci": "75–77, 178–184"
+  },
+  "aitema": {
+    "headword": "aitema (αἴτημα)",
+    "translation": "postulate",
+    "term": "aitema",
+    "greek": "αἴτημα",
+    "latin": "postulatum / petitio",
+    "english": "postulate",
+    "definition": "A constructive geometric demand (Posts. 1–5) whose subject-matter is easy to contrive or grant without prior demonstration.",
+    "friedlein_loci": "178–193"
+  },
+  "axioma": {
+    "headword": "axioma / koine ennoia (ἀξίωμα / κοινὴ ἔννοια)",
+    "translation": "axiom / common notion",
+    "term": "axioma / koine ennoia",
+    "greek": "ἀξίωμα / κοινὴ ἔννοια",
+    "latin": "axioma / communis animi conceptio",
+    "english": "axiom / common notion",
+    "definition": "An indemonstrable, self-evident truth common to multiple sciences (e.g. 'things equal to the same are equal to one another').",
+    "friedlein_loci": "76, 178–184, 193–198"
+  },
+  "problema": {
+    "headword": "problema (πρόβλημα)",
+    "translation": "problem",
+    "term": "problema",
+    "greek": "πρόβλημα",
+    "latin": "problema",
+    "english": "problem",
+    "definition": "A proposition proposing the constructive generation, division, or placement of a geometric figure not yet brought to view (ending 'what it was required to do').",
+    "friedlein_loci": "77–81, 200–202, 241–243"
+  },
+  "theorema": {
+    "headword": "theorema (θεώρημα)",
+    "translation": "theorem",
+    "term": "theorema",
+    "greek": "θεώρημα",
+    "latin": "theorema",
+    "english": "theorem",
+    "definition": "A proposition demonstrating an essential attribute belonging per se to a given geometric figure (ending 'what it was required to prove').",
+    "friedlein_loci": "77–81, 200–202, 241–243"
+  },
+  "protasis": {
+    "headword": "protasis (πρότασις)",
+    "translation": "enunciation (1st of 6 parts)",
+    "term": "protasis",
+    "greek": "πρότασις",
+    "latin": "propositio",
+    "english": "enunciation (1st of 6 parts)",
+    "definition": "Universal statement declaring what is given and what is sought, prior to any lettered diagram.",
+    "friedlein_loci": "203–204"
+  },
+  "ekthesis": {
+    "headword": "ekthesis (ἔκθεσις)",
+    "translation": "setting-out (2nd of 6 parts)",
+    "term": "ekthesis",
+    "greek": "ἔκθεσις",
+    "latin": "expositio",
+    "english": "setting-out (2nd of 6 parts)",
+    "definition": "Instantiating the given of the enunciation in a concrete lettered figure in phantasia ('Let AB be the given finite straight line...').",
+    "friedlein_loci": "203–207"
+  },
+  "diorismos": {
+    "headword": "diorismos (διορισμός)",
+    "translation": "specification / condition of possibility (3rd of 6 parts)",
+    "term": "diorismos",
+    "greek": "διορισμός",
+    "latin": "determinatio",
+    "english": "specification / condition of possibility (3rd of 6 parts)",
+    "definition": "In theorems/problems, restating the sought goal on the set-out figure; in problems like I.22, also the necessary and sufficient condition for solvability.",
+    "friedlein_loci": "66–67, 203–205, 330–331"
+  },
+  "kataskeue": {
+    "headword": "kataskeue (κατασκευή)",
+    "translation": "machinery / construction (4th of 6 parts)",
+    "term": "kataskeue",
+    "greek": "κατασκευή",
+    "latin": "constructio",
+    "english": "machinery / construction (4th of 6 parts)",
+    "definition": "Auxiliary lines and circles drawn via postulates and earlier problems to prepare the figure for demonstration.",
+    "friedlein_loci": "203–207"
+  },
+  "apodeixis": {
+    "headword": "apodeixis (ἀπόδειξις)",
+    "translation": "scientific demonstration (5th of 6 parts)",
+    "term": "apodeixis",
+    "greek": "ἀπόδειξις",
+    "latin": "demonstratio",
+    "english": "scientific demonstration (5th of 6 parts)",
+    "definition": "Syllogistic deduction inferring the sought attribute or construction validity from first principles through essential causes (aitiai).",
+    "friedlein_loci": "203–207"
+  },
+  "symperasma": {
+    "headword": "symperasma (συμπέρασμα)",
+    "translation": "conclusion (6th of 6 parts)",
+    "term": "symperasma",
+    "greek": "συμπέρασμα",
+    "latin": "conclusio",
+    "english": "conclusion (6th of 6 parts)",
+    "definition": "Re-ascending from the particular lettered diagram back to the universal truth of the enunciation, sealed by Q.E.F. or Q.E.D.",
+    "friedlein_loci": "203–207"
+  },
+  "lemma": {
+    "headword": "lemma (λῆμμα)",
+    "translation": "auxiliary proposition",
+    "term": "lemma",
+    "greek": "λῆμμα",
+    "latin": "lemma",
+    "english": "auxiliary proposition",
+    "definition": "A proposition assumed in a proof while requiring independent confirmation elsewhere.",
+    "friedlein_loci": "73, 211"
+  },
+  "ptosis": {
+    "headword": "ptosis (πτῶσις)",
+    "translation": "geometric case",
+    "term": "ptosis",
+    "greek": "πτῶσις",
+    "latin": "casus",
+    "english": "geometric case",
+    "definition": "Positional variation of a construction (e.g. point inside, on, or outside a figure) requiring distinct verification of the same theorem.",
+    "friedlein_loci": "212, 221"
+  },
+  "porisma": {
+    "headword": "porisma (πόρισμα)",
+    "translation": "porism / corollary",
+    "term": "porisma",
+    "greek": "πόρισμα",
+    "latin": "porisma / corollarium",
+    "english": "porism / corollary",
+    "definition": "Either (1) an incidental gain emerging unbidden from a demonstration (as I.15 Porism), or (2) finding an existing geometric entity intermediate between problem and theorem.",
+    "friedlein_loci": "212, 301–305"
+  },
+  "enstasis": {
+    "headword": "enstasis (ἔνστασις)",
+    "translation": "logical objection",
+    "term": "enstasis",
+    "greek": "ἔνστασις",
+    "latin": "instantia",
+    "english": "logical objection",
+    "definition": "A counter-argument blocking either a geometric construction or a step of demonstration (e.g. Zeno of Sidon against I.1).",
+    "friedlein_loci": "212–213, 214"
+  },
+  "apagoge": {
+    "headword": "apagoge (ἀπαγωγή)",
+    "translation": "geometric reduction",
+    "term": "apagoge",
+    "greek": "ἀπαγωγή",
+    "latin": "reductio",
+    "english": "geometric reduction",
+    "definition": "Transition from a harder problem or theorem to another whose solution immediately yields the proposed goal (e.g. Hippocrates on duplicating the cube).",
+    "friedlein_loci": "212–213"
+  },
+  "adynaton": {
+    "headword": "apagoge eis adynaton (ἀπαγωγὴ εἰς ἀδύνατον)",
+    "translation": "reduction to the impossible",
+    "term": "apagoge eis adynaton",
+    "greek": "ἀπαγωγὴ εἰς ἀδύνατον",
+    "latin": "reductio ad absurdum",
+    "english": "reduction to the impossible",
+    "definition": "Indirect proof assuming the contradictory of the sought conclusion to deduce the overthrow of a conceded axiom, hypothesis, or prior theorem.",
+    "friedlein_loci": "254–256"
+  },
+  "analysis": {
+    "headword": "analysis (ἀνάλυσις)",
+    "translation": "geometric analysis",
+    "term": "analysis",
+    "greek": "ἀνάλυσις",
+    "latin": "analysis",
+    "english": "geometric analysis",
+    "definition": "Upward path assuming the thing sought as granted and tracing consequences back to an admitted principle; transmitted by Plato to Leodamas.",
+    "friedlein_loci": "43, 66–67, 211, 255"
+  },
+  "synthesis": {
+    "headword": "synthesis (σύνθεσις)",
+    "translation": "geometric synthesis",
+    "term": "synthesis",
+    "greek": "σύνθεσις",
+    "latin": "synthesis",
+    "english": "geometric synthesis",
+    "definition": "Downward deductive path proceeding from admitted principles through intermediate steps to the conclusion.",
+    "friedlein_loci": "43, 211, 255"
+  },
+  "antistrophe": {
+    "headword": "antistrophe (ἀντιστροφή)",
+    "translation": "geometric conversion",
+    "term": "antistrophe",
+    "greek": "ἀντιστροφή",
+    "latin": "conversio",
+    "english": "geometric conversion",
+    "definition": "Interchanging hypothesis and conclusion between leading (proegoumenon) and converse (antistrophon) theorems, either completely or partially.",
+    "friedlein_loci": "252–254, 407"
+  },
+  "epharmoge": {
+    "headword": "epharmoge (ἐφαρμογή)",
+    "translation": "superposition / coincidence",
+    "term": "epharmoge",
+    "greek": "ἐφαρμογή",
+    "latin": "superpositio / congruentia",
+    "english": "superposition / coincidence",
+    "definition": "Fitting one geometric magnitude onto another in imagination without physical distortion (CN 4, Prop. I.4, I.8).",
+    "friedlein_loci": "188, 196, 234–240"
+  },
+  "rhysis": {
+    "headword": "rhysis (ῥύσις)",
+    "translation": "generative flux",
+    "term": "rhysis",
+    "greek": "ῥύσις",
+    "latin": "fluxus",
+    "english": "generative flux",
+    "definition": "Unextended motion of a point generating a line, or uniform undeviating flux generating a straight line (cited in Greek by Hoenen at p. 121).",
+    "friedlein_loci": "97, 100, 185"
+  },
+  "homoiomeres": {
+    "headword": "homoiomeres (ὁμοιομερής)",
+    "translation": "homoeomeric / uniform in all parts",
+    "term": "homoiomeres",
+    "greek": "ὁμοιομερής",
+    "latin": "uniformis / homoeomeris",
+    "english": "homoeomeric / uniform in all parts",
+    "definition": "A curve every part of which coincides with every other part: proved by Geminus to comprise solely the straight line, circle, and cylindrical helix.",
+    "friedlein_loci": "105, 112"
+  },
+  "keratoeides": {
+    "headword": "keratoeides gonia (κερατοειδὴς γωνία)",
+    "translation": "horn angle",
+    "term": "keratoeides gonia",
+    "greek": "κερατοειδὴς γωνία",
+    "latin": "angulus cornicularis",
+    "english": "horn angle",
+    "definition": "Curvilinear-rectilinear angle between a circle and its tangent, smaller than every acute rectilinear angle yet non-zero—challenging Archimedean magnitude.",
+    "friedlein_loci": "121–127"
+  },
+  "gnomon": {
+    "headword": "kata gnomona (κατὰ γνώμονα)",
+    "translation": "gnomon-wise (perpendicular)",
+    "term": "kata gnomona",
+    "greek": "κατὰ γνώμονα",
+    "latin": "ad gnomonem / perpendiculariter",
+    "english": "gnomon-wise (perpendicular)",
+    "definition": "Oenopides of Chios's archaic astronomical name for the perpendicular (Prop. I.12), drawn from the upright sundial pointer.",
+    "friedlein_loci": "283"
+  },
+  "topikon-theorema": {
+    "headword": "topikon theorema (τοπικὸν θεώρημα)",
+    "translation": "locus theorem",
+    "term": "topikon theorema",
+    "greek": "τοπικὸν θεώρημα",
+    "latin": "theorema locale",
+    "english": "locus theorem",
+    "definition": "Theorem invariant across an infinite locus of positions—inaugurated in the Elements by Prop. I.35 (equal parallelograms between parallel lines).",
+    "friedlein_loci": "394–396"
+  },
+  "parabole": {
+    "headword": "parabole (παραβολή)",
+    "translation": "application of areas (exact)",
+    "term": "parabole",
+    "greek": "παραβολή",
+    "latin": "applicatio spatiorum",
+    "english": "application of areas (exact)",
+    "definition": "Pythagorean construction applying a given area exactly along a given segment (Prop. I.44); transferred by Apollonius to the parabola.",
+    "friedlein_loci": "419–420"
+  },
+  "hyperbole": {
+    "headword": "hyperbole (ὑπερβολή)",
+    "translation": "exceeding in application of areas",
+    "term": "hyperbole",
+    "greek": "ὑπερβολή",
+    "latin": "excessus",
+    "english": "exceeding in application of areas",
+    "definition": "Applying an area along a line so as to overlap beyond its extremity by a similar figure; origin of the name of the hyperbola.",
+    "friedlein_loci": "419–420"
+  },
+  "elleipsis": {
+    "headword": "elleipsis (ἔλλειψις)",
+    "translation": "falling-short in application of areas",
+    "term": "elleipsis",
+    "greek": "ἔλλειψις",
+    "latin": "defectus",
+    "english": "falling-short in application of areas",
+    "definition": "Applying an area along a line so as to fall short of its extremity by a similar figure; origin of the name of the ellipse.",
+    "friedlein_loci": "419–420"
+  }
+}

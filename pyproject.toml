@@ -1,0 +1,43 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "geometor-proclus"
+authors = [{name = "phi ARCHITECT", email = "phi@geometor.com"}]
+description = "Scholarly Multi-Track Book Codex and Friedlein citation concordance of Proclus Diadochus's Commentary on the First Book of Euclid's Elements (c. 470 AD)."
+readme = "README.rst"
+requires-python = ">=3.13"
+license = {text = "MIT"}
+dynamic = ["version"]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "ruff",
+]
+
+[project.scripts]
+geometor-proclus = "geometor.proclus.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["geometor"]
+namespaces = true
+
+[tool.setuptools.dynamic]
+version = {attr = "geometor.proclus.__version__"}
+
+[project.urls]
+"Website" = "https://geometor.github.io/proclus"
+"Repository" = "https://github.com/geometor/proclus"
+"Issues" = "https://github.com/geometor/proclus/issues"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py313"

@@ -1,0 +1,542 @@
+{
+  "thales": {
+    "name": "Thales of Miletus",
+    "greek": "Θαλῆς ὁ Μιλήσιος",
+    "dates": "c. 624–546 BC",
+    "sort_year": -600,
+    "era": "classical",
+    "role": "Founder of Greek demonstrative geometry",
+    "summary": "First brought geometry from Egypt to Hellas; credited via Eudemus with bisecting the circle by its diameter (Def. 17), equality of isosceles base angles (I.5), equality of vertical angles (I.15), and ASA congruence for ship distances at sea (I.26)",
+    "friedlein_loci": "65, 157, 250, 299, 352"
+  },
+  "mamercus": {
+    "name": "Mamercus (Ameristus)",
+    "greek": "Μάμερκος",
+    "dates": "6th cent. BC",
+    "sort_year": -560,
+    "era": "classical",
+    "role": "Early Greek geometer",
+    "summary": "Brother of the poet Stesichorus; remembered in the Eudemian Summary for acquiring great fame through his zeal for geometry",
+    "friedlein_loci": "65"
+  },
+  "pythagoras": {
+    "name": "Pythagoras of Samos",
+    "greek": "Πυθαγόρας",
+    "dates": "c. 570–495 BC",
+    "sort_year": -530,
+    "era": "classical",
+    "role": "Philosopher & founder of Pythagorean mathematics",
+    "summary": "Transformed geometry into a liberal philosophical discipline, investigating first principles intellectually and discovering cosmic figures and proportionals; credited by tradition with I.47",
+    "friedlein_loci": "35, 65, 426–428"
+  },
+  "anaxagoras": {
+    "name": "Anaxagoras of Clazomenae",
+    "greek": "Ἀναξαγόρας",
+    "dates": "c. 500–428 BC",
+    "sort_year": -460,
+    "era": "classical",
+    "role": "Presocratic philosopher & geometer",
+    "summary": "Touched upon many questions belonging to geometry after Pythagoras, according to the Eudemian Summary",
+    "friedlein_loci": "65"
+  },
+  "oenopides": {
+    "name": "Oenopides of Chios",
+    "greek": "Οἰνοπίδης ὁ Χῖος",
+    "dates": "fl. c. 450 BC",
+    "sort_year": -450,
+    "era": "classical",
+    "role": "Astronomer & geometer",
+    "summary": "Slightly younger than Anaxagoras; first investigated dropping a perpendicular (I.12, calling it kata gnomona) and copying a rectilinear angle (I.23), and distinguished theorems from problems",
+    "friedlein_loci": "65–66, 80, 283, 333"
+  },
+  "hippocrates-of-chios": {
+    "name": "Hippocrates of Chios",
+    "greek": "Ἱπποκράτης ὁ Χῖος",
+    "dates": "fl. c. 440 BC",
+    "sort_year": -440,
+    "era": "classical",
+    "role": "Author of the first Elements & squarer of lunes",
+    "summary": "Discovered the quadrature of lunes, pioneered geometric reduction (apagoge, reducing cube duplication to two mean proportionals), and was the first recorded composer of Elements",
+    "friedlein_loci": "66, 213"
+  },
+  "theodorus": {
+    "name": "Theodorus of Cyrene",
+    "greek": "Θεόδωρος ὁ Κυρηναῖος",
+    "dates": "c. 465–398 BC",
+    "sort_year": -430,
+    "era": "classical",
+    "role": "Geometer & teacher of Plato and Theaetetus",
+    "summary": "Eminent in geometry alongside Hippocrates of Chios; famed for proving the irrationality of non-square surds up to 17",
+    "friedlein_loci": "66"
+  },
+  "hippias": {
+    "name": "Hippias of Elis",
+    "greek": "Ἱππίας ὁ Ἠλεῖος",
+    "dates": "5th cent. BC",
+    "sort_year": -425,
+    "era": "classical",
+    "role": "Discoverer of the quadratrix",
+    "summary": "Invented the quadratrix (tetragonizousa) curve used for trisecting rectilinear angles and squaring the circle",
+    "friedlein_loci": "272, 356"
+  },
+  "protagoras": {
+    "name": "Protagoras of Abdera",
+    "greek": "Πρωταγόρας",
+    "dates": "c. 490–420 BC",
+    "sort_year": -445,
+    "era": "classical",
+    "role": "Sophist & empiricist critic of geometry",
+    "summary": "Argued against geometers that a physical circle touches a straightedge along a line rather than at a single point; refuted by Proclus and cited by Hoenen",
+    "friedlein_loci": "139–140"
+  },
+  "plato": {
+    "name": "Plato",
+    "greek": "Πλάτων",
+    "dates": "c. 428–348 BC",
+    "sort_year": -390,
+    "era": "classical",
+    "role": "Founder of the Athenian Academy",
+    "summary": "Catalyzed the greatest advance in mathematics and geometry; formulated the Divided Line, recollection, analytical method (transmitted to Leodamas), optical straight-line definition, and even-number right-triangle rule",
+    "friedlein_loci": "3–46, 66, 109, 211, 428"
+  },
+  "leodamas": {
+    "name": "Leodamas of Thasos",
+    "greek": "Λεωδάμας ὁ Θάσιος",
+    "dates": "fl. c. 380 BC",
+    "sort_year": -385,
+    "era": "classical",
+    "role": "Academic geometer",
+    "summary": "Contemporary of Archytas and Theaetetus; received the method of geometric analysis from Plato, discovering many things in geometry",
+    "friedlein_loci": "66, 211"
+  },
+  "archytas": {
+    "name": "Archytas of Tarentum",
+    "greek": "Ἀρχύτας ὁ Ταραντῖνος",
+    "dates": "c. 428–347 BC",
+    "sort_year": -385,
+    "era": "classical",
+    "role": "Pythagorean statesman, mathematician & mechanician",
+    "summary": "Increased the number of theorems and brought them into a more scientific arrangement alongside Leodamas and Theaetetus",
+    "friedlein_loci": "66"
+  },
+  "theaetetus": {
+    "name": "Theaetetus of Athens",
+    "greek": "Θεαίτητος ὁ Ἀθηναῖος",
+    "dates": "c. 417–369 BC",
+    "sort_year": -380,
+    "era": "classical",
+    "role": "Geometer of irrationals and regular solids",
+    "summary": "Co-architect of Book X irrationals and Book XIII cosmic polyhedra; honored in the Eudemian Summary",
+    "friedlein_loci": "66–67"
+  },
+  "neoclides": {
+    "name": "Neoclides",
+    "greek": "Νεοκλείδης",
+    "dates": "fl. c. 375 BC",
+    "sort_year": -375,
+    "era": "classical",
+    "role": "Academic geometer",
+    "summary": "Younger than Leodamas and teacher of Leon; added many discoveries to those of his predecessors",
+    "friedlein_loci": "66"
+  },
+  "leon": {
+    "name": "Leon",
+    "greek": "Λέων",
+    "dates": "fl. c. 370 BC",
+    "sort_year": -370,
+    "era": "classical",
+    "role": "Composer of Elements & discoverer of diorismoi",
+    "summary": "Pupil of Neoclides who composed more careful Elements and discovered diorismoi determining when a sought problem is possible or impossible",
+    "friedlein_loci": "66–67"
+  },
+  "speusippus": {
+    "name": "Speusippus",
+    "greek": "Σπεύσιππος",
+    "dates": "c. 408–339 BC",
+    "sort_year": -368,
+    "era": "classical",
+    "role": "Nephew of Plato & second scholarch of the Academy",
+    "summary": "Maintained against Menaechmus that all geometric propositions should be called 'theorems' rather than 'problems' because eternal objects have no temporal generation",
+    "friedlein_loci": "77–78, 179, 181, 200"
+  },
+  "xenocrates": {
+    "name": "Xenocrates of Chalcedon",
+    "greek": "Ξενοκράτης",
+    "dates": "c. 396–314 BC",
+    "sort_year": -360,
+    "era": "classical",
+    "role": "Third scholarch of the Academy",
+    "summary": "Advocated indivisible lines (atomoi grammai), whose geometric impossibility Proclus demonstrates from Prop. I.10 (bisection of every finite segment)",
+    "friedlein_loci": "277–279"
+  },
+  "eudoxus": {
+    "name": "Eudoxus of Cnidus",
+    "greek": "Εὔδοξος ὁ Κνίδιος",
+    "dates": "c. 390–337 BC",
+    "sort_year": -365,
+    "era": "classical",
+    "role": "Architect of the general theory of proportion & exhaustion",
+    "summary": "Associate of Plato's circle; first increased the number of general theorems, added three proportions, and extended Plato's inquiries on 'the section' using analysis",
+    "friedlein_loci": "67"
+  },
+  "amyclas": {
+    "name": "Amyclas of Heraclea",
+    "greek": "Ἀμύκλας ὁ Ἡρακλεώτης",
+    "dates": "4th cent. BC",
+    "sort_year": -355,
+    "era": "classical",
+    "role": "Platonic geometer",
+    "summary": "Associate of Plato who collaborated in the Academy to perfect geometric science",
+    "friedlein_loci": "67"
+  },
+  "menaechmus": {
+    "name": "Menaechmus",
+    "greek": "Μέναιχμος",
+    "dates": "fl. c. 350 BC",
+    "sort_year": -350,
+    "era": "classical",
+    "role": "Pupil of Eudoxus & discoverer of the conic sections",
+    "summary": "Analyzed the dual meaning of 'element' (stoicheion), defended 'problems' alongside 'theorems', and developed the theory of geometric conversion",
+    "friedlein_loci": "67, 72–73, 78, 181, 254"
+  },
+  "dinostratus": {
+    "name": "Dinostratus",
+    "greek": "Δεινόστρατος",
+    "dates": "fl. c. 350 BC",
+    "sort_year": -349,
+    "era": "classical",
+    "role": "Brother of Menaechmus & geometer",
+    "summary": "Applied the quadratrix to the squaring of the circle and perfected geometry in the Academy",
+    "friedlein_loci": "67"
+  },
+  "amphinomus": {
+    "name": "Amphinomus",
+    "greek": "Ἀμφίνομος",
+    "dates": "4th cent. BC",
+    "sort_year": -348,
+    "era": "classical",
+    "role": "Academic mathematician",
+    "summary": "Joined Speusippus on theorems vs. problems and collaborated with Menaechmus on the logic of convertible theorems",
+    "friedlein_loci": "77, 181, 200, 202, 254"
+  },
+  "theudius": {
+    "name": "Theudius of Magnesia",
+    "greek": "Θεύδιος ὁ Μάγνης",
+    "dates": "4th cent. BC",
+    "sort_year": -345,
+    "era": "classical",
+    "role": "Pre-Euclidean composer of the Academy's Elements",
+    "summary": "Arranged the Elements admirably and generalized many partial propositions",
+    "friedlein_loci": "67"
+  },
+  "athenaeus": {
+    "name": "Athenaeus of Cyzicus",
+    "greek": "Ἀθήναιος ὁ Κυζικηνός",
+    "dates": "4th cent. BC",
+    "sort_year": -342,
+    "era": "classical",
+    "role": "Academic mathematician",
+    "summary": "Lived in the Academy with Eudoxus's successors and became eminent in geometry and the other mathematical sciences",
+    "friedlein_loci": "67"
+  },
+  "hermotimus": {
+    "name": "Hermotimus of Colophon",
+    "greek": "Ἑρμότιμος ὁ Κολοφώνιος",
+    "dates": "4th cent. BC",
+    "sort_year": -340,
+    "era": "classical",
+    "role": "Geometer & pioneer of Loci",
+    "summary": "Pursued the investigations begun by Eudoxus and Theaetetus, discovered many elements, and composed treatises on Loci",
+    "friedlein_loci": "67"
+  },
+  "philippus": {
+    "name": "Philippus of Medma (Mende)",
+    "greek": "Φίλιππος ὁ Μεδμαῖος",
+    "dates": "fl. c. 340 BC",
+    "sort_year": -338,
+    "era": "classical",
+    "role": "Disciple of Plato & astronomer-geometer",
+    "summary": "Carried out geometric investigations according to Plato's instructions; marks the endpoint of Eudemus's chronicle",
+    "friedlein_loci": "67–68, 307"
+  },
+  "aristotle": {
+    "name": "Aristotle",
+    "greek": "Ἀριστοτέλης",
+    "dates": "384–322 BC",
+    "sort_year": -350,
+    "era": "classical",
+    "role": "Founder of the Lyceum & theorist of apodictic demonstration",
+    "summary": "Formulated the epistemology of axioms, postulates, and hypotheses, commensurately universal demonstration, and 'intelligible matter'; critiqued by Proclus on abstraction",
+    "friedlein_loci": "12–16, 48–53, 64, 75–76, 139, 178–183, 371, 381"
+  },
+  "eudemus": {
+    "name": "Eudemus of Rhodes",
+    "greek": "Εὔδημος ὁ Ῥόδιος",
+    "dates": "c. 370–300 BC",
+    "sort_year": -325,
+    "era": "classical",
+    "role": "Peripatetic historian of geometry, arithmetic & astronomy",
+    "summary": "Pupil of Aristotle whose lost History of Geometry is Proclus's primary source for pre-Euclidean geometry, Thales, Oenopides, the Pythagorean angle-sum proof, and application of areas",
+    "friedlein_loci": "64–70, 125, 157, 250, 299, 333, 352, 379, 419"
+  },
+  "euclid": {
+    "name": "Euclid",
+    "greek": "Εὐκλείδης",
+    "dates": "fl. c. 300 BC",
+    "sort_year": -300,
+    "era": "hellenistic",
+    "role": "Author of the Elements (ὁ Στοιχειωτής)",
+    "summary": "Synthesized the Elements under Ptolemy I, bringing to irrefutable demonstration what predecessors had proved loosely; revered by Proclus as Platonic by philosophical conviction",
+    "friedlein_loci": "68–84, 208–432"
+  },
+  "archimedes": {
+    "name": "Archimedes of Syracuse",
+    "greek": "Ἀρχιμήδης",
+    "dates": "c. 287–212 BC",
+    "sort_year": -250,
+    "era": "hellenistic",
+    "role": "Supreme Hellenistic geometer & mechanician",
+    "summary": "Synchronism with Eratosthenes noted at p. 68; cited for shortest-path straight line definition, spirals, Equilibria of Planes, and crown hydrostatics",
+    "friedlein_loci": "63, 68, 104, 110, 181, 272"
+  },
+  "eratosthenes": {
+    "name": "Eratosthenes of Cyrene",
+    "greek": "Ἐρατοσθένης",
+    "dates": "c. 276–194 BC",
+    "sort_year": -240,
+    "era": "hellenistic",
+    "role": "Mathematician, geographer & Alexandrian librarian",
+    "summary": "Cited as contemporary of Archimedes and critic of the nature of proportion as the bond of mathematics",
+    "friedlein_loci": "7, 43, 68"
+  },
+  "nicomedes": {
+    "name": "Nicomedes",
+    "greek": "Νικομήδης",
+    "dates": "3rd cent. BC",
+    "sort_year": -225,
+    "era": "hellenistic",
+    "role": "Discoverer of the conchoid curves",
+    "summary": "Invented the conchoidal lines (konchoeideis), cited by Geminus and Proclus both for angle trisection and as asymptotic curves that approach a line forever without meeting",
+    "friedlein_loci": "111, 177, 272"
+  },
+  "apollonius": {
+    "name": "Apollonius of Perga",
+    "greek": "Ἀπολλώνιος ὁ Περγαῖος",
+    "dates": "c. 240–190 BC",
+    "sort_year": -210,
+    "era": "hellenistic",
+    "role": "The 'Great Geometer' & author of the Conics",
+    "summary": "Transferred Pythagorean application-of-areas terms (parabola, hyperbola, ellipse) to conic sections; proposed alternative proofs for Common Notion 1 and Props. I.10, I.11, I.23",
+    "friedlein_loci": "71, 100, 183, 194, 279, 282, 335, 419"
+  },
+  "perseus": {
+    "name": "Perseus",
+    "greek": "Περσεύς",
+    "dates": "2nd cent. BC",
+    "sort_year": -175,
+    "era": "hellenistic",
+    "role": "Discoverer of the spiric sections",
+    "summary": "Investigated the three plane sections of the torus (speira), commemorated in an epigram preserved by Proclus",
+    "friedlein_loci": "111–112"
+  },
+  "philo": {
+    "name": "Philo of Byzantium",
+    "greek": "Φίλων ὁ Βυζάντιος",
+    "dates": "c. 280–220 BC",
+    "sort_year": -230,
+    "era": "hellenistic",
+    "role": "Mechanician & geometer",
+    "summary": "Devised a celebrated direct three-case proof of SSS triangle congruence (Prop. I.8) bypassing Euclid's Prop. I.7",
+    "friedlein_loci": "266–268"
+  },
+  "zeno-of-sidon": {
+    "name": "Zeno of Sidon",
+    "greek": "Ζήνων ὁ Σιδώνιος",
+    "dates": "c. 150–75 BC",
+    "sort_year": -100,
+    "era": "hellenistic",
+    "role": "Epicurean philosopher & foundational critic of Euclid",
+    "summary": "Accepted Euclid's principles solely to argue that Prop. I.1 still fails unless one also postulates that two straight lines (or circles) cannot share a common segment",
+    "friedlein_loci": "199–200, 214–218"
+  },
+  "posidonius": {
+    "name": "Posidonius of Apamea",
+    "greek": "Ποσειδώνιος",
+    "dates": "c. 135–51 BC",
+    "sort_year": -85,
+    "era": "hellenistic",
+    "role": "Stoic polymath & defender of Euclidean foundations",
+    "summary": "Wrote a dedicated treatise refuting Zeno of Sidon; proposed enclosing-limit definition of figure, equidistant definition of parallels, and sevenfold classification of quadrilaterals",
+    "friedlein_loci": "80, 143, 170, 176, 200, 214–218"
+  },
+  "geminus": {
+    "name": "Geminus of Rhodes",
+    "greek": "Γεμῖνος",
+    "dates": "1st cent. BC",
+    "sort_year": -50,
+    "era": "hellenistic",
+    "role": "Stoic mathematician & encyclopedist of the mathematical sciences",
+    "summary": "Proclus's richest Hellenistic source on classification of sciences, curves, postulates vs. axioms, uniform flux (quoted in Greek by Hoenen), and asymptotic cautions on Postulate 5",
+    "friedlein_loci": "38–42, 105, 111, 126, 176–192, 241, 251"
+  },
+  "carpus": {
+    "name": "Carpus of Antioch",
+    "greek": "Κάρπος ὁ Ἀντιοχεύς",
+    "dates": "1st/2nd cent. AD",
+    "sort_year": 75,
+    "era": "hellenistic",
+    "role": "Mechanician & astronomical writer",
+    "summary": "Defined angle as distance/divergence between lines and argued in his Astronomical Treatise that problems precede theorems in natural order",
+    "friedlein_loci": "125–126, 241–243"
+  },
+  "heron": {
+    "name": "Heron of Alexandria",
+    "greek": "Ἥρων ὁ Ἀλεξανδρεύς",
+    "dates": "1st cent. AD",
+    "sort_year": 65,
+    "era": "hellenistic",
+    "role": "Mathematician, mechanician & commentator on Euclid",
+    "summary": "Reduced authentic Common Notions to three and supplied direct and construction-sparing proofs for Props. I.19, I.20, I.24, I.25, and I.47",
+    "friedlein_loci": "41, 196, 305, 323, 340, 346, 429"
+  },
+  "menelaus": {
+    "name": "Menelaus of Alexandria",
+    "greek": "Μενέλαος ὁ Ἀλεξανδρεύς",
+    "dates": "c. 70–140 AD",
+    "sort_year": 100,
+    "era": "hellenistic",
+    "role": "Geometer & spherical astronomer",
+    "summary": "Author of the Sphaerica; contributed a concise direct demonstration of Prop. I.25 (converse Hinge Theorem) preserved by Proclus",
+    "friedlein_loci": "345–346"
+  },
+  "ptolemy": {
+    "name": "Claudius Ptolemy",
+    "greek": "Κλαύδιος Πτολεμαῖος",
+    "dates": "c. 100–170 AD",
+    "sort_year": 145,
+    "era": "hellenistic",
+    "role": "Astronomer & mathematician",
+    "summary": "Composed a treatise attempting to prove Euclid's Fifth Postulate; Proclus preserves Ptolemy's lemmas and attempted proof of I.29 while diagnosing its circularity",
+    "friedlein_loci": "191, 362–368"
+  },
+  "porphyry": {
+    "name": "Porphyry of Tyre",
+    "greek": "Πορφύριος",
+    "dates": "c. 234–305 AD",
+    "sort_year": 275,
+    "era": "neoplatonic",
+    "role": "Neoplatonic philosopher & commentator on geometric proofs",
+    "summary": "Furnished incisive geometric analyses, case completions, and direct proofs in Book I (Props. I.14, I.18, I.20, I.24, I.26)",
+    "friedlein_loci": "56, 255, 297, 315, 323–326, 347–352"
+  },
+  "iamblichus": {
+    "name": "Iamblichus of Chalcis",
+    "greek": "Ἰάμβλιχος",
+    "dates": "c. 245–325 AD",
+    "sort_year": 300,
+    "era": "neoplatonic",
+    "role": "Neoplatonic philosopher & Pythagoreanizing mathematician",
+    "summary": "Inspired the Athenian Academy's synthesis of Pythagorean-Platonic mathematics in his On Pythagoreanism / De Communi Mathematica Scientia",
+    "friedlein_loci": "20–47"
+  },
+  "pappus": {
+    "name": "Pappus of Alexandria",
+    "greek": "Πάππος ὁ Ἀλεξανδρεύς",
+    "dates": "fl. c. 320 AD",
+    "sort_year": 320,
+    "era": "neoplatonic",
+    "role": "Alexandrian geometer & author of the Collection",
+    "summary": "Author of the celebrated zero-construction symmetry proof of Prop. I.5 (pons asinorum) and critical remarks on Postulate 4 converses and additional axioms",
+    "friedlein_loci": "189, 197, 249–250, 429"
+  },
+  "plutarch-of-athens": {
+    "name": "Plutarch of Athens",
+    "greek": "Πλούταρχος ὁ Ἀθηναῖος",
+    "dates": "c. 350–432 AD",
+    "sort_year": 410,
+    "era": "neoplatonic",
+    "role": "Founder of the Neoplatonic Athenian Academy",
+    "summary": "Teacher of Syrianus and aged mentor of young Proclus; cited with reverence on the multi-categorical nature of the angle",
+    "friedlein_loci": "125"
+  },
+  "syrianus": {
+    "name": "Syrianus",
+    "greek": "Συριανός",
+    "dates": "d. c. 437 AD",
+    "sort_year": 430,
+    "era": "neoplatonic",
+    "role": "Scholarch of Athens & Proclus's beloved master ('our Leader')",
+    "summary": "Expositor of ontological projection in phantasia and the horn-angle problem, whose lectures inspired Proclus's Commentary",
+    "friedlein_loci": "123, 125, 432"
+  },
+  "proclus": {
+    "name": "Proclus Lycius Diadochus",
+    "greek": "Πρόκλος ὁ Διάδοχος",
+    "dates": "412–485 AD",
+    "sort_year": 450,
+    "era": "neoplatonic",
+    "role": "Platonic Successor (Diadochus) & author of the Commentary",
+    "summary": "Head of the Athenian Academy for nearly fifty years; composed the Commentary on Book I of Euclid's Elements uniting Neoplatonic epistemology of phantasia, Eudemian history, and rigorous axiomatic analysis",
+    "friedlein_loci": "1–436"
+  },
+  "marinus": {
+    "name": "Marinus of Neapolis",
+    "greek": "Μαρῖνος ὁ Νεαπολίτης",
+    "dates": "c. 440–500 AD",
+    "sort_year": 485,
+    "era": "neoplatonic",
+    "role": "Successor & biographer of Proclus",
+    "summary": "Succeeded Proclus at Athens, wrote Vita Procli, and authored the Preface to Euclid's Data",
+    "friedlein_loci": "passim"
+  },
+  "barocius": {
+    "name": "Franciscus Barocius (Francesco Barozzi)",
+    "greek": "",
+    "dates": "1537–1604",
+    "sort_year": 1560,
+    "era": "modern",
+    "role": "Venetian mathematician & Latin translator of Proclus",
+    "summary": "Published the 1560 Padua Latin edition from Cretan and Venetian manuscripts, healing major corruptions and lacunae of the 1533 Basel Greek editio princeps",
+    "friedlein_loci": "ed. 1560"
+  },
+  "taylor": {
+    "name": "Thomas Taylor",
+    "greek": "",
+    "dates": "1758–1835",
+    "sort_year": 1788,
+    "era": "modern",
+    "role": "English Platonist & first English translator of Proclus on Euclid",
+    "summary": "Published the two-volume English translation (1788–1789; reissued 1792) defending Platonic mathematics against modern empiricism",
+    "friedlein_loci": "ed. 1788–1789"
+  },
+  "friedlein": {
+    "name": "Gottfried Friedlein",
+    "greek": "",
+    "dates": "1828–1875",
+    "sort_year": 1873,
+    "era": "modern",
+    "role": "German philologist & historian of mathematics",
+    "summary": "Edited the standard 1873 Teubner critical Greek edition from Munich, Vatican, Bologna, and Oxford manuscripts",
+    "friedlein_loci": "ed. 1873"
+  },
+  "heath": {
+    "name": "Sir Thomas Little Heath",
+    "greek": "",
+    "dates": "1861–1940",
+    "sort_year": 1926,
+    "era": "modern",
+    "role": "Historian of Greek mathematics & translator of Euclid",
+    "summary": "Author of the monumental three-volume commentary in `geometor/euclid`, citing Friedlein's Proclus at more than 150 loci",
+    "friedlein_loci": "Heath I–III"
+  },
+  "hoenen": {
+    "name": "Petrus H. J. Hoenen, S.J.",
+    "greek": "",
+    "dates": "1880–1961",
+    "sort_year": 1954,
+    "era": "modern",
+    "role": "Philosopher of geometry & author of De Noetica Geometriae",
+    "summary": "Professor at the Pontifical Gregorian University (`geometor/hoenen`), engaging Proclus on sensible inexactitude, phantasia, intelligible matter, and Postulate 5",
+    "friedlein_loci": "Hoenen 1954"
+  }
+}

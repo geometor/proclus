@@ -1,0 +1,4145 @@
+{
+  "metadata": {
+    "title": "GEOMETOR Proclus — Friedlein (1873) Citation Concordance",
+    "edition": "Procli Diadochi in primum Euclidis Elementorum librum commentarii, ed. Gottfried Friedlein (Leipzig: B. G. Teubner, 1873)",
+    "total_canonical_loci": 164,
+    "euclid_distinct_keys": 156,
+    "euclid_total_occurrences": 159,
+    "hoenen_distinct_keys": 4,
+    "hoenen_total_loci": 10
+  },
+  "entries": [
+    {
+      "id": "conc-friedlein-12-14",
+      "canonical_locus": "Friedlein 12, 14",
+      "friedlein_start_page": 12,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 12,
+      "friedlein_end_line": 14,
+      "codex_unit": "prologue-1",
+      "codex_section_id": "sec-prol1-dianoia-abstraction",
+      "codex_section_title": "Chap. V–VI: Dianoia, Innate Logoî, and Critique of Abstraction",
+      "euclid_element": null,
+      "topic": "Proclus's critique of Aristotelian abstraction (hysterogenes): sensible particulars lack the precision and apodictic necessity of mathematical objects.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III",
+          "display": "In Euclid. Elem. ed. Friedlein 12, 14 ; 49, 17 sqq. 140, 4"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-12-14-22",
+      "canonical_locus": "Friedlein 12, 14–22",
+      "friedlein_start_page": 12,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 12,
+      "friedlein_end_line": 22,
+      "codex_unit": "prologue-1",
+      "codex_section_id": "sec-prol1-dianoia-abstraction",
+      "codex_section_title": "Chap. V–VI: Dianoia, Innate Logoî, and Critique of Abstraction",
+      "euclid_element": null,
+      "topic": "Refutation of deriving mathematical forms from sense-objects: where among sensibles is the indivisible point, breadthless line, or exact equality of radii?",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14-22",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III",
+          "display": "ibid. 12, 14-22 ; 49, 12-17 ; 139, 26-140, 7 etc."
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-22-15",
+      "canonical_locus": "Friedlein 22, 15",
+      "friedlein_start_page": 22,
+      "friedlein_start_line": 15,
+      "friedlein_end_page": 22,
+      "friedlein_end_line": 15,
+      "codex_unit": "prologue-1",
+      "codex_section_id": "sec-prol1-utility-ascent",
+      "codex_section_title": "Chap. VII–X: Platonic Utility of Mathematics & Reply to Critics",
+      "euclid_element": null,
+      "topic": "Proclus's dialectical formula introducing and answering objections against the utility of theoretical geometry.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:22.15",
+          "volume": "volume_I",
+          "folio": "0048",
+          "page": "34",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 22, 15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-38-1-42-8",
+      "canonical_locus": "Friedlein 38, 1–42, 8",
+      "friedlein_start_page": 38,
+      "friedlein_start_line": 1,
+      "friedlein_end_page": 42,
+      "friedlein_end_line": 8,
+      "codex_unit": "prologue-1",
+      "codex_section_id": "sec-prol1-geminus-classification",
+      "codex_section_title": "Chap. XIII (cont.): Geminus's Classification of Pure & Mixed Sciences",
+      "euclid_element": null,
+      "topic": "Geminus's rival classification of the mathematical sciences into intelligible (arithmetic, geometry) and sensible/mixed sciences (mechanics, astronomy, optics, geodesy, canonics, logistic).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:38.1-42.8",
+          "volume": "volume_I",
+          "folio": "0053",
+          "page": "39",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "pp. 38, 1—42, 8"
+        },
+        {
+          "citation_key": "proclus:in-euclid:38.1-42.8",
+          "volume": "volume_I",
+          "folio": "0053",
+          "page": "39",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "pp. 38, 1—42, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-49-12-17",
+      "canonical_locus": "Friedlein 49, 12–17",
+      "friedlein_start_page": 49,
+      "friedlein_start_line": 12,
+      "friedlein_end_page": 49,
+      "friedlein_end_line": 17,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-matter-phantasia",
+      "codex_section_title": "Chap. I–II: Intelligible Matter, Sensible Inexactitude & Phantasia",
+      "euclid_element": null,
+      "topic": "Inexactitude of sensible figures versus the unvarying precision of universal forms projected in mathematical imagination (phantasia).",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14-22",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III (cf. Caput I §1)",
+          "display": "Friedlein 49, 12–17 (inexactitude of sensible figures vs. phantasia)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-49-17",
+      "canonical_locus": "Friedlein 49, 17",
+      "friedlein_start_page": 49,
+      "friedlein_start_line": 17,
+      "friedlein_end_page": 49,
+      "friedlein_end_line": 17,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-matter-phantasia",
+      "codex_section_title": "Chap. I–II: Intelligible Matter, Sensible Inexactitude & Phantasia",
+      "euclid_element": null,
+      "topic": "Mathematical being requires a receptacle (phantasia / intelligible matter) where universal logoi are unfolded with indivisible exactitude.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III",
+          "display": "Friedlein 49, 17 sqq. (phantasia as intelligible screen / materia intelligibilis)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-60-7-9",
+      "canonical_locus": "Friedlein 60, 7–9",
+      "friedlein_start_page": 60,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 60,
+      "friedlein_end_line": 9,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-probole-cosmos",
+      "codex_section_title": "Chap. III: Projection (Probole) & Cosmic Geometry",
+      "euclid_element": null,
+      "topic": "Distinction between leading principles and derivative consequences in universal mathematical reasoning.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:60.7-9",
+          "volume": "volume_I",
+          "folio": "0151",
+          "page": "137",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 60, 7—9"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-64-70",
+      "canonical_locus": "Friedlein 64–70",
+      "friedlein_start_page": 64,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 70,
+      "friedlein_end_line": null,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "The Eudemian Summary: Proclus's preservation of Eudemus of Rhodes's History of Geometry from Thales and Pythagoras to Plato's Academy and Euclid.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:64-70",
+          "volume": "volume_I",
+          "folio": "0051",
+          "page": "37",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "pp. 64—70"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-64-8",
+      "canonical_locus": "Friedlein 64, 8",
+      "friedlein_start_page": 64,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 64,
+      "friedlein_end_line": 8,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Transition from cosmic geometry to the historical origin of geometry among the Egyptians and Phoenicians.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:64.8",
+          "volume": "volume_I",
+          "folio": "0052",
+          "page": "38",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 64, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-64-19",
+      "canonical_locus": "Friedlein 64, 19",
+      "friedlein_start_page": 64,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 64,
+      "friedlein_end_line": 19,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Origin of geometry in Egyptian land-measurement after the Nile floods and arithmetic among the Phoenicians through commerce.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:64.19",
+          "volume": "volume_I",
+          "folio": "0051",
+          "page": "37",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 64, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-65-19",
+      "canonical_locus": "Friedlein 65, 19",
+      "friedlein_start_page": 65,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 65,
+      "friedlein_end_line": 19,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Pythagoras transforms geometry into a liberal philosophical education and investigates its principles from above (anothen).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:65.19",
+          "volume": "volume_I",
+          "folio": "0426",
+          "page": "412",
+          "book": "",
+          "section": "excursus_i",
+          "display": "p. 65, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-65-20",
+      "canonical_locus": "Friedlein 65, 20",
+      "friedlein_start_page": 65,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 65,
+      "friedlein_end_line": 20,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Pythagorean discovery of cosmic figures and golden-section pentagon constructions preserved in the Eudemian Summary.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:65-20",
+          "volume": "volume_II",
+          "folio": "0103",
+          "page": "97",
+          "book": "IV",
+          "section": "propositions",
+          "display": "p. 65, 20"
+        },
+        {
+          "citation_key": "proclus:in-euclid:65.20",
+          "volume": "volume_I",
+          "folio": "0427",
+          "page": "413",
+          "book": "",
+          "section": "excursus_i",
+          "display": "p. 65, 20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-66-20",
+      "canonical_locus": "Friedlein 66, 20",
+      "friedlein_start_page": 66,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 66,
+      "friedlein_end_line": 20,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Leon (pupil of Neoclides) composes improved Elements and invents diorismoi determining when a problem is possible or impossible.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:66.20",
+          "volume": "volume_I",
+          "folio": "0130",
+          "page": "116",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 66, 20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-67-6",
+      "canonical_locus": "Friedlein 67, 6",
+      "friedlein_start_page": 67,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 67,
+      "friedlein_end_line": 6,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Eudoxus's investigation of 'the section' (tome) begun by Plato, applying geometric analysis to golden-ratio division.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:67-6",
+          "volume": "volume_II",
+          "folio": "0105",
+          "page": "99",
+          "book": "IV",
+          "section": "propositions",
+          "display": "p. 67, 6"
+        },
+        {
+          "citation_key": "proclus:in-euclid:67.6",
+          "volume": "volume_I",
+          "folio": "0151",
+          "page": "137",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 67, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-67-14",
+      "canonical_locus": "Friedlein 67, 14",
+      "friedlein_start_page": 67,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 67,
+      "friedlein_end_line": 14,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Theudius of Magnesia arranges the Elements admirably and renders many partial propositions more universal.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:67.14",
+          "volume": "volume_I",
+          "folio": "0131",
+          "page": "117",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 67, 14"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-67-22",
+      "canonical_locus": "Friedlein 67, 22",
+      "friedlein_start_page": 67,
+      "friedlein_start_line": 22,
+      "friedlein_end_page": 67,
+      "friedlein_end_line": 22,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Hermotimus of Colophon advances Eudoxus's and Theaetetus's discoveries, discovers many Elements, and composes treatises on Loci.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:67.22",
+          "volume": "volume_I",
+          "folio": "0131",
+          "page": "117",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 67, 22"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-68-4-7",
+      "canonical_locus": "Friedlein 68, 4–7",
+      "friedlein_start_page": 68,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 68,
+      "friedlein_end_line": 7,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Close of Eudemus's chronicle with Philippus of Medma, disciple of Plato who directed geometric research toward Platonic philosophy.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:68.4-7",
+          "volume": "volume_I",
+          "folio": "0049",
+          "page": "35",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 68, 4—7"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-68-20",
+      "canonical_locus": "Friedlein 68, 20",
+      "friedlein_start_page": 68,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 68,
+      "friedlein_end_line": 20,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Euclid's famous reply to King Ptolemy I Soter: 'There is no royal road to geometry.'",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:68.20",
+          "volume": "volume_I",
+          "folio": "0016",
+          "page": "2",
+          "book": "",
+          "section": "chapter_i",
+          "display": "p. 68, 20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-69-3",
+      "canonical_locus": "Friedlein 69, 3",
+      "friedlein_start_page": 69,
+      "friedlein_start_line": 3,
+      "friedlein_end_page": 69,
+      "friedlein_end_line": 3,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Survey of Euclid's other mathematical, optical, astronomical, and musical works alongside the Elements.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:69.3",
+          "volume": "volume_I",
+          "folio": "0031",
+          "page": "17",
+          "book": "",
+          "section": "chapter_ii",
+          "display": "p. 69, 3"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-69-4",
+      "canonical_locus": "Friedlein 69, 4",
+      "friedlein_start_page": 69,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 69,
+      "friedlein_end_line": 4,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Characterization of Euclid's Data, Phenomena, Optics, Catoptrics, and Divisions of Figures.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:69.4",
+          "volume": "volume_I",
+          "folio": "0022",
+          "page": "8",
+          "book": "",
+          "section": "chapter_ii",
+          "display": "p. 69, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-70-1-18",
+      "canonical_locus": "Friedlein 70, 1–18",
+      "friedlein_start_page": 70,
+      "friedlein_start_line": 1,
+      "friedlein_end_page": 70,
+      "friedlein_end_line": 18,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-eudemian-summary",
+      "codex_section_title": "Chap. IV: Origin of Geometry & The Eudemian Summary (Thales to Euclid)",
+      "euclid_element": null,
+      "topic": "Euclid's Pseudaria (Book of Fallacies): pedagogical treatise training beginners to detect paralogisms alongside true demonstrations.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:70.1-18",
+          "volume": "volume_I",
+          "folio": "0021",
+          "page": "7",
+          "book": "",
+          "section": "chapter_ii",
+          "display": "p. 70, 1—18"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-70-19-71-21",
+      "canonical_locus": "Friedlein 70, 19–71, 21",
+      "friedlein_start_page": 70,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 71,
+      "friedlein_end_line": 21,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-stoicheiosis",
+      "codex_section_title": "Chap. V–VII: Purpose of Book I & Meaning of Element (Stoicheion)",
+      "euclid_element": null,
+      "topic": "Aim (skopos) of Euclid's Elements both as a whole (construction of the five Platonic cosmic figures) and relative to the learner.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:70.19-71.21",
+          "volume": "volume_I",
+          "folio": "0130",
+          "page": "116",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 70, 19—71, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-73-4",
+      "canonical_locus": "Friedlein 73, 4",
+      "friedlein_start_page": 73,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 73,
+      "friedlein_end_line": 4,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-stoicheiosis",
+      "codex_section_title": "Chap. V–VII: Purpose of Book I & Meaning of Element (Stoicheion)",
+      "euclid_element": null,
+      "topic": "Menaechmus's two senses of 'element' (stoicheion): that which proves vs. the simplest constituent into which compounds resolve, contrasted with 'lemma'.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:73.4",
+          "volume": "volume_I",
+          "folio": "0147",
+          "page": "133",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 73, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-74-23",
+      "canonical_locus": "Friedlein 74, 23",
+      "friedlein_start_page": 74,
+      "friedlein_start_line": 23,
+      "friedlein_end_page": 74,
+      "friedlein_end_line": 23,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-stoicheiosis",
+      "codex_section_title": "Chap. V–VII: Purpose of Book I & Meaning of Element (Stoicheion)",
+      "euclid_element": null,
+      "topic": "Euclid's strict economy in the Elements: excluding whatever is alien to elementary stoicheiosis while furnishing irrefragable foundations.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:74.23",
+          "volume": "volume_III",
+          "folio": "0014",
+          "page": "10",
+          "book": "X",
+          "section": "introductory_note",
+          "display": "Proclus, p. 74, 23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-75-10-77-2",
+      "canonical_locus": "Friedlein 75, 10–77, 2",
+      "friedlein_start_page": 75,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 77,
+      "friedlein_end_line": 2,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "Why every demonstrative science must proceed from unhypothetical common principles, definitions, postulates, and axioms.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:75.10-77.2",
+          "volume": "volume_I",
+          "folio": "0136",
+          "page": "122",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 75, 10—77, 2"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-77-7-12",
+      "canonical_locus": "Friedlein 77, 7–12",
+      "friedlein_start_page": 77,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 77,
+      "friedlein_end_line": 12,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "First division of the things following from first principles into Problems (constructions/generations) and Theorems (essential attributes).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:77.7-12",
+          "volume": "volume_I",
+          "folio": "0139",
+          "page": "125",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 77, 7—12"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-79-11-80-5",
+      "canonical_locus": "Friedlein 79, 11–80, 5",
+      "friedlein_start_page": 79,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 80,
+      "friedlein_end_line": 5,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "Distinction of theoretical demonstration vs. problematic construction in Book I of the Elements.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:79.11-80.5",
+          "volume": "volume_I",
+          "folio": "0140",
+          "page": "126",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 79, 11—80, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-80-15-81-4",
+      "canonical_locus": "Friedlein 80, 15–81, 4",
+      "friedlein_start_page": 80,
+      "friedlein_start_line": 15,
+      "friedlein_end_page": 81,
+      "friedlein_end_line": 4,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "Internal architecture of Euclid's Book I: triangles, parallels, and the theory of parallelogrammic equality of areas.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:80.15-81.4",
+          "volume": "volume_I",
+          "folio": "0140",
+          "page": "126",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 80, 15—81, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-81-5-22",
+      "canonical_locus": "Friedlein 81, 5–22",
+      "friedlein_start_page": 81,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 81,
+      "friedlein_end_line": 22,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "How Book I ascends from elementary triangle constructions through congruence and parallels to the equality of areas and the square on the hypotenuse.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:81.5-22",
+          "volume": "volume_I",
+          "folio": "0141",
+          "page": "127",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 81, 5—22"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-84-8",
+      "canonical_locus": "Friedlein 84, 8",
+      "friedlein_start_page": 84,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 84,
+      "friedlein_end_line": 8,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "Mention of Aegaeas (or Aenaeas) of Hierapolis and earlier commentators/epitomators on the Elements.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:84.8",
+          "volume": "volume_I",
+          "folio": "0033",
+          "page": "19",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 84, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-84-13",
+      "canonical_locus": "Friedlein 84, 13",
+      "friedlein_start_page": 84,
+      "friedlein_start_line": 13,
+      "friedlein_end_page": 84,
+      "friedlein_end_line": 13,
+      "codex_unit": "prologue-2",
+      "codex_section_id": "sec-prol2-method-principles",
+      "codex_section_title": "Chap. VIII–IX: Organization of First Principles, Problems & Theorems",
+      "euclid_element": null,
+      "topic": "Proclus's methodological remark at the close of Prologue II introducing his selective philosophical and mathematical commentary on the Definitions.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:84.13",
+          "volume": "volume_I",
+          "folio": "0044",
+          "page": "30",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 84, 13"
+        },
+        {
+          "citation_key": "proclus:in-euclid:84.13",
+          "volume": "volume_I",
+          "folio": "0059",
+          "page": "45",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 84, 13"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-95-21",
+      "canonical_locus": "Friedlein 95, 21",
+      "friedlein_start_page": 95,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 95,
+      "friedlein_end_line": 21,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-01",
+      "codex_section_title": "Def. 1: Point (Semeion) as Indivisible Limit with Position",
+      "euclid_element": "I.def.1",
+      "topic": "Pythagorean definition of the point as a 'monad having position' (monas thesin echousa) compared with Euclid's negative definition.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:95.21",
+          "volume": "volume_I",
+          "folio": "0169",
+          "page": "155",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 95, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-96-21-97-3",
+      "canonical_locus": "Friedlein 96, 21–97, 3",
+      "friedlein_start_page": 96,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 97,
+      "friedlein_end_line": 3,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-02",
+      "codex_section_title": "Def. 2: Line (Gramme), Flux of a Point & Classification of Curves",
+      "euclid_element": "I.def.2",
+      "topic": "Platonic and Euclidean definitions of a line as 'breadthless length' (mekos aplates) and as the boundary of a surface.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:96.21-97.3",
+          "volume": "volume_I",
+          "folio": "0172",
+          "page": "158",
+          "book": "I",
+          "section": "first_principles",
+          "display": "pp. 96, 21—97, 3"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-97-6",
+      "canonical_locus": "Friedlein 97, 6",
+      "friedlein_start_page": 97,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 97,
+      "friedlein_end_line": 6,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-02",
+      "codex_section_title": "Def. 2: Line (Gramme), Flux of a Point & Classification of Curves",
+      "euclid_element": "I.def.2",
+      "topic": "Genetic definition of the line as the 'flux of a point' (rhysis semeiou), generating length through unextended motion.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:p97",
+          "folio": "0107",
+          "page": "107",
+          "book": "Caput IV, n. 8",
+          "display": "Proclum pag. 97, 6 (line as flux of a point)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-97-8-13",
+      "canonical_locus": "Friedlein 97, 8–13",
+      "friedlein_start_page": 97,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 97,
+      "friedlein_end_line": 13,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-02",
+      "codex_section_title": "Def. 2: Line (Gramme), Flux of a Point & Classification of Curves",
+      "euclid_element": "I.def.2",
+      "topic": "Exposition of the line as the path or flux of a point (rhysis semeiou) and comparison with physical impressions of light.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:97.8-13",
+          "volume": "volume_I",
+          "folio": "0173",
+          "page": "159",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 97, 8—13"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-100-5-19",
+      "canonical_locus": "Friedlein 100, 5–19",
+      "friedlein_start_page": 100,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 100,
+      "friedlein_end_line": 19,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-02",
+      "codex_section_title": "Def. 2: Line (Gramme), Flux of a Point & Classification of Curves",
+      "euclid_element": "I.def.2",
+      "topic": "How the point generates the line by flowing and how rectilinear vs. circular motion produces simple lines.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:100.5-19",
+          "volume": "volume_I",
+          "folio": "0173",
+          "page": "159",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 100, 5—19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-100-6",
+      "canonical_locus": "Friedlein 100, 6",
+      "friedlein_start_page": 100,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 100,
+      "friedlein_end_line": 6,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-02",
+      "codex_section_title": "Def. 2: Line (Gramme), Flux of a Point & Classification of Curves",
+      "euclid_element": "I.def.2",
+      "topic": "Terminology of common notions and first concepts in Proclus's discussion of linear magnitude.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:100.6",
+          "volume": "volume_I",
+          "folio": "0235",
+          "page": "221",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 100, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-103-21-107-10",
+      "canonical_locus": "Friedlein 103, 21–107, 10",
+      "friedlein_start_page": 103,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 107,
+      "friedlein_end_line": 10,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-03",
+      "codex_section_title": "Def. 3: Extremities of a Line & Homoeomeric Lines",
+      "euclid_element": "I.def.3",
+      "topic": "Classification of lines; Geminus and Apollonius on homoeomeric lines (straight line, circle, cylindrical helix).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:103.21-107.10",
+          "volume": "volume_I",
+          "folio": "0054",
+          "page": "40",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "pp. 103, 21—107, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-105-5",
+      "canonical_locus": "Friedlein 105, 5",
+      "friedlein_start_page": 105,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 105,
+      "friedlein_end_line": 5,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-03",
+      "codex_section_title": "Def. 3: Extremities of a Line & Homoeomeric Lines",
+      "euclid_element": "I.def.3",
+      "topic": "Proof from Geminus that only three lines are homoeomeric (alike in all parts): the straight line, the circle, and the cylindrical helix.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:105.5",
+          "volume": "volume_I",
+          "folio": "0176",
+          "page": "162",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 105, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-105-11",
+      "canonical_locus": "Friedlein 105, 11",
+      "friedlein_start_page": 105,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 105,
+      "friedlein_end_line": 11,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-03",
+      "codex_section_title": "Def. 3: Extremities of a Line & Homoeomeric Lines",
+      "euclid_element": "I.def.3",
+      "topic": "Why the cylindrical helix, though homoeomeric, is composite rather than simple because it is generated by two dissimilar motions.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:105.11",
+          "volume": "volume_I",
+          "folio": "0176",
+          "page": "162",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 105, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-110-18-23",
+      "canonical_locus": "Friedlein 110, 18–23",
+      "friedlein_start_page": 110,
+      "friedlein_start_line": 18,
+      "friedlein_end_page": 110,
+      "friedlein_end_line": 23,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-04",
+      "codex_section_title": "Def. 4: Straight Line (Eutheia) & Spiric/Conic Classifications",
+      "euclid_element": "I.def.4",
+      "topic": "Famous alternative definitions of a straight line: stretched to the utmost, Plato's 'middle covers the ends' (Parmenides 137E), and Archimedes' shortest path.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:110.18-23",
+          "volume": "volume_I",
+          "folio": "0182",
+          "page": "168",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 110, 18—23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-111-9-20",
+      "canonical_locus": "Friedlein 111, 9–20",
+      "friedlein_start_page": 111,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 111,
+      "friedlein_end_line": 20,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-04",
+      "codex_section_title": "Def. 4: Straight Line (Eutheia) & Spiric/Conic Classifications",
+      "euclid_element": "I.def.4",
+      "topic": "Geminus's systematic classification of lines into simple (circular, straight, indefinite) and composite/mixed (in planes vs. on solids).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:111.9-20",
+          "volume": "volume_I",
+          "folio": "0175",
+          "page": "161",
+          "book": "I",
+          "section": "first_principles",
+          "display": "pp. 111, 9—20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-112-1",
+      "canonical_locus": "Friedlein 112, 1",
+      "friedlein_start_page": 112,
+      "friedlein_start_line": 1,
+      "friedlein_end_page": 112,
+      "friedlein_end_line": 1,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-04",
+      "codex_section_title": "Def. 4: Straight Line (Eutheia) & Spiric/Conic Classifications",
+      "euclid_element": "I.def.4",
+      "topic": "Perseus's discovery of the three spiric curves (sections of the torus/spira) and quotation of Perseus's dedicatory epigram.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:112.1",
+          "volume": "volume_I",
+          "folio": "0176",
+          "page": "162",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 112, 1"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-116-17",
+      "canonical_locus": "Friedlein 116, 17",
+      "friedlein_start_page": 116,
+      "friedlein_start_line": 17,
+      "friedlein_end_page": 116,
+      "friedlein_end_line": 17,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-05-07",
+      "codex_section_title": "Defs. 5–7: Surface (Epiphaneia), Boundaries & Plane Surface",
+      "euclid_element": "I.def.7",
+      "topic": "Terminological distinction between surface in general (epiphaneia) and plane surface (epipedon) in Euclid and older geometers.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:116.17",
+          "volume": "volume_I",
+          "folio": "0183",
+          "page": "169",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 116, 17"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-117-8",
+      "canonical_locus": "Friedlein 117, 8",
+      "friedlein_start_page": 117,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 117,
+      "friedlein_end_line": 8,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-05-07",
+      "codex_section_title": "Defs. 5–7: Surface (Epiphaneia), Boundaries & Plane Surface",
+      "euclid_element": "I.def.7",
+      "topic": "Definitions of a plane surface, including the surface to all parts of which a straight line fits (epharmozei).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:117.8",
+          "volume": "volume_I",
+          "folio": "0186",
+          "page": "172",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 117, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-117-20",
+      "canonical_locus": "Friedlein 117, 20",
+      "friedlein_start_page": 117,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 117,
+      "friedlein_end_line": 20,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-05-07",
+      "codex_section_title": "Defs. 5–7: Surface (Epiphaneia), Boundaries & Plane Surface",
+      "euclid_element": "I.def.7",
+      "topic": "Archimedean and Platonic characterizations of the plane surface as minimum area with given perimeter or 'middle overshadowing the ends'.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:117.20",
+          "volume": "volume_I",
+          "folio": "0186",
+          "page": "172",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 117, 20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-121-24-122-6",
+      "canonical_locus": "Friedlein 121, 24–122, 6",
+      "friedlein_start_page": 121,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 122,
+      "friedlein_end_line": 6,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-08-09",
+      "codex_section_title": "Defs. 8–9: Plane Angle, Category of Angle & Horn Angles (Keratoeides)",
+      "euclid_element": "I.def.8",
+      "topic": "Ancient debate on the ontological category of the angle (relation, quality, or quantity) and the paradox of the horn angle (keratoeides).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:121-24-122-6",
+          "volume": "volume_II",
+          "folio": "0046",
+          "page": "40",
+          "book": "III",
+          "section": "propositions",
+          "display": "p. 121, 24—122, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-123-16",
+      "canonical_locus": "Friedlein 123, 16",
+      "friedlein_start_page": 123,
+      "friedlein_start_line": 16,
+      "friedlein_end_page": 123,
+      "friedlein_end_line": 16,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-08-09",
+      "codex_section_title": "Defs. 8–9: Plane Angle, Category of Angle & Horn Angles (Keratoeides)",
+      "euclid_element": "I.def.8",
+      "topic": "Classification of plane and solid angles and the inclination of planes.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:123.16",
+          "volume": "volume_III",
+          "folio": "0268",
+          "page": "264",
+          "book": "XI",
+          "section": "definitions",
+          "display": "Proclus, p. 123, 16"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-126-7-127-16",
+      "canonical_locus": "Friedlein 126, 7–127, 16",
+      "friedlein_start_page": 126,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 127,
+      "friedlein_end_line": 16,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-08-09",
+      "codex_section_title": "Defs. 8–9: Plane Angle, Category of Angle & Horn Angles (Keratoeides)",
+      "euclid_element": "I.def.8",
+      "topic": "Geminus's exhaustive combinatorics of plane angles formed by straight lines, circles, cissoids, hippopedes, and conchoids (rectilinear, lunular, horn-like, mixed).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:126.7-127.16",
+          "volume": "volume_I",
+          "folio": "0192",
+          "page": "178",
+          "book": "I",
+          "section": "first_principles",
+          "display": "pp. 126, 7—127, 16"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-133-15",
+      "canonical_locus": "Friedlein 133, 15",
+      "friedlein_start_page": 133,
+      "friedlein_start_line": 15,
+      "friedlein_end_page": 133,
+      "friedlein_end_line": 15,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-10-12",
+      "codex_section_title": "Defs. 10–12: Right Angle, Perpendicular, Obtuse & Acute Angles",
+      "euclid_element": "I.def.10",
+      "topic": "Three species of rectilinear angles (right, obtuse, acute): why the right angle is the determinate measure of equality while obtuse and acute belong to the indeterminate.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:133.15",
+          "volume": "volume_I",
+          "folio": "0196",
+          "page": "182",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 133, 15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-136-8",
+      "canonical_locus": "Friedlein 136, 8",
+      "friedlein_start_page": 136,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 136,
+      "friedlein_end_line": 8,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-10-12",
+      "codex_section_title": "Defs. 10–12: Right Angle, Perpendicular, Obtuse & Acute Angles",
+      "euclid_element": "I.def.10",
+      "topic": "Commentary on Def. 13 (Horos / Boundary): why Euclid uses 'boundary' rather than 'extremity' (peras) to include surfaces and lines bounding figures.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:136.8",
+          "volume": "volume_I",
+          "folio": "0196",
+          "page": "182",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 136, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-139-26-140-7",
+      "canonical_locus": "Friedlein 139, 26–140, 7",
+      "friedlein_start_page": 139,
+      "friedlein_start_line": 26,
+      "friedlein_end_page": 140,
+      "friedlein_end_line": 7,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-13-14",
+      "codex_section_title": "Defs. 13–14: Boundary (Horos), Figure (Schema) & Protagoras on Tangency",
+      "euclid_element": "I.def.14",
+      "topic": "Refutation of Protagoras's empiricist objection that a circle touches a straight ruler across a sensible segment rather than at an indivisible point.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14-22",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III",
+          "display": "Friedlein 139, 26–140, 7 (Protagoras's objection on circle-line tangency)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-140-4",
+      "canonical_locus": "Friedlein 140, 4",
+      "friedlein_start_page": 140,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 140,
+      "friedlein_end_line": 4,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-13-14",
+      "codex_section_title": "Defs. 13–14: Boundary (Horos), Figure (Schema) & Protagoras on Tangency",
+      "euclid_element": "I.def.14",
+      "topic": "Exactitude of intelligible tangency at a single point versus the coarse imperfection of sensible rulers and drawn circles.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:12.14",
+          "folio": "0067",
+          "page": "67",
+          "book": "Caput III",
+          "display": "Friedlein 140, 4 (indivisible tangency in intelligible geometry)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-143-8",
+      "canonical_locus": "Friedlein 143, 8",
+      "friedlein_start_page": 143,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 143,
+      "friedlein_end_line": 8,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-13-14",
+      "codex_section_title": "Defs. 13–14: Boundary (Horos), Figure (Schema) & Protagoras on Tangency",
+      "euclid_element": "I.def.14",
+      "topic": "Comparison of Euclid's definition of Figure (Def. 14) with Posidonius's definition ('enclosing limit'), explaining why Euclid includes the contained interior.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:143.8",
+          "volume": "volume_I",
+          "folio": "0197",
+          "page": "183",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 143, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-153-3",
+      "canonical_locus": "Friedlein 153, 3",
+      "friedlein_start_page": 153,
+      "friedlein_start_line": 3,
+      "friedlein_end_page": 153,
+      "friedlein_end_line": 3,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-15-18",
+      "codex_section_title": "Defs. 15–18: Circle, Center, Diameter (Thales) & Semicircle",
+      "euclid_element": "I.def.15",
+      "topic": "Commentary on Def. 16 (Center of a Circle): why Euclid specifies 'a point lying within the figure', distinguishing the center from poles outside the plane.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:153.3",
+          "volume": "volume_I",
+          "folio": "0199",
+          "page": "185",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 153, 3"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-157-10",
+      "canonical_locus": "Friedlein 157, 10",
+      "friedlein_start_page": 157,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 157,
+      "friedlein_end_line": 10,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-15-18",
+      "codex_section_title": "Defs. 15–18: Circle, Center, Diameter (Thales) & Semicircle",
+      "euclid_element": "I.def.15",
+      "topic": "Commentary on Def. 17 (Diameter): Thales's first demonstration (recorded by Eudemus) that the diameter bisects the circle.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:157.10",
+          "volume": "volume_I",
+          "folio": "0199",
+          "page": "185",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 157, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-165-24",
+      "canonical_locus": "Friedlein 165, 24",
+      "friedlein_start_page": 165,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 165,
+      "friedlein_end_line": 24,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-19-21",
+      "codex_section_title": "Defs. 19–21: Rectilinear Figures & Sevenfold Species of Triangles",
+      "euclid_element": "I.def.20",
+      "topic": "Combinatorial proof that there are seven (not nine) species of triangles when classified simultaneously by sides and by angles.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:165.24",
+          "volume": "volume_I",
+          "folio": "0041",
+          "page": "27",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 165, 24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-166-10",
+      "canonical_locus": "Friedlein 166, 10",
+      "friedlein_start_page": 166,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 166,
+      "friedlein_end_line": 10,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-19-21",
+      "codex_section_title": "Defs. 19–21: Rectilinear Figures & Sevenfold Species of Triangles",
+      "euclid_element": "I.def.20",
+      "topic": "Terminology and classification of four-sided figures and the Pythagorean significance of the square (tetragonon).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:166.10",
+          "volume": "volume_I",
+          "folio": "0202",
+          "page": "188",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 166, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-168-24",
+      "canonical_locus": "Friedlein 168, 24",
+      "friedlein_start_page": 168,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 168,
+      "friedlein_end_line": 24,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-19-21",
+      "codex_section_title": "Defs. 19–21: Rectilinear Figures & Sevenfold Species of Triangles",
+      "euclid_element": "I.def.20",
+      "topic": "Etymology and geometric properties of equilateral, isosceles, and scalene triangles.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:168.24",
+          "volume": "volume_I",
+          "folio": "0202",
+          "page": "188",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 168, 24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-176-5-17",
+      "canonical_locus": "Friedlein 176, 5–17",
+      "friedlein_start_page": 176,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 176,
+      "friedlein_end_line": 17,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-23",
+      "codex_section_title": "Def. 23: Parallel Straight Lines (Euclid, Posidonius & Geminus)",
+      "euclid_element": "I.def.23",
+      "topic": "Posidonius's equidistant definition of parallel lines contrasted with Euclid's non-secant coplanar definition; excerpt from Geminus.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:176.5-17",
+          "volume": "volume_I",
+          "folio": "0054",
+          "page": "40",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 176, 5—17"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-176-6-17",
+      "canonical_locus": "Friedlein 176, 6–17",
+      "friedlein_start_page": 176,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 176,
+      "friedlein_end_line": 17,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-23",
+      "codex_section_title": "Def. 23: Parallel Straight Lines (Euclid, Posidonius & Geminus)",
+      "euclid_element": "I.def.23",
+      "topic": "Critique of defining parallels by equidistance: non-intersecting lines vs. equidistant loci.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:176.6-17",
+          "volume": "volume_I",
+          "folio": "0204",
+          "page": "190",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 176, 6—17"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-177-11",
+      "canonical_locus": "Friedlein 177, 11",
+      "friedlein_start_page": 177,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 177,
+      "friedlein_end_line": 11,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-23",
+      "codex_section_title": "Def. 23: Parallel Straight Lines (Euclid, Posidonius & Geminus)",
+      "euclid_element": "I.def.23",
+      "topic": "Geminus's crucial warning on asymptotic curves (hyperbola and conchoid of Nicomedes): lines can converge continually forever without ever meeting.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:177.11",
+          "volume": "volume_I",
+          "folio": "0205",
+          "page": "191",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 177, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-177-21",
+      "canonical_locus": "Friedlein 177, 21",
+      "friedlein_start_page": 177,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 177,
+      "friedlein_end_line": 21,
+      "codex_unit": "definitions",
+      "codex_section_id": "sec-def-23",
+      "codex_section_title": "Def. 23: Parallel Straight Lines (Euclid, Posidonius & Geminus)",
+      "euclid_element": "I.def.23",
+      "topic": "Closing attribution of the parallel-line classification to Geminus's Philokalia / Theory of Mathematics.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:177.21",
+          "volume": "volume_I",
+          "folio": "0041",
+          "page": "27",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 177, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-178-12-179-8",
+      "canonical_locus": "Friedlein 178, 12–179, 8",
+      "friedlein_start_page": 178,
+      "friedlein_start_line": 12,
+      "friedlein_end_page": 179,
+      "friedlein_end_line": 8,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-epistemology",
+      "codex_section_title": "Distinction of Hypotheses, Postulates & Axioms",
+      "euclid_element": null,
+      "topic": "Aristotelian and Stoic/Geminian distinctions among Hypothesis, Postulate (aitema), and Axiom (axioma).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:178.12-179.8",
+          "volume": "volume_I",
+          "folio": "0136",
+          "page": "122",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 178, 12—179, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-181-4-11",
+      "canonical_locus": "Friedlein 181, 4–11",
+      "friedlein_start_page": 181,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 181,
+      "friedlein_end_line": 11,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-epistemology",
+      "codex_section_title": "Distinction of Hypotheses, Postulates & Axioms",
+      "euclid_element": null,
+      "topic": "Why drawing a straight line and circle are postulates (simple and easily granted), whereas constructing a single-turn spiral or equilateral triangle requires complex proof.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:181.4-11",
+          "volume": "volume_I",
+          "folio": "0137",
+          "page": "123",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 181, 4—11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-181-16-23",
+      "canonical_locus": "Friedlein 181, 16–23",
+      "friedlein_start_page": 181,
+      "friedlein_start_line": 16,
+      "friedlein_end_page": 181,
+      "friedlein_end_line": 23,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-epistemology",
+      "codex_section_title": "Distinction of Hypotheses, Postulates & Axioms",
+      "euclid_element": null,
+      "topic": "Speusippus and Amphinomus on the difference between postulates (constructive generations) and axioms (indemonstrable truths), citing Archimedes' Equilibria.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:181.16-23",
+          "volume": "volume_I",
+          "folio": "0137",
+          "page": "123",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 181, 16—23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-182-21-183-13",
+      "canonical_locus": "Friedlein 182, 21–183, 13",
+      "friedlein_start_page": 182,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 183,
+      "friedlein_end_line": 13,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-epistemology",
+      "codex_section_title": "Distinction of Hypotheses, Postulates & Axioms",
+      "euclid_element": null,
+      "topic": "Third distinction between postulate and axiom following Aristotle's Posterior Analytics (demonstrable/assumed without learner's prior conviction vs. self-evident).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:182.21-183.13",
+          "volume": "volume_I",
+          "folio": "0138",
+          "page": "124",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 182, 21—183, 13"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-185",
+      "canonical_locus": "Friedlein 185",
+      "friedlein_start_page": 185,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 185,
+      "friedlein_end_line": null,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-1-3",
+      "codex_section_title": "Postulates 1–3: Straightedge & Compass Constructibility (Geminus)",
+      "euclid_element": "I.post.1",
+      "topic": "Commentary on Postulate 1 quoting Geminus in Greek: because the line is the flux of a point and the straight line a uniform undeviating flux, joining two points is postulated.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "proclus:in-euclid:p185",
+          "folio": "0121",
+          "page": "121",
+          "book": "Caput IV, §4",
+          "display": "In Euclid. Comment. ed. Friedlein pag. 185 (quoting Geminus on uniform undeviating flux)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-189-190",
+      "canonical_locus": "Friedlein 189–190",
+      "friedlein_start_page": 189,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 190,
+      "friedlein_end_line": null,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-4",
+      "codex_section_title": "Postulate 4: Equality of All Right Angles",
+      "euclid_element": "I.post.4",
+      "topic": "Discussion of Postulate 4 and Pappus's remark that the converse ('an angle equal to a right angle is not necessarily right' if curvilinear, e.g. lunular angle) fails.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:189.190",
+          "volume": "volume_I",
+          "folio": "0039",
+          "page": "25",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "pp. 189, 190"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-189-11",
+      "canonical_locus": "Friedlein 189, 11",
+      "friedlein_start_page": 189,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 189,
+      "friedlein_end_line": 11,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-4",
+      "codex_section_title": "Postulate 4: Equality of All Right Angles",
+      "euclid_element": "I.post.4",
+      "topic": "Geminus's attempted proof of Postulate 4 (that all right angles are equal) from the uniformity of right-angled inclination.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:189.11",
+          "volume": "volume_I",
+          "folio": "0215",
+          "page": "201",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 189, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-191-21",
+      "canonical_locus": "Friedlein 191, 21",
+      "friedlein_start_page": 191,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 191,
+      "friedlein_end_line": 21,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-5",
+      "codex_section_title": "Postulate 5: The Parallel Postulate & Asymptotic Curves",
+      "euclid_element": "I.post.5",
+      "topic": "Historical testimony that from the outset geometers attacked Postulate 5 as lacking self-evidence and sought either to prove it or redefine parallels.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:191.21",
+          "volume": "volume_I",
+          "folio": "0216",
+          "page": "202",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 191, 21"
+        }
+      ],
+      "hoenen_citations": [
+        {
+          "citation_key": "",
+          "folio": "0015",
+          "page": "15",
+          "book": "Caput I, §5",
+          "display": "teste Proclo: ancient objections and replacement postulates for Postulate V (Friedlein 191)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-191-23",
+      "canonical_locus": "Friedlein 191, 23",
+      "friedlein_start_page": 191,
+      "friedlein_start_line": 23,
+      "friedlein_end_page": 191,
+      "friedlein_end_line": 23,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-post-5",
+      "codex_section_title": "Postulate 5: The Parallel Postulate & Asymptotic Curves",
+      "euclid_element": "I.post.5",
+      "topic": "Reference to Claudius Ptolemy's dedicated book attempting to demonstrate Postulate 5 from earlier Euclidean principles.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:191.23",
+          "volume": "volume_I",
+          "folio": "0057",
+          "page": "43",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 191, 23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-194-8",
+      "canonical_locus": "Friedlein 194, 8",
+      "friedlein_start_page": 194,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 194,
+      "friedlein_end_line": 8,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-axioms",
+      "codex_section_title": "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus",
+      "euclid_element": "I.cn.1",
+      "topic": "Apollonius's attempted demonstration of Common Notion 1 ('things equal to the same are equal to one another') via a middle space/coincidence, and Proclus's refutation.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:194.8",
+          "volume": "volume_I",
+          "folio": "0235",
+          "page": "221",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 194, 8"
+        },
+        {
+          "citation_key": "proclus:in-euclid:194.8",
+          "volume": "volume_I",
+          "folio": "0135",
+          "page": "121",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 194, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-194-10",
+      "canonical_locus": "Friedlein 194, 10",
+      "friedlein_start_page": 194,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 194,
+      "friedlein_end_line": 10,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-axioms",
+      "codex_section_title": "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus",
+      "euclid_element": "I.cn.1",
+      "topic": "Critique of proving axioms through things less evident than the axioms themselves.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:194.10",
+          "volume": "volume_I",
+          "folio": "0076",
+          "page": "62",
+          "book": "",
+          "section": "chapter_v",
+          "display": "pp. 194, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-196-21",
+      "canonical_locus": "Friedlein 196, 21",
+      "friedlein_start_page": 196,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 196,
+      "friedlein_end_line": 21,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-axioms",
+      "codex_section_title": "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus",
+      "euclid_element": "I.cn.1",
+      "topic": "Rejection of the interpolated axiom 'two straight lines do not enclose a space' as belonging to the special matter of geometry rather than common notions.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:196.21",
+          "volume": "volume_I",
+          "folio": "0246",
+          "page": "232",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 196, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-197-6-198-5",
+      "canonical_locus": "Friedlein 197, 6–198, 5",
+      "friedlein_start_page": 197,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 198,
+      "friedlein_end_line": 5,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-axioms",
+      "codex_section_title": "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus",
+      "euclid_element": "I.cn.1",
+      "topic": "Heron's restriction of authentic Euclidean Common Notions to three, and Pappus's proposed additional axioms.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:197.6-198.5",
+          "volume": "volume_I",
+          "folio": "0238",
+          "page": "224",
+          "book": "I",
+          "section": "first_principles",
+          "display": "pp. 197, 6—198, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-198-5-15",
+      "canonical_locus": "Friedlein 198, 5–15",
+      "friedlein_start_page": 198,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 198,
+      "friedlein_end_line": 15,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-axioms",
+      "codex_section_title": "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus",
+      "euclid_element": "I.cn.1",
+      "topic": "Editorial criterion separating Euclid's genuine five (or three) Common Notions from later scholiastic interpolations.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:198.5-15",
+          "volume": "volume_I",
+          "folio": "0059",
+          "page": "45",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 198, 5—15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-200-10",
+      "canonical_locus": "Friedlein 200, 10",
+      "friedlein_start_page": 200,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 200,
+      "friedlein_end_line": 10,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-six-parts",
+      "codex_section_title": "Problems vs. Theorems & The Six Canonical Parts of a Proposition",
+      "euclid_element": null,
+      "topic": "Speusippus and Amphinomus (school of Plato) vs. Menaechmus on whether all geometric propositions should be called 'theorems' or 'problems'.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:200.10",
+          "volume": "volume_I",
+          "folio": "0033",
+          "page": "19",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 200, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-200-10-13",
+      "canonical_locus": "Friedlein 200, 10–13",
+      "friedlein_start_page": 200,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 200,
+      "friedlein_end_line": 13,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-six-parts",
+      "codex_section_title": "Problems vs. Theorems & The Six Canonical Parts of a Proposition",
+      "euclid_element": null,
+      "topic": "Philosophical reason why Platonists preferred 'theorem': eternal intelligible realities do not undergo temporal generation.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:200.10-13",
+          "volume": "volume_I",
+          "folio": "0047",
+          "page": "33",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 200, 10—13"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-202-5",
+      "canonical_locus": "Friedlein 202, 5",
+      "friedlein_start_page": 202,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 202,
+      "friedlein_end_line": 5,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-six-parts",
+      "codex_section_title": "Problems vs. Theorems & The Six Canonical Parts of a Proposition",
+      "euclid_element": null,
+      "topic": "Zenodotus (pupil of Oenopides) and Posidonius on how a problem inquires *whether* something exists while a theorem inquires *what* attribute belongs to it.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:202.5",
+          "volume": "volume_I",
+          "folio": "0257",
+          "page": "243",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 202, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-205-13-15",
+      "canonical_locus": "Friedlein 205, 13–15",
+      "friedlein_start_page": 205,
+      "friedlein_start_line": 13,
+      "friedlein_end_page": 205,
+      "friedlein_end_line": 15,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-six-parts",
+      "codex_section_title": "Problems vs. Theorems & The Six Canonical Parts of a Proposition",
+      "euclid_element": null,
+      "topic": "The Six Canonical Parts of a Proposition (Protasis, Ekthesis, Diorismos, Kataskeue, Apodeixis, Symperasma): which three parts are indispensable in every proposition.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:205.13-15",
+          "volume": "volume_I",
+          "folio": "0146",
+          "page": "132",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 205, 13—15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-207-4-25",
+      "canonical_locus": "Friedlein 207, 4–25",
+      "friedlein_start_page": 207,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 207,
+      "friedlein_end_line": 25,
+      "codex_unit": "postulates-axioms",
+      "codex_section_id": "sec-six-parts",
+      "codex_section_title": "Problems vs. Theorems & The Six Canonical Parts of a Proposition",
+      "euclid_element": null,
+      "topic": "When Ekthesis and Kataskeue may be omitted (as in universal arithmetic propositions), and how Symperasma converts the particular proof back to the universal Protasis.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:207.4-25",
+          "volume": "volume_I",
+          "folio": "0145",
+          "page": "131",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 207, 4—25"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-208-21",
+      "canonical_locus": "Friedlein 208, 21",
+      "friedlein_start_page": 208,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 208,
+      "friedlein_end_line": 21,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Commentary on Prop. I.1: why Euclid opens Book I with the problem of constructing the equilateral triangle.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:208.21",
+          "volume": "volume_I",
+          "folio": "0144",
+          "page": "130",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 208, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-210-18",
+      "canonical_locus": "Friedlein 210, 18",
+      "friedlein_start_page": 210,
+      "friedlein_start_line": 18,
+      "friedlein_end_page": 210,
+      "friedlein_end_line": 18,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Symbolic and cosmic primacy of the equilateral triangle (Plato's Timaeus) alongside its deductive role in Book I.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:210.18",
+          "volume": "volume_I",
+          "folio": "0045",
+          "page": "31",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 210, 18"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-211-1-212-4",
+      "canonical_locus": "Friedlein 211, 1–212, 4",
+      "friedlein_start_page": 211,
+      "friedlein_start_line": 1,
+      "friedlein_end_page": 212,
+      "friedlein_end_line": 4,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Definition of Lemma (λαμβανόμενον requiring confirmation) vs. Case (ptosis), Porism, Objection (enstasis), and Reduction (apagoge).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:211.1-212.4",
+          "volume": "volume_I",
+          "folio": "0147",
+          "page": "133",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 211, 1—212, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-211-19",
+      "canonical_locus": "Friedlein 211, 19",
+      "friedlein_start_page": 211,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 211,
+      "friedlein_end_line": 19,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Definition of geometrical Analysis (ascent to admitted principles) and Synthesis, attributed to Plato's transmission to Leodamas of Thasos.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:211.19",
+          "volume": "volume_I",
+          "folio": "0052",
+          "page": "38",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 211, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-211-19-23",
+      "canonical_locus": "Friedlein 211, 19–23",
+      "friedlein_start_page": 211,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 211,
+      "friedlein_end_line": 23,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Plato hands down the analytical method to Leodamas, through which many discoveries in geometry were made.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:211.19-23",
+          "volume": "volume_I",
+          "folio": "0050",
+          "page": "36",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 211, 19—23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-212-5-11",
+      "canonical_locus": "Friedlein 212, 5–11",
+      "friedlein_start_page": 212,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 212,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Meaning of Case (ptosis): varying configurations of a construction that preserve the same demonstrative force.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:212.5-11",
+          "volume": "volume_I",
+          "folio": "0148",
+          "page": "134",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 212, 5—11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-212-14",
+      "canonical_locus": "Friedlein 212, 14",
+      "friedlein_start_page": 212,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 212,
+      "friedlein_end_line": 14,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Dual meaning of Porism: a corollary won as a windfall from another demonstration vs. an intermediate inquiry seeking to *find* an existing thing (as in Euclid's Porisms).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:212.14",
+          "volume": "volume_I",
+          "folio": "0027",
+          "page": "13",
+          "book": "",
+          "section": "chapter_ii",
+          "display": "pp. 212, 14"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-212-18-23",
+      "canonical_locus": "Friedlein 212, 18–23",
+      "friedlein_start_page": 212,
+      "friedlein_start_line": 18,
+      "friedlein_end_page": 212,
+      "friedlein_end_line": 23,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Aristotelian Objection (enstasis) in geometry: blocking either the construction or the demonstration.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:212.18-23",
+          "volume": "volume_I",
+          "folio": "0149",
+          "page": "135",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 212, 18—23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-212-24-213-11",
+      "canonical_locus": "Friedlein 212, 24–213, 11",
+      "friedlein_start_page": 212,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 213,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Geometric Reduction (apagoge), exemplified by Hippocrates of Chios's reduction of duplicating the cube to finding two mean proportionals.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:212.24-213.11",
+          "volume": "volume_I",
+          "folio": "0149",
+          "page": "135",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 212, 24—213, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-214-18",
+      "canonical_locus": "Friedlein 214, 18",
+      "friedlein_start_page": 214,
+      "friedlein_start_line": 18,
+      "friedlein_end_page": 214,
+      "friedlein_end_line": 18,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Zeno of Sidon's Epicurean critique of Prop. I.1 (what if two straight lines share a common segment?) and Posidonius's refutation book against Zeno.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:214.18",
+          "volume": "volume_I",
+          "folio": "0210",
+          "page": "196",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 214, 18"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-215-24",
+      "canonical_locus": "Friedlein 215, 24",
+      "friedlein_start_page": 215,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 215,
+      "friedlein_end_line": 24,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Posidonius's reply to Zeno of Sidon: Postulate 2 implicitly guarantees that a finite straight line can be produced in one unique straight continuation.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:215.24",
+          "volume": "volume_I",
+          "folio": "0211",
+          "page": "197",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 215, 24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-217-10",
+      "canonical_locus": "Friedlein 217, 10",
+      "friedlein_start_page": 217,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 217,
+      "friedlein_end_line": 10,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-01",
+      "codex_section_title": "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection",
+      "euclid_element": "I.1",
+      "topic": "Critique of attempting to prove uniqueness of straight segments from circle bisection without circularity.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:217.10",
+          "volume": "volume_I",
+          "folio": "0212",
+          "page": "198",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 217, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-221-7-11",
+      "canonical_locus": "Friedlein 221, 7–11",
+      "friedlein_start_page": 221,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 221,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-02-03",
+      "codex_section_title": "Props. I.2–I.3: Transferring & Subtracting Segments",
+      "euclid_element": "I.2",
+      "topic": "Commentary on Prop. I.2: enumeration of geometric cases depending on whether the given point lies on the segment, at its extremity, or outside it.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:221.7-11",
+          "volume": "volume_I",
+          "folio": "0143",
+          "page": "129",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 221, 7—11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-234-21",
+      "canonical_locus": "Friedlein 234, 21",
+      "friedlein_start_page": 234,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 234,
+      "friedlein_end_line": 21,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-04",
+      "codex_section_title": "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus",
+      "euclid_element": "I.4",
+      "topic": "Commentary on Prop. I.4: why this is the first Theorem in the Elements and why SAS congruence relies on superposition (epharmoge) without prior theorems.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:234.21",
+          "volume": "volume_I",
+          "folio": "0142",
+          "page": "128",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 234, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-241-19-243-11",
+      "canonical_locus": "Friedlein 241, 19–243, 11",
+      "friedlein_start_page": 241,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 243,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-04",
+      "codex_section_title": "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus",
+      "euclid_element": "I.4",
+      "topic": "Carpus of Antioch (in his Astronomical Treatise) vs. Geminus on whether Problems precede Theorems in natural order.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:241.19-243.11",
+          "volume": "volume_I",
+          "folio": "0141",
+          "page": "127",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "pp. 241, 19—243, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-241-21",
+      "canonical_locus": "Friedlein 241, 21",
+      "friedlein_start_page": 241,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 241,
+      "friedlein_end_line": 21,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-04",
+      "codex_section_title": "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus",
+      "euclid_element": "I.4",
+      "topic": "Citation of Carpus the Mechanician ('Carpus of Antioch') on the methodological priority of Problems.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:241.21",
+          "volume": "volume_I",
+          "folio": "0058",
+          "page": "44",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 241, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-242-16",
+      "canonical_locus": "Friedlein 242, 16",
+      "friedlein_start_page": 242,
+      "friedlein_start_line": 16,
+      "friedlein_end_page": 242,
+      "friedlein_end_line": 16,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-04",
+      "codex_section_title": "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus",
+      "euclid_element": "I.4",
+      "topic": "Proclus's synthesis resolving Carpus and Geminus: problems predominate in genesis/art, theorems in dignity and contemplative science.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:242.16",
+          "volume": "volume_I",
+          "folio": "0154",
+          "page": "140",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 242, 16"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-248-22-249-19",
+      "canonical_locus": "Friedlein 248, 22–249, 19",
+      "friedlein_start_page": 248,
+      "friedlein_start_line": 22,
+      "friedlein_end_page": 249,
+      "friedlein_end_line": 19,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-05",
+      "codex_section_title": "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)",
+      "euclid_element": "I.5",
+      "topic": "Proclus's alternative proof of Prop. I.5 (isosceles base angles) taking points inside the equal sides rather than producing them.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:248.22-249.19",
+          "volume": "volume_I",
+          "folio": "0268",
+          "page": "254",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 248, 22—249, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-249-20-250-12",
+      "canonical_locus": "Friedlein 249, 20–250, 12",
+      "friedlein_start_page": 249,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 250,
+      "friedlein_end_line": 12,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-05",
+      "codex_section_title": "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)",
+      "euclid_element": "I.5",
+      "topic": "Pappus of Alexandria's celebrated zero-construction symmetry proof of Prop. I.5, comparing triangle ABC with itself as ACB.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:249.20-250.12",
+          "volume": "volume_I",
+          "folio": "0268",
+          "page": "254",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 249, 20—250, 12"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-250-20",
+      "canonical_locus": "Friedlein 250, 20",
+      "friedlein_start_page": 250,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 250,
+      "friedlein_end_line": 20,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-05",
+      "codex_section_title": "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)",
+      "euclid_element": "I.5",
+      "topic": "Thales of Miletus's discovery of Prop. I.5, calling the equal base angles 'similar' (homoias) in archaic fashion.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:250.20",
+          "volume": "volume_I",
+          "folio": "0266",
+          "page": "252",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 250, 20"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-251-2-11",
+      "canonical_locus": "Friedlein 251, 2–11",
+      "friedlein_start_page": 251,
+      "friedlein_start_line": 2,
+      "friedlein_end_page": 251,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-05",
+      "codex_section_title": "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)",
+      "euclid_element": "I.5",
+      "topic": "Geminus's classification of theorems and introductory transition to the theory of geometric conversion.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:251.2-11",
+          "volume": "volume_I",
+          "folio": "0055",
+          "page": "41",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 251, 2—11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-252-5",
+      "canonical_locus": "Friedlein 252, 5",
+      "friedlein_start_page": 252,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 252,
+      "friedlein_end_line": 5,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-06",
+      "codex_section_title": "Prop. I.6: Converse of I.5, Conversion Theory & Reductio ad Absurdum",
+      "euclid_element": "I.6",
+      "topic": "Commentary on Prop. I.6: exact theory of complete/leading conversion vs. partial conversion, developed by Menaechmus and Amphinomus.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:252.5",
+          "volume": "volume_I",
+          "folio": "0270",
+          "page": "256",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 252, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-254-22-27",
+      "canonical_locus": "Friedlein 254, 22–27",
+      "friedlein_start_page": 254,
+      "friedlein_start_line": 22,
+      "friedlein_end_page": 254,
+      "friedlein_end_line": 27,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-06",
+      "codex_section_title": "Prop. I.6: Converse of I.5, Conversion Theory & Reductio ad Absurdum",
+      "euclid_element": "I.6",
+      "topic": "Logical structure of Reductio ad Absurdum (apagoge eis adynaton): assuming the contradictory of the conclusion alongside the hypothesis to refute a known truth.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:254.22-27",
+          "volume": "volume_I",
+          "folio": "0150",
+          "page": "136",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 254, 22—27"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-255-8-26",
+      "canonical_locus": "Friedlein 255, 8–26",
+      "friedlein_start_page": 255,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 255,
+      "friedlein_end_line": 26,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-06",
+      "codex_section_title": "Prop. I.6: Converse of I.5, Conversion Theory & Reductio ad Absurdum",
+      "euclid_element": "I.6",
+      "topic": "Correspondence between Reductio ad Absurdum and geometric Analysis, and why difficult converses are characteristically established indirectly.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:255.8-26",
+          "volume": "volume_I",
+          "folio": "0151",
+          "page": "137",
+          "book": "",
+          "section": "chapter_ix",
+          "display": "p. 255, 8—26"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-269",
+      "canonical_locus": "Friedlein 269",
+      "friedlein_start_page": 269,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 269,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-07-08",
+      "codex_section_title": "Props. I.7–I.8: Rigidity Lemma & SSS Congruence (Philo's Proof)",
+      "euclid_element": "I.8",
+      "topic": "Commentary on Prop. I.8: Philo of Byzantium's elegant direct three-case proof of SSS congruence without needing Lemma I.7, and terminology of circumference.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:269",
+          "volume": "volume_II",
+          "folio": "0117",
+          "page": "111",
+          "book": "IV",
+          "section": "propositions",
+          "display": "p. 269"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-270-5-24",
+      "canonical_locus": "Friedlein 270, 5–24",
+      "friedlein_start_page": 270,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 270,
+      "friedlein_end_line": 24,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-09-10",
+      "codex_section_title": "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines",
+      "euclid_element": "I.9",
+      "topic": "Commentary on Prop. I.9: refutation of objections to Euclid's angle-bisection construction (ensuring the inner equilateral vertex lies cleanly within the angle).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:270.5-24",
+          "volume": "volume_I",
+          "folio": "0059",
+          "page": "45",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 270, 5—24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-272-3-7",
+      "canonical_locus": "Friedlein 272, 3–7",
+      "friedlein_start_page": 272,
+      "friedlein_start_line": 3,
+      "friedlein_end_page": 272,
+      "friedlein_end_line": 7,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-09-10",
+      "codex_section_title": "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines",
+      "euclid_element": "I.9",
+      "topic": "Why trisecting a general rectilinear angle transcends straightedge and compass, requiring Nicomedes' conchoids, Hippias's quadratrices, or Archimedes' spirals.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:272.3-7",
+          "volume": "volume_I",
+          "folio": "0175",
+          "page": "161",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 272, 3—7"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-272-10",
+      "canonical_locus": "Friedlein 272, 10",
+      "friedlein_start_page": 272,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 272,
+      "friedlein_end_line": 10,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-09-10",
+      "codex_section_title": "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines",
+      "euclid_element": "I.9",
+      "topic": "Historical record of angle-trisection curves (Nicomedes, Hippias, Archimedes) in Hellenistic geometry.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:272.10",
+          "volume": "volume_I",
+          "folio": "0040",
+          "page": "26",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 272, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-277-25-279-4",
+      "canonical_locus": "Friedlein 277, 25–279, 4",
+      "friedlein_start_page": 277,
+      "friedlein_start_line": 25,
+      "friedlein_end_page": 279,
+      "friedlein_end_line": 4,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-09-10",
+      "codex_section_title": "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines",
+      "euclid_element": "I.9",
+      "topic": "Commentary on Prop. I.10: refutation of Xenocrates' doctrine of indivisible lines (atomoi grammai) from the universal bisectability of segments.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:277.25-279.4",
+          "volume": "volume_I",
+          "folio": "0282",
+          "page": "268",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 277, 25—279, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-279-16-280-4",
+      "canonical_locus": "Friedlein 279, 16–280, 4",
+      "friedlein_start_page": 279,
+      "friedlein_start_line": 16,
+      "friedlein_end_page": 280,
+      "friedlein_end_line": 4,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-09-10",
+      "codex_section_title": "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines",
+      "euclid_element": "I.9",
+      "topic": "Apollonius of Perga's symmetric two-circle construction for bisecting a finite straight line (Prop. I.10) without first invoking Prop. I.9.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:279.16-280.4",
+          "volume": "volume_I",
+          "folio": "0282",
+          "page": "268",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 279, 16—280, 4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-280-9",
+      "canonical_locus": "Friedlein 280, 9",
+      "friedlein_start_page": 280,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 280,
+      "friedlein_end_line": 9,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-11-12",
+      "codex_section_title": "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon",
+      "euclid_element": "I.12",
+      "topic": "Commentary on Prop. I.11: relation between bisecting a segment and erecting a perpendicular at a given point.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:280.9",
+          "volume": "volume_I",
+          "folio": "0046",
+          "page": "32",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 280, 9"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-282-8",
+      "canonical_locus": "Friedlein 282, 8",
+      "friedlein_start_page": 282,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 282,
+      "friedlein_end_line": 8,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-11-12",
+      "codex_section_title": "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon",
+      "euclid_element": "I.12",
+      "topic": "Apollonius's alternative construction for erecting a perpendicular to a straight line from a point on it (Prop. I.11).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:282.8",
+          "volume": "volume_I",
+          "folio": "0284",
+          "page": "270",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 282, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-283-7-10",
+      "canonical_locus": "Friedlein 283, 7–10",
+      "friedlein_start_page": 283,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 283,
+      "friedlein_end_line": 10,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-11-12",
+      "codex_section_title": "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon",
+      "euclid_element": "I.12",
+      "topic": "Commentary on Prop. I.12: Oenopides of Chios first investigated dropping a perpendicular for astronomy and called the perpendicular 'drawn gnomon-wise' (kata gnomona).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:283.7-10",
+          "volume": "volume_I",
+          "folio": "0285",
+          "page": "271",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 283, 7—10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-283-9",
+      "canonical_locus": "Friedlein 283, 9",
+      "friedlein_start_page": 283,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 283,
+      "friedlein_end_line": 9,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-11-12",
+      "codex_section_title": "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon",
+      "euclid_element": "I.12",
+      "topic": "Archaic Greek terminology of Oenopides: calling the perpendicular kata gnomona because the sundial gnomon stands at right angles to the horizon.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:283.9",
+          "volume": "volume_I",
+          "folio": "0195",
+          "page": "181",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 283, 9"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-286-12-289-6",
+      "canonical_locus": "Friedlein 286, 12–289, 6",
+      "friedlein_start_page": 286,
+      "friedlein_start_line": 12,
+      "friedlein_end_page": 289,
+      "friedlein_end_line": 6,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-11-12",
+      "codex_section_title": "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon",
+      "euclid_element": "I.12",
+      "topic": "Continuity analysis of circle-line intersection in Prop. I.12 and the three-case classification of objections.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:286.12-289.6",
+          "volume": "volume_I",
+          "folio": "0286",
+          "page": "272",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 286, 12—289, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-297-1-298-10",
+      "canonical_locus": "Friedlein 297, 1–298, 10",
+      "friedlein_start_page": 297,
+      "friedlein_start_line": 1,
+      "friedlein_end_page": 298,
+      "friedlein_end_line": 10,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Commentary on Prop. I.14: Porphyry's precision regarding the 'on opposite sides' condition in proving two adjacent supplementary rays form one straight line.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:297.1-298.10",
+          "volume": "volume_I",
+          "folio": "0038",
+          "page": "24",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "pp. 297, 1—298, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-298-14-24",
+      "canonical_locus": "Friedlein 298, 14–24",
+      "friedlein_start_page": 298,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 298,
+      "friedlein_end_line": 24,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Commentary on Prop. I.15: exact distinction between adjacent angles (ephexes) and vertical angles (kata koryphen).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:298.14-24",
+          "volume": "volume_I",
+          "folio": "0292",
+          "page": "278",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 298, 14—24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-299-3-6",
+      "canonical_locus": "Friedlein 299, 3–6",
+      "friedlein_start_page": 299,
+      "friedlein_start_line": 3,
+      "friedlein_end_page": 299,
+      "friedlein_end_line": 6,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Eudemus's testimony that Thales first discovered the equality of vertical angles (Prop. I.15), while Euclid first gave its scientific demonstration.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:299.3-6",
+          "volume": "volume_I",
+          "folio": "0292",
+          "page": "278",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 299, 3—6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-303-304",
+      "canonical_locus": "Friedlein 303–304",
+      "friedlein_start_page": 303,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 304,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Excursus on Porisms following Prop. I.15: distinction between Corollary-Porisms and the higher Porisms of Euclid's lost three-book treatise.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:303-4",
+          "volume": "volume_I",
+          "folio": "0096",
+          "page": "82",
+          "book": "",
+          "section": "chapter_vii",
+          "display": "pp. 303—4"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-303-6",
+      "canonical_locus": "Friedlein 303, 6",
+      "friedlein_start_page": 303,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 303,
+      "friedlein_end_line": 6,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Characterization of a Porism as an unintended 'windfall' or 'gain' (kerdos) emerging directly from a completed demonstration.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:303-6",
+          "volume": "volume_II",
+          "folio": "0181",
+          "page": "175",
+          "book": "V",
+          "section": "propositions",
+          "display": "p. 303, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-304-305",
+      "canonical_locus": "Friedlein 304–305",
+      "friedlein_start_page": 304,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 305,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Examples of geometric corollaries and porismatic deductions in the Elements.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:304-5",
+          "volume": "volume_II",
+          "folio": "0104",
+          "page": "98",
+          "book": "IV",
+          "section": "propositions",
+          "display": "pp. 304—5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-304-2",
+      "canonical_locus": "Friedlein 304, 2",
+      "friedlein_start_page": 304,
+      "friedlein_start_line": 2,
+      "friedlein_end_page": 304,
+      "friedlein_end_line": 2,
+      "codex_unit": "propositions-1-15",
+      "codex_section_id": "sec-prop-13-15",
+      "codex_section_title": "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms",
+      "euclid_element": "I.15",
+      "topic": "Classification of Porisms into geometric vs. arithmetic, following either theorems (as I.15 Porism) or problems (as IV.15 Porism).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:304-2",
+          "volume": "volume_II",
+          "folio": "0115",
+          "page": "109",
+          "book": "IV",
+          "section": "propositions",
+          "display": "p. 304, 2"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-305-24",
+      "canonical_locus": "Friedlein 305, 24",
+      "friedlein_start_page": 305,
+      "friedlein_start_line": 24,
+      "friedlein_end_page": 305,
+      "friedlein_end_line": 24,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-16-17",
+      "codex_section_title": "Props. I.16–I.17: Exterior Angle & Sum of Two Interior Angles",
+      "euclid_element": "I.16",
+      "topic": "Opening of Prop. I.16 commentary: why omitting the construction misleads critics like Philippus into questioning the exterior-angle enunciation.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:305.24",
+          "volume": "volume_I",
+          "folio": "0034",
+          "page": "20",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 305, 24"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-315-11-316-13",
+      "canonical_locus": "Friedlein 315, 11–316, 13",
+      "friedlein_start_page": 315,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 316,
+      "friedlein_end_line": 13,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-18-19",
+      "codex_section_title": "Props. I.18–I.19: Greater Side & Greater Angle (Division Proof)",
+      "euclid_element": "I.18",
+      "topic": "Commentary on Prop. I.18: alternative construction cutting off the equal segment from the other extremity (attributed to Porphyry/Heron).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:315.11-316.13",
+          "volume": "volume_I",
+          "folio": "0297",
+          "page": "283",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 315, 11—316, 13"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-318-16-23",
+      "canonical_locus": "Friedlein 318, 16–23",
+      "friedlein_start_page": 318,
+      "friedlein_start_line": 16,
+      "friedlein_end_page": 318,
+      "friedlein_end_line": 23,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-18-19",
+      "codex_section_title": "Props. I.18–I.19: Greater Side & Greater Angle (Division Proof)",
+      "euclid_element": "I.18",
+      "topic": "Commentary on Prop. I.19: proof by exhaustive trichotomy / division (ek diaireseos) eliminating equality and inferiority.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:318.16-23",
+          "volume": "volume_I",
+          "folio": "0299",
+          "page": "285",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 318, 16—23"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-322",
+      "canonical_locus": "Friedlein 322",
+      "friedlein_start_page": 322,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 322,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-20-21",
+      "codex_section_title": "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)",
+      "euclid_element": "I.20",
+      "topic": "Commentary on Prop. I.20: Epicurean mockery of the triangle inequality as 'known even to an ass walking straight to its fodder', and Proclus's defense of scientific cause (aitia).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:322",
+          "volume": "volume_I",
+          "folio": "0301",
+          "page": "287",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 322"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-323-326",
+      "canonical_locus": "Friedlein 323–326",
+      "friedlein_start_page": 323,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 326,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-20-21",
+      "codex_section_title": "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)",
+      "euclid_element": "I.20",
+      "topic": "Heron's and Porphyry's elegant alternative demonstrations of the triangle inequality (Prop. I.20) without producing a side of the triangle.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:323-6",
+          "volume": "volume_I",
+          "folio": "0301",
+          "page": "287",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 323–6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-327-12",
+      "canonical_locus": "Friedlein 327, 12",
+      "friedlein_start_page": 327,
+      "friedlein_start_line": 12,
+      "friedlein_end_page": 327,
+      "friedlein_end_line": 12,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-20-21",
+      "codex_section_title": "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)",
+      "euclid_element": "I.20",
+      "topic": "Commentary on Prop. I.21: why the two interior lines must rise specifically from the extremities of the base (counterexample when drawn from interior points).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:327.12",
+          "volume": "volume_I",
+          "folio": "0304",
+          "page": "290",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 327, 12"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-328-15",
+      "canonical_locus": "Friedlein 328, 15",
+      "friedlein_start_page": 328,
+      "friedlein_start_line": 15,
+      "friedlein_end_page": 328,
+      "friedlein_end_line": 15,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-20-21",
+      "codex_section_title": "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)",
+      "euclid_element": "I.20",
+      "topic": "Resolution of the geometric paradox in Prop. I.21 (shorter segments containing a greater angle) and connection to Pappus's generalizes chevrons.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:328.15",
+          "volume": "volume_I",
+          "folio": "0041",
+          "page": "27",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 328, 15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-330-19",
+      "canonical_locus": "Friedlein 330, 19",
+      "friedlein_start_page": 330,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 330,
+      "friedlein_end_line": 19,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-22-23",
+      "codex_section_title": "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)",
+      "euclid_element": "I.23",
+      "topic": "Commentary on Prop. I.22: necessity of the triangle-inequality diorismos when constructing a triangle out of three given straight lines.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:330.19",
+          "volume": "volume_I",
+          "folio": "0048",
+          "page": "34",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 330, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-331-8",
+      "canonical_locus": "Friedlein 331, 8",
+      "friedlein_start_page": 331,
+      "friedlein_start_line": 8,
+      "friedlein_end_page": 331,
+      "friedlein_end_line": 8,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-22-23",
+      "codex_section_title": "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)",
+      "euclid_element": "I.23",
+      "topic": "Proof (against Zeno-style objections) that the two circles in Prop. I.22 must intersect whenever the triangle-inequality diorismos holds.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:331.8",
+          "volume": "volume_I",
+          "folio": "0307",
+          "page": "293",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 331, 8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-333-5",
+      "canonical_locus": "Friedlein 333, 5",
+      "friedlein_start_page": 333,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 333,
+      "friedlein_end_line": 5,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-22-23",
+      "codex_section_title": "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)",
+      "euclid_element": "I.23",
+      "topic": "Commentary on Prop. I.23: Eudemus records that constructing an angle equal to a given rectilinear angle was 'rather the discovery of Oenopides'.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:333.5",
+          "volume": "volume_I",
+          "folio": "0309",
+          "page": "295",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 333, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-335-19",
+      "canonical_locus": "Friedlein 335, 19",
+      "friedlein_start_page": 335,
+      "friedlein_start_line": 19,
+      "friedlein_end_page": 335,
+      "friedlein_end_line": 19,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-22-23",
+      "codex_section_title": "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)",
+      "euclid_element": "I.23",
+      "topic": "Apollonius's streamlined compass-arc construction for copying a rectilinear angle (Prop. I.23).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:335.19",
+          "volume": "volume_I",
+          "folio": "0310",
+          "page": "296",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 335, 19"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-339-11",
+      "canonical_locus": "Friedlein 339, 11",
+      "friedlein_start_page": 339,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 339,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-24-25",
+      "codex_section_title": "Props. I.24–I.25: Hinge Theorems (Heron, Porphyry & Menelaus)",
+      "euclid_element": "I.24",
+      "topic": "Commentary on Prop. I.24 (Hinge Theorem): proving the missing cases where the transferred side falls on or within the base (Heron/Porphyry).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:339.11",
+          "volume": "volume_I",
+          "folio": "0312",
+          "page": "298",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 339, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-345-347",
+      "canonical_locus": "Friedlein 345–347",
+      "friedlein_start_page": 345,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 347,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-24-25",
+      "codex_section_title": "Props. I.24–I.25: Hinge Theorems (Heron, Porphyry & Menelaus)",
+      "euclid_element": "I.24",
+      "topic": "Commentary on Prop. I.25: direct (non-reductio) alternative demonstrations of the converse Hinge Theorem by Menelaus of Alexandria and Heron.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:345-7",
+          "volume": "volume_I",
+          "folio": "0314",
+          "page": "300",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 345–7"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-351",
+      "canonical_locus": "Friedlein 351",
+      "friedlein_start_page": 351,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 351,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-26",
+      "codex_section_title": "Prop. I.26: ASA/AAS Congruence & Thales' Ship-Distance Theorem",
+      "euclid_element": "I.26",
+      "topic": "Commentary on Prop. I.26: Porphyry's and Eudemus's exhaustive combinatorial audit of the six possible three-part triangle congruence hypotheses (why SSA and AAA fail).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:351",
+          "volume": "volume_I",
+          "folio": "0320",
+          "page": "306",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 351"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-352-14-18",
+      "canonical_locus": "Friedlein 352, 14–18",
+      "friedlein_start_page": 352,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 352,
+      "friedlein_end_line": 18,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-26",
+      "codex_section_title": "Prop. I.26: ASA/AAS Congruence & Thales' Ship-Distance Theorem",
+      "euclid_element": "I.26",
+      "topic": "Eudemus's famous report in his History of Geometry attributing Prop. I.26 to Thales, who must have used it in his method of finding the distance of ships at sea.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:352.14-18",
+          "volume": "volume_I",
+          "folio": "0050",
+          "page": "36",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 352, 14—18"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-355-20-356-16",
+      "canonical_locus": "Friedlein 355, 20–356, 16",
+      "friedlein_start_page": 355,
+      "friedlein_start_line": 20,
+      "friedlein_end_page": 356,
+      "friedlein_end_line": 16,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-27-28",
+      "codex_section_title": "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels",
+      "euclid_element": "I.27",
+      "topic": "Opening of Book IV of the Commentary (before Prop. I.27): systematic review of the three defining symptoms of parallel straight lines in a plane.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:355.20-356.16",
+          "volume": "volume_I",
+          "folio": "0056",
+          "page": "42",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "pp. 355, 20—356, 16"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-356-11",
+      "canonical_locus": "Friedlein 356, 11",
+      "friedlein_start_page": 356,
+      "friedlein_start_line": 11,
+      "friedlein_end_page": 356,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-27-28",
+      "codex_section_title": "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels",
+      "euclid_element": "I.27",
+      "topic": "Mention of Hippias's quadratrix (tetragonizousa) and higher curves in connection with geometric properties.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:356.11",
+          "volume": "volume_I",
+          "folio": "0280",
+          "page": "266",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 356, 11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-357-9",
+      "canonical_locus": "Friedlein 357, 9",
+      "friedlein_start_page": 357,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 357,
+      "friedlein_end_line": 9,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-27-28",
+      "codex_section_title": "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels",
+      "euclid_element": "I.27",
+      "topic": "Commentary on Prop. I.27: definition and directional analysis of alternate angles (enallax goniai) formed by a transversal.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:357.9",
+          "volume": "volume_I",
+          "folio": "0322",
+          "page": "308",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 357, 9"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-361-21",
+      "canonical_locus": "Friedlein 361, 21",
+      "friedlein_start_page": 361,
+      "friedlein_start_line": 21,
+      "friedlein_end_page": 361,
+      "friedlein_end_line": 21,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-27-28",
+      "codex_section_title": "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels",
+      "euclid_element": "I.27",
+      "topic": "Commentary on Prop. I.28: comparison of Euclid's two criteria with Ptolemy's symmetric formulation of interior angles on both sides of the transversal.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:361.21",
+          "volume": "volume_I",
+          "folio": "0042",
+          "page": "28",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 361, 21"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-365-373",
+      "canonical_locus": "Friedlein 365–373",
+      "friedlein_start_page": 365,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 373,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-29",
+      "codex_section_title": "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5",
+      "euclid_element": "I.29",
+      "topic": "Grand excursion under Prop. I.29: Claudius Ptolemy's attempted proof of Postulate 5, Proclus's refutation of its hidden assumption, and Proclus's own bounded-divergence proof.",
+      "euclid_citations": [],
+      "hoenen_citations": [
+        {
+          "citation_key": "",
+          "folio": "0015",
+          "page": "15",
+          "book": "Caput I, §5",
+          "display": "teste Proclo: ancient attempted proofs of Postulate V by Ptolemy and Proclus (Friedlein 365–373)"
+        }
+      ]
+    },
+    {
+      "id": "conc-friedlein-365-7-11",
+      "canonical_locus": "Friedlein 365, 7–11",
+      "friedlein_start_page": 365,
+      "friedlein_start_line": 7,
+      "friedlein_end_page": 365,
+      "friedlein_end_line": 11,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-29",
+      "codex_section_title": "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5",
+      "euclid_element": "I.29",
+      "topic": "Citation of Claudius Ptolemy's treatise 'That straight lines produced from angles less than two right angles meet' and summary of his preliminary lemmas.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:365.7-11",
+          "volume": "volume_I",
+          "folio": "0218",
+          "page": "204",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 365, 7—11"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-365-14-367-27",
+      "canonical_locus": "Friedlein 365, 14–367, 27",
+      "friedlein_start_page": 365,
+      "friedlein_start_line": 14,
+      "friedlein_end_page": 367,
+      "friedlein_end_line": 27,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-29",
+      "codex_section_title": "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5",
+      "euclid_element": "I.29",
+      "topic": "Full reproduction of Ptolemy's attempted symmetry proof of Prop. I.29 and deduction of Euclid's Fifth Postulate.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:365.14-367.27",
+          "volume": "volume_I",
+          "folio": "0219",
+          "page": "205",
+          "book": "I",
+          "section": "first_principles",
+          "display": "pp. 365, 14—367, 27"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-368-26",
+      "canonical_locus": "Friedlein 368, 26",
+      "friedlein_start_page": 368,
+      "friedlein_start_line": 26,
+      "friedlein_end_page": 368,
+      "friedlein_end_line": 26,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-29",
+      "codex_section_title": "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5",
+      "euclid_element": "I.29",
+      "topic": "Proclus's critique of Ptolemy's parallel proof and refutation of a Zeno/Achilles-style infinite-bisection sophism claiming converging lines never meet.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:368.26",
+          "volume": "volume_I",
+          "folio": "0220",
+          "page": "206",
+          "book": "I",
+          "section": "first_principles",
+          "display": "p. 368, 26"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-371-10",
+      "canonical_locus": "Friedlein 371, 10",
+      "friedlein_start_page": 371,
+      "friedlein_start_line": 10,
+      "friedlein_end_page": 371,
+      "friedlein_end_line": 10,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-29",
+      "codex_section_title": "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5",
+      "euclid_element": "I.29",
+      "topic": "Proclus's own attempted proof of Postulate 5, explicitly invoking Aristotle's De Caelo I.5 lemma that diverging rays separate beyond any given finite distance.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:371.10",
+          "volume": "volume_I",
+          "folio": "0059",
+          "page": "45",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 371, 10"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-379-2-5",
+      "canonical_locus": "Friedlein 379, 2–5",
+      "friedlein_start_page": 379,
+      "friedlein_start_line": 2,
+      "friedlein_end_page": 379,
+      "friedlein_end_line": 5,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-32",
+      "codex_section_title": "Prop. I.32: Triangle Angle-Sum, Pythagorean Proof & Polygon Formula",
+      "euclid_element": "I.32",
+      "topic": "Commentary on Prop. I.32: Eudemus's testimony on the ancient Pythagorean discovery of the universal angle-sum theorem for all triangles.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:379.2-5",
+          "volume": "volume_I",
+          "folio": "0331",
+          "page": "317",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 379, 2–5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-379-2-15",
+      "canonical_locus": "Friedlein 379, 2–15",
+      "friedlein_start_page": 379,
+      "friedlein_start_line": 2,
+      "friedlein_end_page": 379,
+      "friedlein_end_line": 15,
+      "codex_unit": "propositions-16-32",
+      "codex_section_id": "sec-prop-32",
+      "codex_section_title": "Prop. I.32: Triangle Angle-Sum, Pythagorean Proof & Polygon Formula",
+      "euclid_element": "I.32",
+      "topic": "Preservation of the elegant Pythagorean proof of Prop. I.32 drawing a single parallel to the base through the triangle's apex.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:379.2-15",
+          "volume": "volume_I",
+          "folio": "0334",
+          "page": "320",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 379, 2—15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-393",
+      "canonical_locus": "Friedlein 393",
+      "friedlein_start_page": 393,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 393,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-33-34",
+      "codex_section_title": "Props. I.33–I.34: Parallelogrammic Areas & Diameter Bisection",
+      "euclid_element": "I.34",
+      "topic": "Commentary on Prop. I.34: why Euclid introduces the term 'parallelogrammic areas' (parallelogramma choria) and how Prop. I.34 constructs the concept.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:393",
+          "volume": "volume_I",
+          "folio": "0339",
+          "page": "325",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 393"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-394-396",
+      "canonical_locus": "Friedlein 394–396",
+      "friedlein_start_page": 394,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 396,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-35",
+      "codex_section_title": "Prop. I.35: Equal Parallelograms & Birth of Locus Theorems",
+      "euclid_element": "I.35",
+      "topic": "Commentary on Prop. I.35: birth of Locus Theorems (topika theoremata) in the Elements and distinction between equality of area and congruence of figure.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:394-6",
+          "volume": "volume_I",
+          "folio": "0343",
+          "page": "329",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 394–6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-396-398",
+      "canonical_locus": "Friedlein 396–398",
+      "friedlein_start_page": 396,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 398,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-35",
+      "codex_section_title": "Prop. I.35: Equal Parallelograms & Birth of Locus Theorems",
+      "euclid_element": "I.35",
+      "topic": "Analysis of the paradoxical wonder of Prop. I.35 (shearing parallelograms of arbitrarily large perimeter having equal area, anticipating isoperimetric theory).",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:396-8",
+          "volume": "volume_I",
+          "folio": "0040",
+          "page": "26",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "pp. 396—8"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-399-400",
+      "canonical_locus": "Friedlein 399–400",
+      "friedlein_start_page": 399,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 400,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-35",
+      "codex_section_title": "Prop. I.35: Equal Parallelograms & Birth of Locus Theorems",
+      "euclid_element": "I.35",
+      "topic": "Completion of the remaining two positional cases of Prop. I.35 omitted in Euclid's concise text.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:399-400",
+          "volume": "volume_I",
+          "folio": "0342",
+          "page": "328",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 399—400"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-403-5",
+      "canonical_locus": "Friedlein 403, 5",
+      "friedlein_start_page": 403,
+      "friedlein_start_line": 5,
+      "friedlein_end_page": 403,
+      "friedlein_end_line": 5,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-36-41",
+      "codex_section_title": "Props. I.36–I.41: Equal Parallelograms & Triangles Between Parallels",
+      "euclid_element": "I.41",
+      "topic": "Textual transition between Props. I.36 and I.37 on equal parallelograms and triangles between the same parallels.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:403.5",
+          "volume": "volume_I",
+          "folio": "0346",
+          "page": "332",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 403, 5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-407-4-17",
+      "canonical_locus": "Friedlein 407, 4–17",
+      "friedlein_start_page": 407,
+      "friedlein_start_line": 4,
+      "friedlein_end_page": 407,
+      "friedlein_end_line": 17,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-36-41",
+      "codex_section_title": "Props. I.36–I.41: Equal Parallelograms & Triangles Between Parallels",
+      "euclid_element": "I.41",
+      "topic": "Commentary on Prop. I.39: partial conversion when two hypotheses yield a conclusion, and exclusion of triangles on opposite sides of the base.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:407.4-17",
+          "volume": "volume_I",
+          "folio": "0351",
+          "page": "337",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 407, 4—17"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-414-15-415-16",
+      "canonical_locus": "Friedlein 414, 15–415, 16",
+      "friedlein_start_page": 414,
+      "friedlein_start_line": 15,
+      "friedlein_end_page": 415,
+      "friedlein_end_line": 16,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-36-41",
+      "codex_section_title": "Props. I.36–I.41: Equal Parallelograms & Triangles Between Parallels",
+      "euclid_element": "I.41",
+      "topic": "Commentary on Prop. I.41: Proclus's geometric exercise extending triangle-parallelogram area relations to trapezia.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:414.15-415.16",
+          "volume": "volume_I",
+          "folio": "0352",
+          "page": "338",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 414, 15—415, 16"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-419",
+      "canonical_locus": "Friedlein 419",
+      "friedlein_start_page": 419,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 419,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-44-45",
+      "codex_section_title": "Props. I.44–I.45: Pythagorean Application of Areas (Parabole, Hyperbole, Elleipsis)",
+      "euclid_element": "I.44",
+      "topic": "Commentary on Prop. I.44: Eudemus's testimony that Application of Areas (parabole), Exceeding (hyperbole), and Falling-Short (elleipsis) are ancient discoveries of the Pythagorean muse.",
+      "euclid_citations": [],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-423-18",
+      "canonical_locus": "Friedlein 423, 18",
+      "friedlein_start_page": 423,
+      "friedlein_start_line": 18,
+      "friedlein_end_page": 423,
+      "friedlein_end_line": 18,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-46",
+      "codex_section_title": "Prop. I.46: Constructing the Square & Posidonius's Definition",
+      "euclid_element": "I.46",
+      "topic": "Commentary on Prop. I.46: philological distinction between 'constructing' (systesasthai) a triangle from parts and 'describing on' (anagrapsai apo) a square from a single side.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:423.18",
+          "volume": "volume_I",
+          "folio": "0362",
+          "page": "348",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 423, 18"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-424-425",
+      "canonical_locus": "Friedlein 424–425",
+      "friedlein_start_page": 424,
+      "friedlein_start_line": null,
+      "friedlein_end_page": 425,
+      "friedlein_end_line": null,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-46",
+      "codex_section_title": "Prop. I.46: Constructing the Square & Posidonius's Definition",
+      "euclid_element": "I.46",
+      "topic": "Proofs that squares described on equal straight lines are equal, and conversely that equal squares have equal sides.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:424-5",
+          "volume": "volume_I",
+          "folio": "0362",
+          "page": "348",
+          "book": "I",
+          "section": "propositions",
+          "display": "pp. 424—5"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-426-6",
+      "canonical_locus": "Friedlein 426, 6",
+      "friedlein_start_page": 426,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 426,
+      "friedlein_end_line": 6,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-47",
+      "codex_section_title": "Prop. I.47: The Theorem of Pythagoras, Euclid's Generalization & Triples",
+      "euclid_element": "I.47",
+      "topic": "Commentary on Prop. I.47: critical assessment of the story that Pythagoras sacrificed an ox, and Proclus's glowing tribute to Euclid's Book I proof and Book VI generalization.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:426.6",
+          "volume": "volume_I",
+          "folio": "0364",
+          "page": "350",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 426, 6"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-426-6-9",
+      "canonical_locus": "Friedlein 426, 6–9",
+      "friedlein_start_page": 426,
+      "friedlein_start_line": 6,
+      "friedlein_end_page": 426,
+      "friedlein_end_line": 9,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-47",
+      "codex_section_title": "Prop. I.47: The Theorem of Pythagoras, Euclid's Generalization & Triples",
+      "euclid_element": "I.47",
+      "topic": "Proclus's cautious phrasing ('if we listen to those who wish to recount ancient history...') regarding the legend of Pythagoras's sacrifice on discovering I.47.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:426.6-9",
+          "volume": "volume_I",
+          "folio": "0333",
+          "page": "319",
+          "book": "I",
+          "section": "propositions",
+          "display": "p. 426, 6—9"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-429-9-15",
+      "canonical_locus": "Friedlein 429, 9–15",
+      "friedlein_start_page": 429,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 429,
+      "friedlein_end_line": 15,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-47",
+      "codex_section_title": "Prop. I.47: The Theorem of Pythagoras, Euclid's Generalization & Triples",
+      "euclid_element": "I.47",
+      "topic": "Two ancient methods for generating integer right-angled triangles: the Pythagorean odd-number rule and the Platonic even-number rule.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:429.9-15",
+          "volume": "volume_I",
+          "folio": "0040",
+          "page": "26",
+          "book": "",
+          "section": "chapter_iii",
+          "display": "p. 429, 9—15"
+        }
+      ],
+      "hoenen_citations": []
+    },
+    {
+      "id": "conc-friedlein-432-9",
+      "canonical_locus": "Friedlein 432, 9",
+      "friedlein_start_page": 432,
+      "friedlein_start_line": 9,
+      "friedlein_end_page": 432,
+      "friedlein_end_line": 9,
+      "codex_unit": "propositions-33-48",
+      "codex_section_id": "sec-prop-48",
+      "codex_section_title": "Prop. I.48: Converse of Pythagoras, Peroration & Manuscript Scholium",
+      "euclid_element": "I.48",
+      "topic": "Closing peroration of the Commentary on Book I (Prop. I.48), honoring Syrianus's oral teaching and inviting successors to expound the remaining Books of Euclid.",
+      "euclid_citations": [
+        {
+          "citation_key": "proclus:in-euclid:432.9",
+          "volume": "volume_I",
+          "folio": "0046",
+          "page": "32",
+          "book": "",
+          "section": "chapter_iv",
+          "display": "p. 432, 9"
+        }
+      ],
+      "hoenen_citations": []
+    }
+  ],
+  "related_proclus_works": [
+    {
+      "citation_key": "proclus:in-platonis-timaeum",
+      "work": "In Platonis Timaeum Commentaria",
+      "note": "Cited in Heath Vol. II, p. 295 (Book VII Definitions) on Pythagorean number classification."
+    }
+  ]
+}
