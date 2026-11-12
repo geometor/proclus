@@ -29,6 +29,11 @@ namespaces = true
 [tool.setuptools.dynamic]
 version = {attr = "geometor.proclus.__version__"}
 
+[project.urls]
+"Website" = "https://geometor.github.io/proclus"
+"Repository" = "https://github.com/geometor/proclus"
+"Issues" = "https://github.com/geometor/proclus/issues"
+
 [tool.pytest.ini_options]
 pythonpath = ["src"]
 testpaths = ["tests"]
