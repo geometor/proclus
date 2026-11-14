@@ -1,5 +1,3 @@
-:order: 10
-
 .. _about-proclus:
 
 Proclus Lycius Diadochus (412–485 AD)
