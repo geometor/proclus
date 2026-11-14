@@ -26,7 +26,10 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
     meta = concordance["metadata"]
 
     lines: list[str] = [
+        ":navigation: footer",
         ":order: 90",
+        ":nav_title: Concordance",
+        ":layout: book",
         ":type: apparatus",
         "",
         ".. _friedlein-concordance:",
@@ -164,13 +167,17 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
 def render_bibliography_rst(citations: dict[str, dict[str, Any]]) -> str:
     """Render ``docsrc/in_euclidem/bibliography.rst`` from ``citations.json``."""
     lines: list[str] = [
-        ":order: 91",
+        ":navigation: header",
+        ":order: 6",
+        ":nav_title: Bibliography",
+        ":layout: book",
         ":type: apparatus",
         "",
         ".. _codex-bibliography:",
         "",
-        "Bibliography & Primary Sources",
-        "==============================",
+        "============",
+        "Bibliography",
+        "============",
         "",
         (
             "Critical register of primary editions, translations, ancient mathematical "
@@ -224,13 +231,17 @@ def render_bibliography_rst(citations: dict[str, dict[str, Any]]) -> str:
 def render_persons_rst(persons: dict[str, dict[str, Any]]) -> str:
     """Render ``docsrc/in_euclidem/persons.rst`` from ``persons.json``."""
     lines: list[str] = [
-        ":order: 92",
+        ":navigation: header",
+        ":order: 5",
+        ":nav_title: People",
+        ":layout: book",
         ":type: apparatus",
         "",
         ".. _codex-persons:",
         "",
-        "Index Nominum (Persons)",
-        "=======================",
+        "======",
+        "People",
+        "======",
         "",
         (
             "Prosopographical register of geometers, philosophers, commentators, and "
@@ -283,13 +294,17 @@ def render_persons_rst(persons: dict[str, dict[str, Any]]) -> str:
 def render_glossary_rst(glossary: dict[str, dict[str, Any]]) -> str:
     """Render ``docsrc/in_euclidem/glossary.rst`` from ``glossary.json``."""
     lines: list[str] = [
+        ":navigation: footer",
         ":order: 93",
+        ":nav_title: Glossary",
+        ":layout: book",
         ":type: apparatus",
         "",
         ".. _codex-glossary:",
         "",
-        "Greek & Neoplatonic Mathematical Glossary",
-        "=========================================",
+        "========",
+        "Glossary",
+        "========",
         "",
         (
             "Lexicon of Greek mathematical, logical, and Neoplatonic epistemological "
