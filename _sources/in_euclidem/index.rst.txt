@@ -1,30 +1,33 @@
 :navigation: header
-:order: 10
+:order: 1
+:nav_title: Commentary on Euclid
 :layout: book
-:book_title: In Primum Euclidis Elementorum Librum Commentarii
-:book_subtitle: Proclus Diadochus · Commentary on Book I of Euclid's Elements
+:book_title: Commentary on the First Book of Euclid's Elements
+:book_subtitle: In Primum Euclidis Elementorum Librum Commentarii — Proclus Diadochus (ed. Friedlein 1873 / Taylor 1792)
+:author: Proclus Diadochus
+:year: c. 470 AD
 
 .. _in-euclidem-codex:
 
-In Euclidem
-===========
+=======================================================
+Commentary on the First Book of Euclid's Elements
+=======================================================
 
-.. rst-class:: title-page
+.. rubric:: *Εἰς τὸ αʹ τῶν Εὐκλείδου Στοιχείων* (*In Primum Euclidis Elementorum Librum Commentarii*) — Proclus Diadochus
 
-   **ΠΡΟΚΛΟΥ ΔΙΑΔΟΧΟΥ**
+.. container:: title-page
 
-   **ΕΙΣ ΤΟ ΠΡΩΤΟΝ ΤΩΝ ΕΥΚΛΕΙΔΟΥ ΣΤΟΙΧΕΙΩΝ**
+   | **ΠΡΟΚΛΟΥ ΔΙΑΔΟΧΟΥ**
+   | **ΕΙΣ ΤΟ ΠΡΩΤΟΝ ΤΩΝ ΕΥΚΛΕΙΔΟΥ ΣΤΟΙΧΕΙΩΝ**
+   | *In Primum Euclidis Elementorum Librum Commentarii*
+   |
+   | **Author**: :person:`Proclus Lycius Diadochus <proclus>` (412–485 AD)
+   | **Critical Greek Edition**: :person:`Gottfried Friedlein <friedlein>` (Leipzig: B. G. Teubner, 1873)
+   | **English Translation**: :person:`Thomas Taylor <taylor>` (London, 1788–1789 / 1792) & GEOMETOR Scholarly Apparatus
+   | **GEOMETOR Digital Edition**: Synchronized English, Greek (1873), Summary & Notes Tracks with Friedlein Folio Anchors
 
-   *IN PRIMUM EUCLIDIS ELEMENTORUM LIBRUM COMMENTARII*
-
-   *Commentary on the First Book of Euclid's Elements (c. 470 AD)*
-
-   Greek Text: Gottfried Friedlein (Leipzig: B. G. Teubner, 1873)
-
-   English Translation: Thomas Taylor (London, 1788–1789 / 1792) & GEOMETOR Apparatus
-
-Conspectus Totius Operis
-------------------------
+Table of Contents
+-----------------
 
 Composed at the Neoplatonic Academy of Athens around 470 AD, :person:`Proclus Diadochus's <proclus>` *Commentary on the First Book of Euclid's Elements* is the supreme surviving monument of ancient mathematical philosophy, axiomatic methodology, and the pre-Euclidean history of Greek geometry. Each unit of this **Multi-Track Book Codex** provides four synchronized reading tracks: **English**, **Greek (1873)**, **Summary**, and **Notes**.
 
@@ -36,13 +39,13 @@ Composed at the Neoplatonic Academy of Athens around 470 AD, :person:`Proclus Di
 * **Propositions I.16–I.32** (*Friedlein pp. 305–384*): :doc:`Commentary on Propositions I.16–I.32: Inequalities, Parallels & Angle-Sum <propositions-16-32/propositions-16-32-en>` — Exterior Angle, Epicurean Critique of I.20, Thales' Ship-Distance Theorem (I.26), Ptolemy & Proclus on Postulate 5 (I.29), and the Pythagorean Angle-Sum Proof (I.32). (:doc:`EN <propositions-16-32/propositions-16-32-en>` · :doc:`EL <propositions-16-32/propositions-16-32-el>` · :doc:`Summary <propositions-16-32/propositions-16-32-summary>` · :doc:`Notes <propositions-16-32/propositions-16-32-notes>`)
 * **Propositions I.33–I.48** (*Friedlein pp. 384–436*): :doc:`Commentary on Propositions I.33–I.48: Areas, Application & Pythagoras <propositions-33-48/propositions-33-48-en>` — Parallelograms & Locus Theorems (I.35), Pythagorean Application of Areas (Parabole, Hyperbole, Elleipsis, I.44), and Euclid's Proof of I.47–I.48. (:doc:`EN <propositions-33-48/propositions-33-48-en>` · :doc:`EL <propositions-33-48/propositions-33-48-el>` · :doc:`Summary <propositions-33-48/propositions-33-48-summary>` · :doc:`Notes <propositions-33-48/propositions-33-48-notes>`)
 
-Critical Apparatus & Concordances
----------------------------------
+Scholarly Apparatus
+-------------------
 
 * :doc:`Friedlein Citation Concordance <concordance>` — Bidirectional mapping of all **164 canonical Friedlein loci** cited across ``geometor/euclid`` (156 keys, 159 occurrences) and ``geometor/hoenen``.
-* :doc:`Bibliography & Primary Sources <bibliography>` — Editions, ancient mathematical sources, and companion GEOMETOR treatises.
-* :doc:`Index Nominum (Persons) <persons>` — Prosopographical register of **54** geometers, philosophers, and commentators (including the complete Eudemian Summary).
-* :doc:`Greek & Neoplatonic Mathematical Glossary <glossary>` — Lexicon of **44** technical Greek, Latin, and English terms.
+* :doc:`Bibliography <bibliography>` — Editions, ancient mathematical sources, and companion GEOMETOR treatises.
+* :doc:`People <persons>` — Prosopographical register of **54** geometers, philosophers, and commentators (including the complete Eudemian Summary).
+* :doc:`Glossary <glossary>` — Lexicon of **44** technical Greek, Latin, and English terms.
 
 .. toctree::
    :maxdepth: 1
@@ -81,7 +84,7 @@ Critical Apparatus & Concordances
 .. toctree::
    :maxdepth: 1
    :hidden:
-   :caption: Critical Apparatus
+   :caption: Scholarly Apparatus
 
    concordance
    bibliography

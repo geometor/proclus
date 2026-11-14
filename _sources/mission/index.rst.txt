@@ -1,9 +1,11 @@
 :navigation: header
-:order: 15
+:order: 10
+:nav_title: Mission
 
 .. _proclus-mission:
 
-mission
+=======
+Mission
 =======
 
 **GEOMETOR • proclus** establishes the complete, open-access digital critical edition and bidirectional citation concordance of **Proclus Lycius Diadochus's** *In Primum Euclidis Elementorum Librum Commentarii* (*Commentary on the First Book of Euclid's Elements*, c. 470 AD).

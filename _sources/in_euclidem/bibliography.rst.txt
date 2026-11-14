@@ -1,10 +1,14 @@
-:order: 91
+:navigation: header
+:order: 6
+:nav_title: Bibliography
+:layout: book
 :type: apparatus
 
 .. _codex-bibliography:
 
-Bibliography & Primary Sources
-==============================
+============
+Bibliography
+============
 
 Critical register of primary editions, translations, ancient mathematical authorities cited by Proclus, and modern GEOMETOR companion treatises. Every ``:cite:`` reference in the Codex resolves directly to its entry below.
 

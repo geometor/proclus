@@ -1,7 +1,9 @@
-:navigation: header
-:order: 20
+:navigation: footer
+:order: 10
+:nav_title: About
 
-about
+=====
+About
 =====
 
 Historical, philosophical, and textual background for Proclus's *Commentary on Book I of Euclid's Elements*.
