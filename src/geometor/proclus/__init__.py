@@ -21,7 +21,7 @@ from geometor.proclus.concordance import (
     verify_concordance,
 )
 
-__version__ = "0.1.2"
+__version__ = "0.1.3"
 
 __all__ = [
     "CODEX_UNITS",

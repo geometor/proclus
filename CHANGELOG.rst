@@ -4,6 +4,11 @@ changelog
 
 :project: geometor.proclus
 
+0.1.3 (2026-11-14)
+------------------
+
+- Standardized top-level ``About`` page (``docsrc/about/index.rst`` promoted to top header ``:order: 10``) with the three-pillar GEOMETOR semantic-extraction mission and archival provenance; retired ``docsrc/mission/`` stubs cleanly into Home and ``About``.
+
 0.1.2 (2026-11-14)
 ------------------
 
