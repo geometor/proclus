@@ -1,15 +1,57 @@
-:order: 92
+:navigation: header
+:order: 5
+:nav_title: People
+:layout: book
 :type: apparatus
 
 .. _codex-persons:
 
-Index Nominum (Persons)
-=======================
+======
+People
+======
 
-Prosopographical register of geometers, philosophers, commentators, and editors appearing in Proclus's *Commentary* (including all twenty-three geometers of the **Eudemian Summary**, Friedlein pp. 64–70) and in the textual transmission of the Codex.
+.. rubric:: Prosopographical Register of Geometers, Philosophers, Commentators, and Modern Editors
+
+Prosopographical register of geometers, philosophers, commentators, and editors appearing in Proclus's *Commentary on the First Book of Euclid's Elements* (including all twenty-three geometers of the **Eudemian Summary**, Friedlein pp. 64–70) and in the textual transmission of the Codex.
+
+Authors, Translators & Editors
+------------------------------
+
+.. _person-proclus:
+
+**Proclus Lycius Diadochus** (*Πρόκλος ὁ Διάδοχος*) — 412–485 AD
+  Born in Constantinople to Patricius and Marcella, citizens of Xanthos in Lycia, Proclus became head (*Diadochus*) of the Athenian Academy for nearly half a century. His life is documented in the *Vita Procli* by his successor Marinus of Neapolis. Welcomed in Athens by Plutarch of Athens, Proclus became the closest disciple of Syrianus (*ὁ ἡμέτερος καθηγεμών*). He united encyclopedic mastery of Greek mathematics with systematic Neoplatonic metaphysics, composing this foundational *Commentary on the First Book of Euclid's Elements* alongside commentaries on Plato's *Timaeus*, *Republic*, and *Parmenides*, the *Hypotyposis Astronomicarum Positionum*, and the axiomatic *Elementatio Physica* and *Elementatio Theologica*.
+  *Friedlein loci*: 1–436.
+
+.. _person-friedlein:
+
+**Gottfried Friedlein** — 1828–1875
+  German classical philologist and mathematical historian who edited the standard 1873 Teubner critical Greek edition (*Procli Diadochi in primum Euclidis Elementorum librum commentarii*, Leipzig) based on Munich, Vatican, Bologna, and Oxford manuscripts, establishing the canonical page-and-line numbering.
+  *Friedlein loci*: ed. 1873.
+
+.. _person-taylor:
+
+**Thomas Taylor** — 1758–1835
+  English Neoplatonist philosopher who published the first complete English translation of Proclus's Euclid commentary (*The Philosophical and Mathematical Commentaries of Proclus on the First Book of Euclid's Elements*, London, 1788–1789; reissued 1792), defending ancient mathematical realism against modern empiricism.
+  *Friedlein loci*: ed. 1788–1789.
+
+.. _person-syrianus:
+
+**Syrianus** (*Συριανός*) — d. c. 437 AD
+  Neoplatonic philosopher, predecessor of Proclus as head of the Athenian Academy, and teacher of Proclus and Hermias; celebrated expositor of ontological projection in *phantasia* and the horn-angle problem, whose lectures inspired Proclus's Commentary (*Friedlein* 123, 125, 432).
+  *Friedlein loci*: 123, 125, 432.
+
+.. _person-marinus:
+
+**Marinus of Neapolis** (*Μαρῖνος ὁ Νεαπολίτης*) — c. 440–500 AD
+  Neoplatonic mathematician and philosopher from Palestine; pupil and biographer of Proclus who authored the *Vita Procli* (*Πρόκλος ἢ περὶ εὐδαιμονίας*), succeeded him as head of the Athenian Academy, and wrote the extant Preface to Euclid's *Data*.
+  *Friedlein loci*: passim.
+
+Cited Geometers, Philosophers & Scholars
+----------------------------------------
 
 Pre-Euclidean & Classical Geometers and Philosophers
-----------------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. _person-thales:
 
@@ -293,24 +335,6 @@ Late Antique & Neoplatonic Commentators
   Teacher of Syrianus and aged mentor of young Proclus; cited with reverence on the multi-categorical nature of the angle
   *Friedlein loci*: 125.
 
-.. _person-syrianus:
-
-**Syrianus** (*Συριανός*) — d. c. 437 AD
-  Expositor of ontological projection in phantasia and the horn-angle problem, whose lectures inspired Proclus's Commentary
-  *Friedlein loci*: 123, 125, 432.
-
-.. _person-proclus:
-
-**Proclus Lycius Diadochus** (*Πρόκλος ὁ Διάδοχος*) — 412–485 AD
-  Head of the Athenian Academy for nearly fifty years; composed the Commentary on Book I of Euclid's Elements uniting Neoplatonic epistemology of phantasia, Eudemian history, and rigorous axiomatic analysis
-  *Friedlein loci*: 1–436.
-
-.. _person-marinus:
-
-**Marinus of Neapolis** (*Μαρῖνος ὁ Νεαπολίτης*) — c. 440–500 AD
-  Succeeded Proclus at Athens, wrote Vita Procli, and authored the Preface to Euclid's Data
-  *Friedlein loci*: passim.
-
 Renaissance & Modern Editors, Translators, and Scholars
 -------------------------------------------------------
 
@@ -319,18 +343,6 @@ Renaissance & Modern Editors, Translators, and Scholars
 **Franciscus Barocius (Francesco Barozzi)** — 1537–1604
   Published the 1560 Padua Latin edition from Cretan and Venetian manuscripts, healing major corruptions and lacunae of the 1533 Basel Greek editio princeps
   *Friedlein loci*: ed. 1560.
-
-.. _person-taylor:
-
-**Thomas Taylor** — 1758–1835
-  Published the two-volume English translation (1788–1789; reissued 1792) defending Platonic mathematics against modern empiricism
-  *Friedlein loci*: ed. 1788–1789.
-
-.. _person-friedlein:
-
-**Gottfried Friedlein** — 1828–1875
-  Edited the standard 1873 Teubner critical Greek edition from Munich, Vatican, Bologna, and Oxford manuscripts
-  *Friedlein loci*: ed. 1873.
 
 .. _person-heath:
 

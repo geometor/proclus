@@ -1,10 +1,14 @@
+:navigation: footer
 :order: 93
+:nav_title: Glossary
+:layout: book
 :type: apparatus
 
 .. _codex-glossary:
 
-Greek & Neoplatonic Mathematical Glossary
-=========================================
+========
+Glossary
+========
 
 Lexicon of Greek mathematical, logical, and Neoplatonic epistemological terminology in Proclus's *Commentary on Book I*, cross-referenced with Euclid's *Elements* and Petrus Hoenen's Scholastic-noetic vocabulary.
 
