@@ -4,6 +4,11 @@ changelog
 
 :project: geometor.proclus
 
+0.1.1 (2026-11-13)
+------------------
+
+* Resolve 100% of marginal ``.. folio::`` source links (494 directives + 28 badges) to Friedlein (1873) Teubner Greek primary witness line anchors via ``publish folio-links``.
+
 0.1.0 (2026-11-11)
 ------------------
 
