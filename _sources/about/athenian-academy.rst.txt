@@ -1,5 +1,3 @@
-:order: 20
-
 .. _about-athenian-academy:
 
 The Neoplatonic Academy of Athens

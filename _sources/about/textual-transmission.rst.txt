@@ -1,5 +1,3 @@
-:order: 30
-
 .. _about-textual-transmission:
 
 Textual Transmission & Critical Editions

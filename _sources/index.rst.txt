@@ -28,7 +28,7 @@ Historical Context & Documentation
 ----------------------------------
 
 * :doc:`Using This Edition (Reader's Guide) <usage/index>`
-* :ref:`Mission & Scope within GEOMETOR <proclus-mission>`
+* :doc:`About This Edition, Philosophy & Methodology <about/index>`
 * :ref:`Life & Philosophical Works of Proclus Diadochus <about-proclus>`
 * :ref:`The Neoplatonic Academy of Athens <about-athenian-academy>`
 * :ref:`Textual Transmission: Manuscripts, Grynaeus, Barocius, Taylor & Friedlein <about-textual-transmission>`
@@ -42,7 +42,6 @@ Historical Context & Documentation
 
    in_euclidem/index
    usage/index
-   mission/index
    log/index
    modules/index
    about/index
