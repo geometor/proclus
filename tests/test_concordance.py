@@ -99,20 +99,20 @@ class TestResolveFriedleinSection:
             (185, 10, "postulates-axioms", "sec-post-1-3"),
             (191, 21, "postulates-axioms", "sec-post-5"),
             (203, 5, "postulates-axioms", "sec-six-parts"),
-            (214, 18, "propositions-1-15", "sec-prop-01"),
-            (249, 20, "propositions-1-15", "sec-prop-05"),
-            (283, 7, "propositions-1-15", "sec-prop-11-12"),
-            (305, 10, "propositions-1-15", "sec-prop-13-15"),
-            (305, 20, "propositions-16-32", "sec-prop-16-17"),
-            (322, 10, "propositions-16-32", "sec-prop-20-21"),
-            (352, 14, "propositions-16-32", "sec-prop-26"),
-            (365, 7, "propositions-16-32", "sec-prop-29"),
-            (379, 2, "propositions-16-32", "sec-prop-32"),
-            (384, 24, "propositions-33-48", "sec-prop-33-34"),
-            (395, 13, "propositions-33-48", "sec-prop-35"),
-            (419, 15, "propositions-33-48", "sec-prop-44-45"),
-            (426, 6, "propositions-33-48", "sec-prop-47"),
-            (432, 10, "propositions-33-48", "sec-prop-48"),
+            (214, 18, "propositions", "sec-prop-01"),
+            (249, 20, "propositions", "sec-prop-05"),
+            (283, 7, "propositions", "sec-prop-11-12"),
+            (305, 10, "propositions", "sec-prop-13-15"),
+            (305, 20, "propositions", "sec-prop-16-17"),
+            (322, 10, "propositions", "sec-prop-20-21"),
+            (352, 14, "propositions", "sec-prop-26"),
+            (365, 7, "propositions", "sec-prop-29"),
+            (379, 2, "propositions", "sec-prop-32"),
+            (384, 24, "propositions", "sec-prop-33-34"),
+            (395, 13, "propositions", "sec-prop-35"),
+            (419, 15, "propositions", "sec-prop-44-45"),
+            (426, 6, "propositions", "sec-prop-47"),
+            (432, 10, "propositions", "sec-prop-48"),
         ],
     )
     def test_landmark_loci_resolve_to_expected_sections(
@@ -127,7 +127,7 @@ class TestResolveFriedleinSection:
         assert sec.section_id == expected_section
 
     def test_every_friedlein_page_1_to_436_resolves(self) -> None:
-        assert len(CODEX_UNITS) == 7
+        assert len(CODEX_UNITS) == 5
         assert len(FRIEDLEIN_SECTIONS) >= 45
         for page in range(1, 437):
             sec = resolve_friedlein_section(page)

@@ -32,21 +32,26 @@ def _extract_role_targets(rst_text: str, role_name: str) -> list[str]:
 
 
 class TestCodexTracksAndStructure:
-    """Verify the 7 canonical Codex units and 28 synchronized track files."""
+    """Verify the 5 canonical Codex units, container, and 208 synchronized track files."""
 
     def test_verify_codex_tracks_passes_cleanly(self) -> None:
         report = verify_codex_tracks()
         assert report["valid"] is True, f"Codex verification errors: {report['errors']}"
-        assert report["units"] == 7
-        assert report["track_files"] == 28
+        assert report["units"] == 5
+        assert report["track_files"] == 208
         assert report["errors"] == []
 
     def test_all_concordance_section_anchors_exist_in_english_tracks(self) -> None:
         book_dir = default_docsrc_book_dir()
-        all_en_text = "\n".join(
-            (book_dir / u.slug / f"{u.slug}-en.rst").read_text(encoding="utf-8")
-            for u in CODEX_UNITS
-        )
+        en_texts: list[str] = []
+        for u in CODEX_UNITS:
+            if u.slug == "propositions":
+                en_texts.append((book_dir / u.slug / "index.rst").read_text(encoding="utf-8"))
+                for i in range(1, 49):
+                    en_texts.append((book_dir / u.slug / f"{i:02d}" / "index.rst").read_text(encoding="utf-8"))
+            else:
+                en_texts.append((book_dir / u.slug / f"{u.slug}-en.rst").read_text(encoding="utf-8"))
+        all_en_text = "\n".join(en_texts)
         conc = load_concordance()
         missing_anchors = [
             entry["codex_section_id"]

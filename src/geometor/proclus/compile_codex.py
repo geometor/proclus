@@ -63,13 +63,18 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
 
     by_unit: dict[str, list[dict[str, Any]]] = {u.slug: [] for u in CODEX_UNITS}
     for e in entries:
-        by_unit[e["codex_unit"]].append(e)
+        unit_slug = e["codex_unit"]
+        if unit_slug in by_unit:
+            by_unit[unit_slug].append(e)
+        elif unit_slug in CODEX_UNITS_BY_SLUG:
+            by_unit[CODEX_UNITS_BY_SLUG[unit_slug].slug].append(e)
 
     for u in CODEX_UNITS:
         u_entries = by_unit[u.slug]
+        target_doc = f"{u.slug}/index" if u.slug == "propositions" else f"{u.slug}/{u.slug}-en"
         lines.extend(
             [
-                f"   * - :doc:`{u.number_label} <{u.slug}/{u.slug}-en>`",
+                f"   * - :doc:`{u.number_label} <{target_doc}>`",
                 f"     - pp. {u.friedlein_start}–{u.friedlein_end}",
                 f"     - {len(u_entries)}",
                 f"     - {u.subtitle}",
@@ -80,6 +85,15 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
     for u in CODEX_UNITS:
         u_entries = by_unit[u.slug]
         heading = f"{u.number_label} (Friedlein pp. {u.friedlein_start}–{u.friedlein_end})"
+        if u.slug == "propositions":
+            track_links = f"Codex: :doc:`Propositions Overview <{u.slug}/index>`"
+        else:
+            track_links = (
+                f"Codex tracks: :doc:`English <{u.slug}/{u.slug}-en>` · "
+                f":doc:`Greek (1873) <{u.slug}/{u.slug}-el>` · "
+                f":doc:`Summary <{u.slug}/{u.slug}-summary>` · "
+                f":doc:`Notes <{u.slug}/{u.slug}-notes>`"
+            )
         lines.extend(
             [
                 f".. _concordance-{u.slug}:",
@@ -87,12 +101,7 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
                 heading,
                 "-" * len(heading),
                 "",
-                (
-                    f"Codex tracks: :doc:`English <{u.slug}/{u.slug}-en>` · "
-                    f":doc:`Greek (1873) <{u.slug}/{u.slug}-el>` · "
-                    f":doc:`Summary <{u.slug}/{u.slug}-summary>` · "
-                    f":doc:`Notes <{u.slug}/{u.slug}-notes>`"
-                ),
+                track_links,
                 "",
             ]
         )
@@ -392,17 +401,35 @@ def verify_codex_tracks(book_dir: Path | None = None) -> dict[str, Any]:
 
     for unit in CODEX_UNITS:
         udir = bdir / unit.slug
-        for suffix in ("en", "el", "summary", "notes"):
-            f = udir / f"{unit.slug}-{suffix}.rst"
-            if not f.is_file():
-                errors.append(f"Missing unit track file: {f}")
-                continue
-            track_counts += 1
-            txt = f.read_text(encoding="utf-8")
-            if code_block_re.search(txt):
-                errors.append(f"Forbidden embedded Python code-block found in historical treatise: {f}")
-            if suffix in ("en", "el") and ".. folio::" not in txt:
-                errors.append(f"Expected `.. folio::` Friedlein milestone markers in {f}")
+        if unit.slug == "propositions":
+            c_idx = udir / "index.rst"
+            if not c_idx.is_file():
+                errors.append(f"Missing propositions container file: {c_idx}")
+            for i in range(1, 49):
+                p_dir = udir / f"{i:02d}"
+                for suffix in ("index", "greek", "summary", "notes"):
+                    f = p_dir / f"{suffix}.rst"
+                    if not f.is_file():
+                        errors.append(f"Missing proposition track file: {f}")
+                        continue
+                    track_counts += 1
+                    txt = f.read_text(encoding="utf-8")
+                    if code_block_re.search(txt):
+                        errors.append(f"Forbidden embedded Python code-block found in historical treatise: {f}")
+                    if suffix in ("index", "greek") and ".. folio::" not in txt:
+                        errors.append(f"Expected `.. folio::` Friedlein milestone markers in {f}")
+        else:
+            for suffix in ("en", "el", "summary", "notes"):
+                f = udir / f"{unit.slug}-{suffix}.rst"
+                if not f.is_file():
+                    errors.append(f"Missing unit track file: {f}")
+                    continue
+                track_counts += 1
+                txt = f.read_text(encoding="utf-8")
+                if code_block_re.search(txt):
+                    errors.append(f"Forbidden embedded Python code-block found in historical treatise: {f}")
+                if suffix in ("en", "el") and ".. folio::" not in txt:
+                    errors.append(f"Expected `.. folio::` Friedlein milestone markers in {f}")
 
     # Also check root index.rst has :layout: book
     idx_path = bdir / "index.rst"
@@ -413,7 +440,7 @@ def verify_codex_tracks(book_dir: Path | None = None) -> dict[str, Any]:
 
     return {
         "valid": len(errors) == 0,
-        "units": len(CODEX_UNITS_BY_SLUG),
+        "units": len(CODEX_UNITS),
         "track_files": track_counts,
         "errors": errors,
     }

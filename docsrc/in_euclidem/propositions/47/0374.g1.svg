@@ -1,0 +1,370 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="6 2 174 175" width="174" height="175" class="euclid-graphic" data-graphic-id="0374.g1" data-folio="0374" data-graphic="g1" data-proposition="I.47">
+  <style>
+    :root {
+      --geom-fg: #18181b;
+      --geom-bg: #ffffff;
+      --geom-point-stroke: #ffffff;
+      --geom-poly-fill: #000000;
+      --geom-accent: #c88a1e;
+      --geom-assert: #16a34a;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --geom-fg: #d6cfc5;
+        --geom-bg: #1e1e20;
+        --geom-point-stroke: #1e1e20;
+        --geom-poly-fill: #d6cfc5;
+        --geom-accent: #e8b85a;
+        --geom-assert: #5ec27e;
+      }
+    }
+    .euclid-graphic {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      background-color: var(--geom-bg);
+    }
+    .geom-line {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-bold {
+      stroke: var(--geom-fg);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-circle, .geom-curve, .geom-ellipse {
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc {
+      stroke: var(--geom-fg);
+      stroke-width: 1.6;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-dashed, .geom-line-dashed, .geom-arc-dashed, .geom-aux, .geom-Auxiliary, .geom-construction {
+      stroke: var(--geom-fg);
+      stroke-width: 1.5;
+      stroke-dasharray: 4, 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-arc-dotted {
+      stroke: var(--geom-fg);
+      stroke-width: 1.5;
+      stroke-dasharray: 2.5, 2.5;
+      stroke-linecap: round;
+      fill: none;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-ray {
+      stroke: var(--geom-fg);
+      stroke-width: 1.3;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.85;
+      transition: stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-tick {
+      stroke: var(--geom-fg);
+      stroke-width: 1.5;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-tick-mark {
+      stroke: var(--geom-assert);
+      stroke-width: 2;
+      stroke-linecap: round;
+      fill: none;
+    }
+    .geom-ang-arc {
+      fill: none;
+      stroke: var(--geom-assert);
+      stroke-width: 2.2;
+      stroke-linecap: round;
+    }
+    .grid-line {
+      stroke: var(--geom-fg);
+      stroke-width: 0.9;
+      stroke-linecap: round;
+      fill: none;
+      opacity: 0.65;
+    }
+    .geom-polygon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.04;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .geom-polygon-bordered, .geom-polygon-stroked, .geom-space {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.04;
+      stroke: var(--geom-fg);
+      stroke-width: 1.8;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      transition: fill-opacity 0.15s, stroke 0.15s, stroke-width 0.15s;
+    }
+    .geom-polygon-gnomon {
+      fill: var(--geom-poly-fill);
+      fill-opacity: 0.14;
+      stroke: none;
+      transition: fill-opacity 0.15s, stroke 0.15s;
+    }
+    .wedge, .angle {
+      fill: var(--geom-accent);
+      fill-opacity: 0.24;
+      stroke: var(--geom-accent);
+      stroke-width: 2;
+      stroke-linejoin: round;
+      transition: opacity 0.12s ease, fill-opacity 0.12s ease;
+    }
+    .geom-point {
+      fill: var(--geom-fg);
+      stroke: var(--geom-point-stroke);
+      stroke-width: 1;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-dot {
+      fill: var(--geom-fg);
+      stroke: none;
+      transition: fill 0.15s, r 0.15s;
+    }
+    .geom-label {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 14.5px;
+      font-weight: 700;
+      font-style: normal;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-roman {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 14.5px;
+      font-weight: 700;
+      font-style: normal;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sm {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+      font-style: normal;
+      fill: var(--geom-fg);
+      user-select: none;
+    }
+    .geom-label-sub {
+      font-family: 'Fira Sans Condensed', 'Fira Sans', sans-serif;
+      font-size: 11px;
+      font-style: normal;
+      font-weight: 700;
+    }
+    .geom-overlay {
+      opacity: 0;
+      pointer-events: none;
+      transition: opacity 0.12s ease;
+    }
+    [data-ref]:hover, .highlight, .geom-highlight-active {
+      opacity: 1 !important;
+      stroke: var(--geom-accent) !important;
+      cursor: pointer;
+    }
+    text[data-ref]:hover, text.highlight, text.geom-highlight-active, text.geom-highlight-secondary, text.geom-highlight-active *, text.geom-highlight-secondary * {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-polygon:hover, .geom-polygon.highlight, .geom-polygon-bordered:hover, .geom-polygon-bordered.highlight, .geom-polygon-stroked:hover, .geom-polygon-stroked.highlight, .geom-polygon-gnomon:hover, .geom-polygon-gnomon.highlight, .geom-space:hover, .geom-space.highlight, polygon.geom-highlight-active, path.geom-polygon.geom-highlight-active, .wedge:hover, .wedge.highlight, .wedge.angle:hover, .wedge.angle.highlight, .wedge.angle.geom-highlight-active, path.wedge.geom-highlight-active, path.angle.geom-highlight-active {
+      opacity: 1 !important;
+      fill-opacity: 0.24 !important;
+      fill: var(--geom-accent) !important;
+      stroke: var(--geom-accent) !important;
+    }
+    .geom-point:hover, .geom-point.highlight, circle.geom-point.geom-highlight-active, .geom-dot:hover, .geom-dot.highlight, circle.geom-highlight-active {
+      opacity: 1 !important;
+      fill: var(--geom-accent) !important;
+      stroke: none !important;
+    }
+    .geom-assert-active {
+      opacity: 1 !important;
+      stroke: var(--geom-assert) !important;
+    }
+    text.geom-assert-active, text.geom-assert-secondary, text.geom-assert-active *, text.geom-assert-secondary * {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    polygon.geom-assert-active, path.geom-polygon.geom-assert-active, .wedge.angle.geom-assert-active, path.wedge.geom-assert-active, path.angle.geom-assert-active {
+      opacity: 1 !important;
+      fill-opacity: 0.22 !important;
+      fill: var(--geom-assert) !important;
+      stroke: var(--geom-assert) !important;
+    }
+    path.geom-ang-arc.geom-assert-active {
+      opacity: 1 !important;
+      fill: none !important;
+      stroke: var(--geom-assert) !important;
+    }
+    circle.geom-point.geom-assert-active, circle.geom-assert-active {
+      opacity: 1 !important;
+      fill: var(--geom-assert) !important;
+      stroke: none !important;
+    }
+    path.geom-assert-active.geom-tick-1 {
+      marker-mid: url(#geom-tick-1);
+    }
+    path.geom-assert-active.geom-tick-2 {
+      marker-mid: url(#geom-tick-2);
+    }
+    path.geom-assert-active.geom-tick-3 {
+      marker-mid: url(#geom-tick-3);
+    }
+  </style>
+  <defs>
+    <marker id="geom-tick-1" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-2" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-1.8" y1="-4.5" x2="-1.8" y2="4.5" class="geom-tick-mark" />
+      <line x1="1.8" y1="-4.5" x2="1.8" y2="4.5" class="geom-tick-mark" />
+    </marker>
+    <marker id="geom-tick-3" viewBox="-6 -6 12 12" refX="0" refY="0" markerWidth="12" markerHeight="12" markerUnits="userSpaceOnUse" orient="auto">
+      <line x1="-3.2" y1="-4.5" x2="-3.2" y2="4.5" class="geom-tick-mark" />
+      <line x1="0" y1="-4.5" x2="0" y2="4.5" class="geom-tick-mark" />
+      <line x1="3.2" y1="-4.5" x2="3.2" y2="4.5" class="geom-tick-mark" />
+    </marker>
+  </defs>
+  <g id="elements" />
+  <g id="graphics">
+    <polygon id="el-sq-8x8" data-ref="&lt; O A8 B8 C8 &gt;" data-type="polygon" points="18,20 138,20 138,137 18,137" class="geom-polygon" />
+    <polygon id="el-sq-9x9" data-ref="&lt; O A9 B9 C9 &gt;" data-type="polygon" points="18,20 153,20 153,152 18,152" class="geom-polygon" />
+    <polygon id="el-sq-10x10" data-ref="&lt; O A10 B10 C10 &gt;" data-type="polygon" points="18,20 168,20 168,165 18,165" class="geom-polygon" />
+    <polyline id="el-gnomon-8x8" data-ref="/ A8 B8 C8 /" points="138,20 138,137 18,137" class="geom-line" />
+    <polyline id="el-gnomon-9x9" data-ref="/ A9 B9 C9 /" points="153,16 153,152 18,152" class="geom-line" />
+    <polyline id="el-gnomon-10x10" data-ref="/ A10 B10 C10 /" points="168,14 168,165 18,165" class="geom-line" />
+  </g>
+  <g id="highlights" style="pointer-events: none;">
+    <polygon id="hl-sq-8x8" data-ref="&lt; O A8 B8 C8 &gt;" points="18,20 138,20 138,137 18,137" class="geom-polygon geom-overlay" />
+    <polygon id="hl-sq-9x9" data-ref="&lt; O A9 B9 C9 &gt;" points="18,20 153,20 153,152 18,152" class="geom-polygon geom-overlay" />
+    <polygon id="hl-sq-10x10" data-ref="&lt; O A10 B10 C10 &gt;" points="18,20 168,20 168,165 18,165" class="geom-polygon geom-overlay" />
+  </g>
+  <g id="points">
+    <circle class="geom-point" cx="26.5" cy="28.0" r="2.6" data-ref="d_1_1" />
+    <circle class="geom-point" cx="41.4" cy="28.0" r="2.6" data-ref="d_1_2" />
+    <circle class="geom-point" cx="56.1" cy="28.0" r="2.6" data-ref="d_1_3" />
+    <circle class="geom-point" cx="71.5" cy="28.0" r="2.6" data-ref="d_1_4" />
+    <circle class="geom-point" cx="86.5" cy="28.0" r="2.6" data-ref="d_1_5" />
+    <circle class="geom-point" cx="101.3" cy="28.0" r="2.6" data-ref="d_1_6" />
+    <circle class="geom-point" cx="115.8" cy="28.0" r="2.6" data-ref="d_1_7" />
+    <circle class="geom-point" cx="129.7" cy="28.0" r="2.6" data-ref="d_1_8" />
+    <circle class="geom-point" cx="146.3" cy="28.0" r="2.6" data-ref="d_1_9" />
+    <circle class="geom-point" cx="161.0" cy="28.0" r="2.6" data-ref="d_1_10" />
+    <circle class="geom-point" cx="26.5" cy="43.1" r="2.6" data-ref="d_2_1" />
+    <circle class="geom-point" cx="41.4" cy="43.1" r="2.6" data-ref="d_2_2" />
+    <circle class="geom-point" cx="56.1" cy="43.1" r="2.6" data-ref="d_2_3" />
+    <circle class="geom-point" cx="71.5" cy="43.1" r="2.6" data-ref="d_2_4" />
+    <circle class="geom-point" cx="86.5" cy="43.1" r="2.6" data-ref="d_2_5" />
+    <circle class="geom-point" cx="101.3" cy="43.1" r="2.6" data-ref="d_2_6" />
+    <circle class="geom-point" cx="115.8" cy="43.1" r="2.6" data-ref="d_2_7" />
+    <circle class="geom-point" cx="129.7" cy="43.1" r="2.6" data-ref="d_2_8" />
+    <circle class="geom-point" cx="146.3" cy="43.1" r="2.6" data-ref="d_2_9" />
+    <circle class="geom-point" cx="161.0" cy="43.1" r="2.6" data-ref="d_2_10" />
+    <circle class="geom-point" cx="26.5" cy="57.7" r="2.6" data-ref="d_3_1" />
+    <circle class="geom-point" cx="41.4" cy="57.7" r="2.6" data-ref="d_3_2" />
+    <circle class="geom-point" cx="56.1" cy="57.7" r="2.6" data-ref="d_3_3" />
+    <circle class="geom-point" cx="71.5" cy="57.7" r="2.6" data-ref="d_3_4" />
+    <circle class="geom-point" cx="86.5" cy="57.7" r="2.6" data-ref="d_3_5" />
+    <circle class="geom-point" cx="101.3" cy="57.7" r="2.6" data-ref="d_3_6" />
+    <circle class="geom-point" cx="115.8" cy="57.7" r="2.6" data-ref="d_3_7" />
+    <circle class="geom-point" cx="129.7" cy="57.7" r="2.6" data-ref="d_3_8" />
+    <circle class="geom-point" cx="146.3" cy="57.7" r="2.6" data-ref="d_3_9" />
+    <circle class="geom-point" cx="161.0" cy="57.7" r="2.6" data-ref="d_3_10" />
+    <circle class="geom-point" cx="26.5" cy="72.4" r="2.6" data-ref="d_4_1" />
+    <circle class="geom-point" cx="41.4" cy="72.4" r="2.6" data-ref="d_4_2" />
+    <circle class="geom-point" cx="56.1" cy="72.4" r="2.6" data-ref="d_4_3" />
+    <circle class="geom-point" cx="71.5" cy="72.4" r="2.6" data-ref="d_4_4" />
+    <circle class="geom-point" cx="86.5" cy="72.4" r="2.6" data-ref="d_4_5" />
+    <circle class="geom-point" cx="101.3" cy="72.4" r="2.6" data-ref="d_4_6" />
+    <circle class="geom-point" cx="115.8" cy="72.4" r="2.6" data-ref="d_4_7" />
+    <circle class="geom-point" cx="129.7" cy="72.4" r="2.6" data-ref="d_4_8" />
+    <circle class="geom-point" cx="146.3" cy="72.4" r="2.6" data-ref="d_4_9" />
+    <circle class="geom-point" cx="161.0" cy="72.4" r="2.6" data-ref="d_4_10" />
+    <circle class="geom-point" cx="26.5" cy="87.1" r="2.6" data-ref="d_5_1" />
+    <circle class="geom-point" cx="41.4" cy="87.1" r="2.6" data-ref="d_5_2" />
+    <circle class="geom-point" cx="56.1" cy="87.1" r="2.6" data-ref="d_5_3" />
+    <circle class="geom-point" cx="71.5" cy="87.1" r="2.6" data-ref="d_5_4" />
+    <circle class="geom-point" cx="86.5" cy="87.1" r="2.6" data-ref="d_5_5" />
+    <circle class="geom-point" cx="101.3" cy="87.1" r="2.6" data-ref="d_5_6" />
+    <circle class="geom-point" cx="115.8" cy="87.1" r="2.6" data-ref="d_5_7" />
+    <circle class="geom-point" cx="129.7" cy="87.1" r="2.6" data-ref="d_5_8" />
+    <circle class="geom-point" cx="146.3" cy="87.1" r="2.6" data-ref="d_5_9" />
+    <circle class="geom-point" cx="161.0" cy="87.1" r="2.6" data-ref="d_5_10" />
+    <circle class="geom-point" cx="26.5" cy="101.9" r="2.6" data-ref="d_6_1" />
+    <circle class="geom-point" cx="41.4" cy="101.9" r="2.6" data-ref="d_6_2" />
+    <circle class="geom-point" cx="56.1" cy="101.9" r="2.6" data-ref="d_6_3" />
+    <circle class="geom-point" cx="71.5" cy="101.9" r="2.6" data-ref="d_6_4" />
+    <circle class="geom-point" cx="86.5" cy="101.9" r="2.6" data-ref="d_6_5" />
+    <circle class="geom-point" cx="101.3" cy="101.9" r="2.6" data-ref="d_6_6" />
+    <circle class="geom-point" cx="115.8" cy="101.9" r="2.6" data-ref="d_6_7" />
+    <circle class="geom-point" cx="129.7" cy="101.9" r="2.6" data-ref="d_6_8" />
+    <circle class="geom-point" cx="146.3" cy="101.9" r="2.6" data-ref="d_6_9" />
+    <circle class="geom-point" cx="161.0" cy="101.9" r="2.6" data-ref="d_6_10" />
+    <circle class="geom-point" cx="26.5" cy="115.8" r="2.6" data-ref="d_7_1" />
+    <circle class="geom-point" cx="41.4" cy="115.8" r="2.6" data-ref="d_7_2" />
+    <circle class="geom-point" cx="56.1" cy="115.8" r="2.6" data-ref="d_7_3" />
+    <circle class="geom-point" cx="71.5" cy="115.8" r="2.6" data-ref="d_7_4" />
+    <circle class="geom-point" cx="86.5" cy="115.8" r="2.6" data-ref="d_7_5" />
+    <circle class="geom-point" cx="101.3" cy="115.8" r="2.6" data-ref="d_7_6" />
+    <circle class="geom-point" cx="115.8" cy="115.8" r="2.6" data-ref="d_7_7" />
+    <circle class="geom-point" cx="129.7" cy="115.8" r="2.6" data-ref="d_7_8" />
+    <circle class="geom-point" cx="146.3" cy="115.8" r="2.6" data-ref="d_7_9" />
+    <circle class="geom-point" cx="161.0" cy="115.8" r="2.6" data-ref="d_7_10" />
+    <circle class="geom-point" cx="26.5" cy="129.8" r="2.6" data-ref="d_8_1" />
+    <circle class="geom-point" cx="41.4" cy="129.8" r="2.6" data-ref="d_8_2" />
+    <circle class="geom-point" cx="56.1" cy="129.8" r="2.6" data-ref="d_8_3" />
+    <circle class="geom-point" cx="71.5" cy="129.8" r="2.6" data-ref="d_8_4" />
+    <circle class="geom-point" cx="86.5" cy="129.8" r="2.6" data-ref="d_8_5" />
+    <circle class="geom-point" cx="101.3" cy="129.8" r="2.6" data-ref="d_8_6" />
+    <circle class="geom-point" cx="115.8" cy="129.8" r="2.6" data-ref="d_8_7" />
+    <circle class="geom-point" cx="129.7" cy="129.8" r="2.6" data-ref="d_8_8" />
+    <circle class="geom-point" cx="146.3" cy="129.8" r="2.6" data-ref="d_8_9" />
+    <circle class="geom-point" cx="161.0" cy="129.8" r="2.6" data-ref="d_8_10" />
+    <circle class="geom-point" cx="26.5" cy="144.0" r="2.6" data-ref="d_9_1" />
+    <circle class="geom-point" cx="41.4" cy="144.0" r="2.6" data-ref="d_9_2" />
+    <circle class="geom-point" cx="56.1" cy="144.0" r="2.6" data-ref="d_9_3" />
+    <circle class="geom-point" cx="71.5" cy="144.0" r="2.6" data-ref="d_9_4" />
+    <circle class="geom-point" cx="86.5" cy="144.0" r="2.6" data-ref="d_9_5" />
+    <circle class="geom-point" cx="101.3" cy="144.0" r="2.6" data-ref="d_9_6" />
+    <circle class="geom-point" cx="115.8" cy="144.0" r="2.6" data-ref="d_9_7" />
+    <circle class="geom-point" cx="129.7" cy="144.0" r="2.6" data-ref="d_9_8" />
+    <circle class="geom-point" cx="146.3" cy="144.0" r="2.6" data-ref="d_9_9" />
+    <circle class="geom-point" cx="161.0" cy="144.0" r="2.6" data-ref="d_9_10" />
+    <circle class="geom-point" cx="26.5" cy="158.4" r="2.6" data-ref="d_10_1" />
+    <circle class="geom-point" cx="41.4" cy="158.4" r="2.6" data-ref="d_10_2" />
+    <circle class="geom-point" cx="56.1" cy="158.4" r="2.6" data-ref="d_10_3" />
+    <circle class="geom-point" cx="71.5" cy="158.4" r="2.6" data-ref="d_10_4" />
+    <circle class="geom-point" cx="86.5" cy="158.4" r="2.6" data-ref="d_10_5" />
+    <circle class="geom-point" cx="101.3" cy="158.4" r="2.6" data-ref="d_10_6" />
+    <circle class="geom-point" cx="115.8" cy="158.4" r="2.6" data-ref="d_10_7" />
+    <circle class="geom-point" cx="129.7" cy="158.4" r="2.6" data-ref="d_10_8" />
+    <circle class="geom-point" cx="146.3" cy="158.4" r="2.6" data-ref="d_10_9" />
+    <circle class="geom-point" cx="161.0" cy="158.4" r="2.6" data-ref="d_10_10" />
+  </g>
+  <g id="labels" />
+</svg>

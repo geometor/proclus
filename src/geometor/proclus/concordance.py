@@ -99,44 +99,22 @@ CODEX_UNITS: tuple[CodexUnitSpec, ...] = (
         taylor_book="Book III (Petitions, Axioms & Prop. I Prefatory Sections)",
     ),
     CodexUnitSpec(
-        slug="propositions-1-15",
-        number_label="Propositions I.1–I.15",
-        title="Commentary on Propositions I.1–I.15: Triangles, Congruence & Perpendiculars",
+        slug="propositions",
+        number_label="Propositions I.1–I.48",
+        title="Commentary on the Propositions of Book I (I.1–I.48)",
         subtitle=(
-            "Equilateral Construction & Zeno's Critique, Superposition (I.4), Pappus's Proof "
-            "of I.5, Converses & Reductio, Oenopides' Gnomon (I.12), Vertical Angles & Porisms"
+            "Triangles, Congruence, Perpendiculars, Parallels, Areas, "
+            "Application of Areas, and the Theorem of Pythagoras"
         ),
         friedlein_start=208,
-        friedlein_end=305,
-        taylor_book="Book III (Propositions I–XV & Porisms)",
-    ),
-    CodexUnitSpec(
-        slug="propositions-16-32",
-        number_label="Propositions I.16–I.32",
-        title="Commentary on Propositions I.16–I.32: Inequalities, Parallels & Angle-Sum",
-        subtitle=(
-            "Exterior Angle, Epicurean Critique of I.20, Thales' Ship-Distance Theorem (I.26), "
-            "Ptolemy & Proclus on Postulate 5 (I.29), and the Pythagorean Angle-Sum Proof (I.32)"
-        ),
-        friedlein_start=305,
-        friedlein_end=384,
-        taylor_book="Book III (Props. XVI–XXVI) & Book IV (Props. XXVII–XXXII)",
-    ),
-    CodexUnitSpec(
-        slug="propositions-33-48",
-        number_label="Propositions I.33–I.48",
-        title="Commentary on Propositions I.33–I.48: Areas, Application & Pythagoras",
-        subtitle=(
-            "Parallelograms & Locus Theorems (I.35), Pythagorean Application of Areas "
-            "(Parabole, Hyperbole, Elleipsis, I.44), and Euclid's Proof of I.47–I.48"
-        ),
-        friedlein_start=384,
         friedlein_end=436,
-        taylor_book="Book IV (Propositions XXXIII–XLVIII)",
+        taylor_book="Book III & Book IV (Propositions I–XLVIII)",
     ),
 )
 
 CODEX_UNITS_BY_SLUG: dict[str, CodexUnitSpec] = {u.slug: u for u in CODEX_UNITS}
+for _legacy in ("propositions-1-15", "propositions-16-32", "propositions-33-48"):
+    CODEX_UNITS_BY_SLUG[_legacy] = CODEX_UNITS_BY_SLUG["propositions"]
 
 # Ordered section map covering Friedlein pp. 1–436 with exact line boundaries.
 FRIEDLEIN_SECTIONS: tuple[SectionSpec, ...] = (
@@ -176,35 +154,35 @@ FRIEDLEIN_SECTIONS: tuple[SectionSpec, ...] = (
     SectionSpec("postulates-axioms", "sec-axioms", "Common Notions (Axioms 1–5): Apollonius, Heron & Pappus", 193, 10, 198, 15, "I.cn.1"),
     SectionSpec("postulates-axioms", "sec-six-parts", "Problems vs. Theorems & The Six Canonical Parts of a Proposition", 199, 1, 207, 25),
     # Propositions I.1–I.15 & Excursus on Porisms (pp. 208–305, l. 16)
-    SectionSpec("propositions-1-15", "sec-prop-01", "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection", 208, 1, 219, 24, "I.1"),
-    SectionSpec("propositions-1-15", "sec-prop-02-03", "Props. I.2–I.3: Transferring & Subtracting Segments", 220, 1, 232, 26, "I.2"),
-    SectionSpec("propositions-1-15", "sec-prop-04", "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus", 233, 1, 243, 25, "I.4"),
-    SectionSpec("propositions-1-15", "sec-prop-05", "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)", 244, 1, 251, 18, "I.5"),
-    SectionSpec("propositions-1-15", "sec-prop-06", "Prop. I.6: Converse of I.5, Conversion Theory & Reductio ad Absurdum", 251, 19, 258, 11, "I.6"),
-    SectionSpec("propositions-1-15", "sec-prop-07-08", "Props. I.7–I.8: Rigidity Lemma & SSS Congruence (Philo's Proof)", 258, 12, 269, 26, "I.8"),
-    SectionSpec("propositions-1-15", "sec-prop-09-10", "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines", 270, 1, 280, 4, "I.9"),
-    SectionSpec("propositions-1-15", "sec-prop-11-12", "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon", 280, 5, 289, 25, "I.12"),
-    SectionSpec("propositions-1-15", "sec-prop-13-15", "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms", 290, 1, 305, 16, "I.15"),
+    SectionSpec("propositions", "sec-prop-01", "Prop. I.1: Equilateral Triangle, Cases & Zeno of Sidon's Objection", 208, 1, 219, 24, "I.1"),
+    SectionSpec("propositions", "sec-prop-02-03", "Props. I.2–I.3: Transferring & Subtracting Segments", 220, 1, 232, 26, "I.2"),
+    SectionSpec("propositions", "sec-prop-04", "Prop. I.4: First Congruence Theorem (SAS), Superposition & Carpus", 233, 1, 243, 25, "I.4"),
+    SectionSpec("propositions", "sec-prop-05", "Prop. I.5: Isosceles Base Angles (Thales & Pappus's Symmetry Proof)", 244, 1, 251, 18, "I.5"),
+    SectionSpec("propositions", "sec-prop-06", "Prop. I.6: Converse of I.5, Conversion Theory & Reductio ad Absurdum", 251, 19, 258, 11, "I.6"),
+    SectionSpec("propositions", "sec-prop-07-08", "Props. I.7–I.8: Rigidity Lemma & SSS Congruence (Philo's Proof)", 258, 12, 269, 26, "I.8"),
+    SectionSpec("propositions", "sec-prop-09-10", "Props. I.9–I.10: Angle & Line Bisection, Trisection & Indivisible Lines", 270, 1, 280, 4, "I.9"),
+    SectionSpec("propositions", "sec-prop-11-12", "Props. I.11–I.12: Perpendiculars, Apollonius & Oenopides' Gnomon", 280, 5, 289, 25, "I.12"),
+    SectionSpec("propositions", "sec-prop-13-15", "Props. I.13–I.15: Adjacent & Vertical Angles (Thales) & Porisms", 290, 1, 305, 16, "I.15"),
     # Propositions I.16–I.32 (pp. 305, l. 17 – 384, l. 21)
-    SectionSpec("propositions-16-32", "sec-prop-16-17", "Props. I.16–I.17: Exterior Angle & Sum of Two Interior Angles", 305, 17, 312, 25, "I.16"),
-    SectionSpec("propositions-16-32", "sec-prop-18-19", "Props. I.18–I.19: Greater Side & Greater Angle (Division Proof)", 313, 1, 321, 26, "I.18"),
-    SectionSpec("propositions-16-32", "sec-prop-20-21", "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)", 322, 1, 329, 26, "I.20"),
-    SectionSpec("propositions-16-32", "sec-prop-22-23", "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)", 330, 1, 335, 26, "I.23"),
-    SectionSpec("propositions-16-32", "sec-prop-24-25", "Props. I.24–I.25: Hinge Theorems (Heron, Porphyry & Menelaus)", 336, 1, 347, 19, "I.24"),
-    SectionSpec("propositions-16-32", "sec-prop-26", "Prop. I.26: ASA/AAS Congruence & Thales' Ship-Distance Theorem", 347, 20, 353, 26, "I.26"),
-    SectionSpec("propositions-16-32", "sec-prop-27-28", "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels", 354, 1, 364, 18, "I.27"),
-    SectionSpec("propositions-16-32", "sec-prop-29", "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5", 364, 19, 373, 4, "I.29"),
-    SectionSpec("propositions-16-32", "sec-prop-30-31", "Props. I.30–I.31: Transitivity & Construction of Parallels", 373, 5, 376, 12, "I.30"),
-    SectionSpec("propositions-16-32", "sec-prop-32", "Prop. I.32: Triangle Angle-Sum, Pythagorean Proof & Polygon Formula", 376, 13, 384, 21, "I.32"),
+    SectionSpec("propositions", "sec-prop-16-17", "Props. I.16–I.17: Exterior Angle & Sum of Two Interior Angles", 305, 17, 312, 25, "I.16"),
+    SectionSpec("propositions", "sec-prop-18-19", "Props. I.18–I.19: Greater Side & Greater Angle (Division Proof)", 313, 1, 321, 26, "I.18"),
+    SectionSpec("propositions", "sec-prop-20-21", "Props. I.20–I.21: Triangle Inequality (Epicurean Critique, Heron, Porphyry)", 322, 1, 329, 26, "I.20"),
+    SectionSpec("propositions", "sec-prop-22-23", "Props. I.22–I.23: Triangle Diorismos & Copying an Angle (Oenopides)", 330, 1, 335, 26, "I.23"),
+    SectionSpec("propositions", "sec-prop-24-25", "Props. I.24–I.25: Hinge Theorems (Heron, Porphyry & Menelaus)", 336, 1, 347, 19, "I.24"),
+    SectionSpec("propositions", "sec-prop-26", "Prop. I.26: ASA/AAS Congruence & Thales' Ship-Distance Theorem", 347, 20, 353, 26, "I.26"),
+    SectionSpec("propositions", "sec-prop-27-28", "Props. I.27–I.28: Book IV Opening & Sufficient Conditions for Parallels", 354, 1, 364, 18, "I.27"),
+    SectionSpec("propositions", "sec-prop-29", "Prop. I.29: Ptolemy's Treatise & Proclus's Attempted Proof of Postulate 5", 364, 19, 373, 4, "I.29"),
+    SectionSpec("propositions", "sec-prop-30-31", "Props. I.30–I.31: Transitivity & Construction of Parallels", 373, 5, 376, 12, "I.30"),
+    SectionSpec("propositions", "sec-prop-32", "Prop. I.32: Triangle Angle-Sum, Pythagorean Proof & Polygon Formula", 376, 13, 384, 21, "I.32"),
     # Propositions I.33–I.48 (pp. 384, l. 22 – 436)
-    SectionSpec("propositions-33-48", "sec-prop-33-34", "Props. I.33–I.34: Parallelogrammic Areas & Diameter Bisection", 384, 22, 393, 28, "I.34"),
-    SectionSpec("propositions-33-48", "sec-prop-35", "Prop. I.35: Equal Parallelograms & Birth of Locus Theorems", 394, 1, 400, 24, "I.35"),
-    SectionSpec("propositions-33-48", "sec-prop-36-41", "Props. I.36–I.41: Equal Parallelograms & Triangles Between Parallels", 400, 25, 415, 16, "I.41"),
-    SectionSpec("propositions-33-48", "sec-prop-42-43", "Props. I.42–I.43: Area Construction & Complements About the Diameter", 415, 17, 418, 28, "I.43"),
-    SectionSpec("propositions-33-48", "sec-prop-44-45", "Props. I.44–I.45: Pythagorean Application of Areas (Parabole, Hyperbole, Elleipsis)", 419, 1, 423, 10, "I.44"),
-    SectionSpec("propositions-33-48", "sec-prop-46", "Prop. I.46: Constructing the Square & Posidonius's Definition", 423, 11, 425, 25, "I.46"),
-    SectionSpec("propositions-33-48", "sec-prop-47", "Prop. I.47: The Theorem of Pythagoras, Euclid's Generalization & Triples", 426, 1, 429, 28, "I.47"),
-    SectionSpec("propositions-33-48", "sec-prop-48", "Prop. I.48: Converse of Pythagoras, Peroration & Manuscript Scholium", 430, 1, 436, 28, "I.48"),
+    SectionSpec("propositions", "sec-prop-33-34", "Props. I.33–I.34: Parallelogrammic Areas & Diameter Bisection", 384, 22, 393, 28, "I.34"),
+    SectionSpec("propositions", "sec-prop-35", "Prop. I.35: Equal Parallelograms & Birth of Locus Theorems", 394, 1, 400, 24, "I.35"),
+    SectionSpec("propositions", "sec-prop-36-41", "Props. I.36–I.41: Equal Parallelograms & Triangles Between Parallels", 400, 25, 415, 16, "I.41"),
+    SectionSpec("propositions", "sec-prop-42-43", "Props. I.42–I.43: Area Construction & Complements About the Diameter", 415, 17, 418, 28, "I.43"),
+    SectionSpec("propositions", "sec-prop-44-45", "Props. I.44–I.45: Pythagorean Application of Areas (Parabole, Hyperbole, Elleipsis)", 419, 1, 423, 10, "I.44"),
+    SectionSpec("propositions", "sec-prop-46", "Prop. I.46: Constructing the Square & Posidonius's Definition", 423, 11, 425, 25, "I.46"),
+    SectionSpec("propositions", "sec-prop-47", "Prop. I.47: The Theorem of Pythagoras, Euclid's Generalization & Triples", 426, 1, 429, 28, "I.47"),
+    SectionSpec("propositions", "sec-prop-48", "Prop. I.48: Converse of Pythagoras, Peroration & Manuscript Scholium", 430, 1, 436, 28, "I.48"),
 )
 
 # Explicit overrides for idiosyncratic key encodings in Heath's citations.json / Hoenen's citations.json

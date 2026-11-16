@@ -25,6 +25,7 @@ def register_greek_book_track() -> None:
         book._TRACK_SUFFIX_PATTERNS.append(el_pattern)
 
     book._AUX_TRACK_BASENAMES.add("el")
+    book._AUX_TRACK_BASENAMES.add("greek")
     el_aux_re = re.compile(r"^.+[._-]el$")
     if not any(p.pattern == el_aux_re.pattern for p in book._AUX_TRACK_PATTERNS):
         book._AUX_TRACK_PATTERNS.append(el_aux_re)

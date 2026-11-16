@@ -30,6 +30,9 @@ configure_local_intersphinx(
     Path(os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))),
 )
 
-project = "GEOMETOR • proclus"
+site_title = "Proclus Diadochus"
+project = site_title
+html_title = f"{site_title} • {org_name}"
 author = "Proclus Diadochus"
 copyright = "c. 470 AD (Friedlein 1873 / Taylor 1788–1789) • Digital Edition GEOMETOR"
+suppress_warnings = ["autoapi.python_import_resolution", "toc.not_included"]
