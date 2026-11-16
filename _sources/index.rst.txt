@@ -2,13 +2,13 @@
 
 .. container:: author-overline
 
-   the works of
+   semantic digital archive • the works of
 
 =================
 Proclus Diadochus
 =================
 
-The mission of this project is to capture a semantic digital library of the works of :person:`Proclus Diadochus <proclus>` (412–485 AD), the Neoplatonic philosopher whose *Commentary on the First Book of Euclid's Elements* preserves the foundational philosophy, axiomatic methodology, and Eudemian history of Greek geometry.
+The works of :person:`Proclus Diadochus <proclus>` (412–485 CE), Neoplatonic philosopher and successor at the Academy, preserve the foundational philosophy, axiomatic methodology, and Eudemian history of Greek geometry in his commentary on Euclid's *Elements*. Within the interconnected `GEOMETOR <https://geometor.com/books/>`_ semantic digital archive, this monumental treatise is liberated from static print bounds—decomposed into addressable semantic units, synchronized 4-track bilingual codices, calibrated vector diagrams, and cross-corpus citations speaking one shared geometric language.
 
 .. collection::
    :type: book
