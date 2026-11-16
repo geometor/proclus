@@ -38,18 +38,10 @@ Overview by Codex Unit
      - pp. 178–207
      - 19
      - Epistemology of First Principles, Compass & Straightedge Postulates, Critique of Postulate 5, Common Notions, and the Six Parts of a Proposition
-   * - :doc:`Propositions I.1–I.15 <propositions-1-15/propositions-1-15-en>`
-     - pp. 208–305
-     - 42
-     - Equilateral Construction & Zeno's Critique, Superposition (I.4), Pappus's Proof of I.5, Converses & Reductio, Oenopides' Gnomon (I.12), Vertical Angles & Porisms
-   * - :doc:`Propositions I.16–I.32 <propositions-16-32/propositions-16-32-en>`
-     - pp. 305–384
-     - 26
-     - Exterior Angle, Epicurean Critique of I.20, Thales' Ship-Distance Theorem (I.26), Ptolemy & Proclus on Postulate 5 (I.29), and the Pythagorean Angle-Sum Proof (I.32)
-   * - :doc:`Propositions I.33–I.48 <propositions-33-48/propositions-33-48-en>`
-     - pp. 384–436
-     - 14
-     - Parallelograms & Locus Theorems (I.35), Pythagorean Application of Areas (Parabole, Hyperbole, Elleipsis, I.44), and Euclid's Proof of I.47–I.48
+   * - :doc:`Propositions I.1–I.48 <propositions/index>`
+     - pp. 208–436
+     - 82
+     - Triangles, Congruence, Perpendiculars, Parallels, Areas, Application of Areas, and the Theorem of Pythagoras
 
 .. _concordance-prologue-1:
 
@@ -659,12 +651,12 @@ Codex tracks: :doc:`English <postulates-axioms/postulates-axioms-en>` · :doc:`G
 
   * `euclid` ``proclus:in-euclid:207.4-25`` — Heath Vol. I, p. 131 (chapter_ix) [folio ``0145``]
 
-.. _concordance-propositions-1-15:
+.. _concordance-propositions:
 
-Propositions I.1–I.15 (Friedlein pp. 208–305)
+Propositions I.1–I.48 (Friedlein pp. 208–436)
 ---------------------------------------------
 
-Codex tracks: :doc:`English <propositions-1-15/propositions-1-15-en>` · :doc:`Greek (1873) <propositions-1-15/propositions-1-15-el>` · :doc:`Summary <propositions-1-15/propositions-1-15-summary>` · :doc:`Notes <propositions-1-15/propositions-1-15-notes>`
+Codex: :doc:`Propositions Overview <propositions/index>`
 
 .. _conc-friedlein-208-21:
 
@@ -960,13 +952,6 @@ Codex tracks: :doc:`English <propositions-1-15/propositions-1-15-en>` · :doc:`G
 
   * `euclid` ``proclus:in-euclid:304-2`` — Heath Vol. II, p. 109 (Bk. IV, propositions) [folio ``0115``]
 
-.. _concordance-propositions-16-32:
-
-Propositions I.16–I.32 (Friedlein pp. 305–384)
-----------------------------------------------
-
-Codex tracks: :doc:`English <propositions-16-32/propositions-16-32-en>` · :doc:`Greek (1873) <propositions-16-32/propositions-16-32-el>` · :doc:`Summary <propositions-16-32/propositions-16-32-summary>` · :doc:`Notes <propositions-16-32/propositions-16-32-notes>`
-
 .. _conc-friedlein-305-24:
 
 **Friedlein 305, 24** — :ref:`Props. I.16–I.17: Exterior Angle & Sum of Two Interior Angles <sec-prop-16-17>` · Euclid :just:`I.16`
@@ -1148,13 +1133,6 @@ Codex tracks: :doc:`English <propositions-16-32/propositions-16-32-en>` · :doc:
   Preservation of the elegant Pythagorean proof of Prop. I.32 drawing a single parallel to the base through the triangle's apex.
 
   * `euclid` ``proclus:in-euclid:379.2-15`` — Heath Vol. I, p. 320 (Bk. I, propositions) [folio ``0334``]
-
-.. _concordance-propositions-33-48:
-
-Propositions I.33–I.48 (Friedlein pp. 384–436)
-----------------------------------------------
-
-Codex tracks: :doc:`English <propositions-33-48/propositions-33-48-en>` · :doc:`Greek (1873) <propositions-33-48/propositions-33-48-el>` · :doc:`Summary <propositions-33-48/propositions-33-48-summary>` · :doc:`Notes <propositions-33-48/propositions-33-48-notes>`
 
 .. _conc-friedlein-393:
 
