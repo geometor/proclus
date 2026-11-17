@@ -20,6 +20,18 @@ Books in This Archive
 
 - `Commentary on the First Book of Euclid's Elements <https://geometor.github.io/proclus/in_euclidem/>`_ — In Primum Euclidis Elementorum Librum Commentarii (c. 470 AD / ed. Friedlein 1873 / Taylor 1792), providing seven canonical divisions across prologues, definitions, postulates, and propositions I.1–I.48 with Friedlein citation concordance.
 
+Python Package & Modules
+------------------------
+
+The ``geometor-proclus`` Python package (``import geometor.proclus``) provides the executable symbolic geometry, construction, and compilation modules powering this archive:
+
+- ``compile_codex.py`` — Deterministic apparatus compiler and Multi-Track Codex verifier for GEOMETOR Proclus.
+- ``concordance.py`` — Friedlein (1873) page-and-line concordance and section resolver for Proclus.
+- ``cli.py`` — Command-line interface for ``geometor-proclus``.
+- ``sphinx_ext.py`` — Runtime Sphinx & photon-platform/publish integration for GEOMETOR Proclus.
+
+See the `API Reference <https://geometor.github.io/proclus/modules/>`_ for full module documentation.
+
 Repository Contents
 -------------------
 
