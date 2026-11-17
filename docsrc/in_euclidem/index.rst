@@ -45,7 +45,7 @@ Scholarly Apparatus
 
 * :doc:`Friedlein Citation Concordance <concordance>` — Bidirectional mapping of all **164 canonical Friedlein loci** cited across ``geometor/euclid`` (156 keys, 159 occurrences) and ``geometor/hoenen``.
 * :doc:`Bibliography <bibliography>` — Editions, ancient mathematical sources, and companion GEOMETOR treatises.
-* :doc:`People <persons>` — Prosopographical register of **54** geometers, philosophers, and commentators (including the complete Eudemian Summary).
+* :doc:`People <people/index>` — Prosopographical register of **54** geometers, philosophers, and commentators (including the complete Eudemian Summary).
 * :doc:`Glossary <glossary>` — Lexicon of **44** technical Greek, Latin, and English terms.
 
 .. toctree::
@@ -78,7 +78,7 @@ Scholarly Apparatus
 
    concordance
    bibliography
-   persons
+   people/index
    glossary
 
 .. toctree::

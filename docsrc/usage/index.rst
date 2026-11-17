@@ -63,7 +63,7 @@ Document collections throughout the site (such as the :doc:`Development Log <../
 6. People, Bibliography & Glossary Tooltips
 -------------------------------------------
 
-* **People (``:person:``)**: Historical figures and geometers (such as :person:`Proclus Lycius Diadochus <proclus>`, :person:`Gottfried Friedlein <friedlein>`, :person:`Thomas Taylor <taylor>`, :person:`Thales <thales>`, :person:`Pythagoras <pythagoras>`, and :person:`Euclid <euclid>`) display rich biographical hover cards linking to the :doc:`People Register <../in_euclidem/persons>`.
+* **People (``:person:``)**: Historical figures and geometers (such as :person:`Proclus Lycius Diadochus <proclus>`, :person:`Gottfried Friedlein <friedlein>`, :person:`Thomas Taylor <taylor>`, :person:`Thales <thales>`, :person:`Pythagoras <pythagoras>`, and :person:`Euclid <euclid>`) display rich biographical hover cards linking to the :doc:`People Register <../in_euclidem/people/index>`.
 * **Citations (``:cite:``)**: Inline citations link to critical editions in the :doc:`Bibliography <../in_euclidem/bibliography>`.
 * **Technical Terms (``:term:``)**: Technical Greek, Latin, and English terminology (such as *phantasia*, *metaxy*, *dianoia*, and *horos*) link to entries in the :doc:`Technical Glossary <../in_euclidem/glossary>`.
 * **Theme Switching**: Toggle between Light and Dark themes via the header button to suit your reading environment.

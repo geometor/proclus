@@ -390,7 +390,7 @@ def verify_codex_tracks(book_dir: Path | None = None) -> dict[str, Any]:
         "index.rst",
         "concordance.rst",
         "bibliography.rst",
-        "persons.rst",
+        "people/index.rst",
         "glossary.rst",
     ]
     for rf in required_root_files:
