@@ -5,7 +5,7 @@
 :folio: Friedlein 400–403
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.36: Parallelograms on Equal Bases in the Same Parallels — Analytical Summary
 ====================================================================================

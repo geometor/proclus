@@ -3,6 +3,11 @@ GEOMETOR • proclus
 
 **Visit the Online Archive:** https://geometor.github.io/proclus/
 
+.. image:: docsrc/in_euclidem/propositions/01/0255.g1.svg
+   :alt: GEOMETOR • proclus featured geometric construction
+   :target: https://geometor.github.io/proclus/
+   :align: center
+
 **Proclus Diadochus • Commentary on the First Book of Euclid's Elements • semantic digital archive**
 
 Mission

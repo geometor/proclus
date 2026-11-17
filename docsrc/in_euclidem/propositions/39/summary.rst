@@ -5,7 +5,7 @@
 :folio: Friedlein 407–410
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.39: Equal Triangles on the Same Base Are in the Same Parallels — Analytical Summary
 ===========================================================================================

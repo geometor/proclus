@@ -5,7 +5,7 @@
 :folio: Friedlein 277–280
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.10: Bisection of a Finite Segment & Indivisible Lines — GEOMETOR Commentary & Concordance Notes
 =======================================================================================================

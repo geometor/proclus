@@ -5,7 +5,7 @@
 :folio: Friedlein 421–423
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.45: Application of a Parallelogram to a Given Rectilinear Figure — Analytical Summary
 =============================================================================================

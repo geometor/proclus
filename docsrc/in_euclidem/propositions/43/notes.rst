@@ -5,7 +5,7 @@
 :folio: Friedlein 417–418
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.43: Equality of Complements in Parallelograms (Parapleromata) — GEOMETOR Commentary & Concordance Notes
 ===============================================================================================================

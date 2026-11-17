@@ -5,7 +5,7 @@
 :folio: Friedlein 389–393
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.34: Opposite Sides and Angles of Parallelograms & Bisection — Analytical Summary
 ========================================================================================

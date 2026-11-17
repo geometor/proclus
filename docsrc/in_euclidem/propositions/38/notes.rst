@@ -5,7 +5,7 @@
 :folio: Friedlein 405–407
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.38: Triangles on Equal Bases in the Same Parallels — GEOMETOR Commentary & Concordance Notes
 ====================================================================================================

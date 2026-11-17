@@ -5,7 +5,7 @@
 :folio: Friedlein 375–376
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.31: Drawing a Parallel Line Through a Given Point — GEOMETOR Commentary & Concordance Notes
 ===================================================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 317–321
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.19: Greater Angle Subtended by Greater Side — GEOMETOR Commentary & Concordance Notes
 =============================================================================================

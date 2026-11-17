@@ -5,7 +5,7 @@
 :folio: Friedlein 423–425
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.46: Construction of the Square (Posidonius's Definition) — GEOMETOR Commentary & Concordance Notes
 ==========================================================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 354–360
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.27: Alternate Angles Imply Parallel Lines (Book IV Opening) — GEOMETOR Commentary & Concordance Notes
 =============================================================================================================

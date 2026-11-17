@@ -5,7 +5,7 @@
 :folio: Friedlein 384–389
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.33: Straight Lines Joining Equal and Parallel Segments — GEOMETOR Commentary & Concordance Notes
 ========================================================================================================

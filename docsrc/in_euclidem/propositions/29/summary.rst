@@ -5,7 +5,7 @@
 :folio: Friedlein 364–373
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.29: Parallel Lines & Proclus's Attempted Proof of Postulate 5 — Analytical Summary
 ==========================================================================================

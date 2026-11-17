@@ -5,7 +5,7 @@
 :folio: Friedlein 266–269
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.8: Second Congruence Theorem (SSS) & Philo's Proof — GEOMETOR Commentary & Concordance Notes
 ====================================================================================================

@@ -8,6 +8,7 @@
 :book_subtitle: In Primum Euclidis Elementorum Librum Commentarii — Proclus Diadochus (ed. Friedlein 1873 / Taylor 1792)
 :author: Proclus Diadochus
 :year: c. 470 AD
+:tracks: English: index | Greek: title-el
 :excerpt: Proclus's 5th-century Neoplatonic commentary preserving the Eudemian history of geometry, axiomatic philosophy, and the first principles of Euclid's Elements.
 
 .. _in-euclidem-codex:
@@ -28,12 +29,12 @@ Commentary on the First Book of Euclid's Elements
    | **Author**: :person:`Proclus Lycius Diadochus <proclus>` (412–485 AD)
    | **Critical Greek Edition**: :person:`Gottfried Friedlein <friedlein>` (Leipzig: B. G. Teubner, 1873)
    | **English Translation**: :person:`Thomas Taylor <taylor>` (London, 1788–1789 / 1792) & GEOMETOR Scholarly Apparatus
-   | **GEOMETOR Digital Edition**: Synchronized English, Greek (1873), Summary & Notes Tracks with Friedlein Folio Anchors
+   | **GEOMETOR Digital Edition**: Synchronized English, Greek, Summary & Notes Tracks with Friedlein Folio Anchors
 
 Table of Contents
 -----------------
 
-Composed at the Neoplatonic Academy of Athens around 470 AD, :person:`Proclus Diadochus's <proclus>` *Commentary on the First Book of Euclid's Elements* is the supreme surviving monument of ancient mathematical philosophy, axiomatic methodology, and the pre-Euclidean history of Greek geometry. Each unit of this **Multi-Track Book Codex** provides four synchronized reading tracks: **English**, **Greek (1873)**, **Summary**, and **Notes**.
+Composed at the Neoplatonic Academy of Athens around 470 AD, :person:`Proclus Diadochus's <proclus>` *Commentary on the First Book of Euclid's Elements* is the supreme surviving monument of ancient mathematical philosophy, axiomatic methodology, and the pre-Euclidean history of Greek geometry. Each unit of this **Multi-Track Book Codex** provides four synchronized reading tracks: **English**, **Greek**, **Summary**, and **Notes**.
 
 .. collection::
    :sort: order
@@ -79,3 +80,10 @@ Scholarly Apparatus
    bibliography
    persons
    glossary
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :caption: Title Pages
+
+   title-el
