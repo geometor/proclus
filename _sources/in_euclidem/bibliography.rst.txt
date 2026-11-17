@@ -1,5 +1,5 @@
 :navigation: header
-:order: 6
+:order: 12
 :nav_title: Bibliography
 :layout: book
 :type: apparatus
