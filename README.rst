@@ -18,7 +18,7 @@ Mission
 Books in This Archive
 ---------------------
 
-- **`Commentary on the First Book of Euclid's Elements <https://geometor.github.io/proclus/in_euclidem/>`_** — In Primum Euclidis Elementorum Librum Commentarii (c. 470 AD / ed. Friedlein 1873 / Taylor 1792), providing seven canonical divisions across prologues, definitions, postulates, and propositions I.1–I.48 with Friedlein citation concordance.
+- `Commentary on the First Book of Euclid's Elements <https://geometor.github.io/proclus/in_euclidem/>`_ — In Primum Euclidis Elementorum Librum Commentarii (c. 470 AD / ed. Friedlein 1873 / Taylor 1792), providing seven canonical divisions across prologues, definitions, postulates, and propositions I.1–I.48 with Friedlein citation concordance.
 
 Repository Contents
 -------------------
