@@ -5,7 +5,7 @@
 :folio: Friedlein 298–305
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.15: Vertical Angles & Proclus's Excursus on Porisms — Analytical Summary
 ================================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 430–436
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.48: Converse of Pythagoras & Closing Peroration of Book I — GEOMETOR Commentary & Concordance Notes
 ===========================================================================================================

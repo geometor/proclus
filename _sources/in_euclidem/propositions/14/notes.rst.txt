@@ -5,7 +5,7 @@
 :folio: Friedlein 294–298
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.14: Converse of Adjacent Angles (Straight Line Condition) — GEOMETOR Commentary & Concordance Notes
 ===========================================================================================================

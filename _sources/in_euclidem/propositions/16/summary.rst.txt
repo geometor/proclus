@@ -5,7 +5,7 @@
 :folio: Friedlein 305–310
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.16: Exterior Angle Greater than Either Interior Opposite — Analytical Summary
 =====================================================================================

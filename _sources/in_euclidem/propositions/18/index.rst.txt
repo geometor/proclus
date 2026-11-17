@@ -4,7 +4,7 @@
 :breadcrumb_title: I.18
 :folio: Friedlein 313–317
 :book: Book I: Propositions
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. folio:: Friedlein 313
    :page: 313

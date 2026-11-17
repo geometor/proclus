@@ -5,7 +5,7 @@
 :folio: Friedlein 244–251
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.5: Isosceles Base Angles & Pappus's Symmetry Proof — GEOMETOR Commentary & Concordance Notes
 ====================================================================================================

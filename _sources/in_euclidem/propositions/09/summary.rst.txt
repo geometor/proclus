@@ -5,7 +5,7 @@
 :folio: Friedlein 270–277
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.9: Bisection of a Rectilineal Angle & Trisection Analysis — Analytical Summary
 ======================================================================================

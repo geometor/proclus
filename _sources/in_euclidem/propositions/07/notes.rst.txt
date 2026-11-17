@@ -5,7 +5,7 @@
 :folio: Friedlein 258–266
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.7: Rigidity Lemma for Triangles on the Same Base — GEOMETOR Commentary & Concordance Notes
 ==================================================================================================

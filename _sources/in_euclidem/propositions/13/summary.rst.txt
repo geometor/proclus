@@ -5,7 +5,7 @@
 :folio: Friedlein 290–294
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.13: Sum of Adjacent Angles on a Straight Line — Analytical Summary
 ==========================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 230–232
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.3: Cutting Off the Greater Segment Equal to the Less — Analytical Summary
 =================================================================================

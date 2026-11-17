@@ -5,7 +5,7 @@
 :folio: Friedlein 284–289
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.12: Dropping a Perpendicular from an External Point (Oenopides) — GEOMETOR Commentary & Concordance Notes
 =================================================================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 208–219
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.1: Construction of the Equilateral Triangle — Analytical Summary
 ========================================================================

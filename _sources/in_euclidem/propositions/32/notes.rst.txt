@@ -5,7 +5,7 @@
 :folio: Friedlein 376–384
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.32: Angle-Sum of a Triangle & Pythagorean Proof — GEOMETOR Commentary & Concordance Notes
 =================================================================================================

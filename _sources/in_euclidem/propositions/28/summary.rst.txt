@@ -5,7 +5,7 @@
 :folio: Friedlein 360–364
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.28: Exterior and Interior Angles Implying Parallels — Analytical Summary
 ================================================================================

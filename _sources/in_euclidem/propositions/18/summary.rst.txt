@@ -5,7 +5,7 @@
 :folio: Friedlein 313–317
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.18: Greater Side Subtends Greater Angle — Analytical Summary
 ====================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 330–333
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.22: Construction of a Triangle from Three Segments — GEOMETOR Commentary & Concordance Notes
 ====================================================================================================

@@ -5,7 +5,7 @@
 :folio: Friedlein 412–415
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.41: Parallelogram is Double the Triangle on the Same Base — GEOMETOR Commentary & Concordance Notes
 ===========================================================================================================

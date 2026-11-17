@@ -5,7 +5,7 @@
 :folio: Friedlein 233–243
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.4: First Congruence Theorem (SAS) & Superposition — GEOMETOR Commentary & Concordance Notes
 ===================================================================================================

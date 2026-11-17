@@ -5,7 +5,7 @@
 :folio: Friedlein 347–353
 :book: Book I: Propositions
 :type: notes
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.26: Congruence by ASA and AAS & Thales' Ship Distance Theorem — GEOMETOR Commentary & Concordance Notes
 ===============================================================================================================

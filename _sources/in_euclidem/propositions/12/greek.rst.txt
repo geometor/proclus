@@ -5,7 +5,7 @@
 :folio: Friedlein 284–289
 :book: Book I: Propositions
 :type: greek
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 .. folio:: Friedlein 284
    :page: 284

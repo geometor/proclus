@@ -5,7 +5,7 @@
 :folio: Friedlein 333–335
 :book: Book I: Propositions
 :type: summary
-:tracks: English: index | Greek (1873): greek | Summary: summary | Notes: notes
+:tracks: English: index | Greek: greek | Summary: summary | Notes: notes
 
 Prop. I.23: Constructing an Angle Equal to a Given Angle (Oenopides) — Analytical Summary
 =========================================================================================
