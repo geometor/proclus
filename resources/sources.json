@@ -1,0 +1,38 @@
+{
+  "repository": "geometor/proclus",
+  "rights_category": "public-domain",
+  "sources": [
+    {
+      "id": "friedlein-1873-teubner",
+      "title": "Procli Diadochi in Primum Euclidis Elementorum Librum Commentarii (1873)",
+      "author": "Gottfried Friedlein (ed.)",
+      "year": "1873",
+      "era": "Internet Archive",
+      "languages": [
+        "Greek"
+      ],
+      "site_url": "https://archive.org/search?query=Procli+Diadochi+Friedlein+1873",
+      "local_path": "resources/friedlein_1873_teubner_djvu.txt",
+      "pages": null,
+      "publisher": "B. G. Teubner, Leipzig",
+      "rights": "Public Domain (1873)",
+      "excerpt": "1873 Teubner Greek critical edition DjVu transcription."
+    },
+    {
+      "id": "taylor-1792-gutenberg",
+      "title": "The Philosophical and Mathematical Commentaries of Proclus (trans. Thomas Taylor, 1792)",
+      "author": "Thomas Taylor (trans.)",
+      "year": "1792",
+      "era": "Project Gutenberg",
+      "languages": [
+        "English"
+      ],
+      "site_url": "https://www.gutenberg.org/ebooks/74253",
+      "local_path": "resources/taylor_1792_vol1_pg74253.txt",
+      "pages": null,
+      "publisher": "London (1792) / Project Gutenberg #74253 & #79455",
+      "rights": "Public Domain (1792)",
+      "excerpt": "Thomas Taylor 1792 English translation Vols. I–II via Project Gutenberg."
+    }
+  ]
+}
