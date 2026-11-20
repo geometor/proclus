@@ -3,6 +3,12 @@ GEOMETOR • proclus
 
 **Visit the Online Archive:** https://geometor.github.io/proclus/
 
+.. image:: docsrc/_static/logo.png
+   :alt: GEOMETOR • proclus Medallion
+   :target: https://geometor.github.io/proclus/
+   :width: 180px
+   :align: center
+
 .. image:: docsrc/in_euclidem/propositions/01/0255.g1.svg
    :alt: GEOMETOR • proclus featured geometric construction
    :target: https://geometor.github.io/proclus/
