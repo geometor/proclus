@@ -64,6 +64,6 @@ Module Contents
 
 .. py:function:: verify_codex_tracks(book_dir: pathlib.Path | None = None) -> dict[str, Any]
 
-   Verify that all 7 Codex units have all 4 synchronized tracks and zero Python construction code.
+   Verify that all 5 Codex units have all 4 synchronized tracks and zero Python construction code.
 
 

@@ -1,8 +1,9 @@
 :navigation: header
-:order: 12
+:order: 6
 :nav_title: Bibliography
 :layout: book
 :type: apparatus
+:folio: Friedlein 1–436
 
 .. _codex-bibliography:
 

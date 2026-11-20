@@ -1,8 +1,9 @@
-:navigation: header
-:order: 14
+:navigation: footer
+:order: 90
 :nav_title: Concordance
 :layout: book
 :type: apparatus
+:folio: Friedlein 1–436
 
 .. _friedlein-concordance:
 
@@ -30,11 +31,11 @@ Overview by Codex Unit
      - pp. 48–84
      - 27
      - Mathematical Imagination (Phantasia & Probole), Intelligible Matter, The Eudemian Summary of Greek Geometry, and the Purpose of the Elements
-   * - :doc:`Definitions <definitions/definitions-en>`
+   * - :doc:`Definitions <definitions/index>`
      - pp. 85–177
      - 32
      - Point, Line & Flux, Straight Line, Surface, Plane & Horn Angles, Figure, Circle, Triangles, Quadrilaterals, and Parallel Lines
-   * - :doc:`Postulates & Axioms <postulates-axioms/postulates-axioms-en>`
+   * - :doc:`Postulates & Axioms <postulates-axioms/index>`
      - pp. 178–207
      - 19
      - Epistemology of First Principles, Compass & Straightedge Postulates, Critique of Postulate 5, Common Notions, and the Six Parts of a Proposition
@@ -283,7 +284,7 @@ Codex tracks: :doc:`English <prologue-2/prologue-2-en>` · :doc:`Greek (1873) <p
 Definitions (Friedlein pp. 85–177)
 ----------------------------------
 
-Codex tracks: :doc:`English <definitions/definitions-en>` · :doc:`Greek (1873) <definitions/definitions-el>` · :doc:`Summary <definitions/definitions-summary>` · :doc:`Notes <definitions/definitions-notes>`
+Codex: :doc:`Definitions Overview <definitions/index>`
 
 .. _conc-friedlein-95-21:
 
@@ -514,7 +515,7 @@ Codex tracks: :doc:`English <definitions/definitions-en>` · :doc:`Greek (1873) 
 Postulates & Axioms (Friedlein pp. 178–207)
 -------------------------------------------
 
-Codex tracks: :doc:`English <postulates-axioms/postulates-axioms-en>` · :doc:`Greek (1873) <postulates-axioms/postulates-axioms-el>` · :doc:`Summary <postulates-axioms/postulates-axioms-summary>` · :doc:`Notes <postulates-axioms/postulates-axioms-notes>`
+Codex: :doc:`Postulates & Axioms Overview <postulates-axioms/index>`
 
 .. _conc-friedlein-178-12-179-8:
 
@@ -656,7 +657,7 @@ Codex tracks: :doc:`English <postulates-axioms/postulates-axioms-en>` · :doc:`G
 Propositions I.1–I.48 (Friedlein pp. 208–436)
 ---------------------------------------------
 
-Codex: :doc:`Propositions Overview <propositions/index>`
+Codex: :doc:`Propositions I.1–I.48 Overview <propositions/index>`
 
 .. _conc-friedlein-208-21:
 

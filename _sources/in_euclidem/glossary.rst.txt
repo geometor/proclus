@@ -1,8 +1,9 @@
-:navigation: header
-:order: 16
+:navigation: footer
+:order: 93
 :nav_title: Glossary
 :layout: book
 :type: apparatus
+:folio: Friedlein 1–436
 
 .. _codex-glossary:
 
