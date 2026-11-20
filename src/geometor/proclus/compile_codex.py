@@ -31,6 +31,7 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
         ":nav_title: Concordance",
         ":layout: book",
         ":type: apparatus",
+        ":folio: Friedlein 1–436",
         "",
         ".. _friedlein-concordance:",
         "",
@@ -69,9 +70,10 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
         elif unit_slug in CODEX_UNITS_BY_SLUG:
             by_unit[CODEX_UNITS_BY_SLUG[unit_slug].slug].append(e)
 
+    container_units = {"definitions", "postulates-axioms", "propositions"}
     for u in CODEX_UNITS:
         u_entries = by_unit[u.slug]
-        target_doc = f"{u.slug}/index" if u.slug == "propositions" else f"{u.slug}/{u.slug}-en"
+        target_doc = f"{u.slug}/index" if u.slug in container_units else f"{u.slug}/{u.slug}-en"
         lines.extend(
             [
                 f"   * - :doc:`{u.number_label} <{target_doc}>`",
@@ -85,8 +87,8 @@ def render_concordance_rst(concordance: dict[str, Any]) -> str:
     for u in CODEX_UNITS:
         u_entries = by_unit[u.slug]
         heading = f"{u.number_label} (Friedlein pp. {u.friedlein_start}–{u.friedlein_end})"
-        if u.slug == "propositions":
-            track_links = f"Codex: :doc:`Propositions Overview <{u.slug}/index>`"
+        if u.slug in container_units:
+            track_links = f"Codex: :doc:`{u.number_label} Overview <{u.slug}/index>`"
         else:
             track_links = (
                 f"Codex tracks: :doc:`English <{u.slug}/{u.slug}-en>` · "
@@ -181,6 +183,7 @@ def render_bibliography_rst(citations: dict[str, dict[str, Any]]) -> str:
         ":nav_title: Bibliography",
         ":layout: book",
         ":type: apparatus",
+        ":folio: Friedlein 1–436",
         "",
         ".. _codex-bibliography:",
         "",
@@ -308,6 +311,7 @@ def render_glossary_rst(glossary: dict[str, dict[str, Any]]) -> str:
         ":nav_title: Glossary",
         ":layout: book",
         ":type: apparatus",
+        ":folio: Friedlein 1–436",
         "",
         ".. _codex-glossary:",
         "",
@@ -381,7 +385,7 @@ def write_apparatus_pages(
 
 
 def verify_codex_tracks(book_dir: Path | None = None) -> dict[str, Any]:
-    """Verify that all 7 Codex units have all 4 synchronized tracks and zero Python construction code."""
+    """Verify that all 5 Codex units have all 4 synchronized tracks and zero Python construction code."""
     bdir = book_dir or default_docsrc_book_dir()
     errors: list[str] = []
     track_counts = 0
@@ -398,19 +402,29 @@ def verify_codex_tracks(book_dir: Path | None = None) -> dict[str, Any]:
             errors.append(f"Missing book apparatus/index file: {bdir / rf}")
 
     code_block_re = re.compile(r"^\.\.\s+code-block::\s*(?:python|py)\b", re.MULTILINE)
+    container_expected_counts = {
+        "definitions": 12,
+        "postulates-axioms": 6,
+        "propositions": 48,
+    }
 
     for unit in CODEX_UNITS:
         udir = bdir / unit.slug
-        if unit.slug == "propositions":
+        if unit.slug in container_expected_counts:
             c_idx = udir / "index.rst"
             if not c_idx.is_file():
-                errors.append(f"Missing propositions container file: {c_idx}")
-            for i in range(1, 49):
-                p_dir = udir / f"{i:02d}"
+                errors.append(f"Missing {unit.slug} container file: {c_idx}")
+            sub_dirs = sorted(d for d in udir.iterdir() if d.is_dir()) if udir.is_dir() else []
+            expected_n = container_expected_counts[unit.slug]
+            if len(sub_dirs) != expected_n:
+                errors.append(
+                    f"Expected {expected_n} atomic subdirectories in {udir}, found {len(sub_dirs)}"
+                )
+            for p_dir in sub_dirs:
                 for suffix in ("index", "greek", "summary", "notes"):
                     f = p_dir / f"{suffix}.rst"
                     if not f.is_file():
-                        errors.append(f"Missing proposition track file: {f}")
+                        errors.append(f"Missing atomic track file: {f}")
                         continue
                     track_counts += 1
                     txt = f.read_text(encoding="utf-8")

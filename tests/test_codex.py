@@ -32,23 +32,29 @@ def _extract_role_targets(rst_text: str, role_name: str) -> list[str]:
 
 
 class TestCodexTracksAndStructure:
-    """Verify the 5 canonical Codex units, container, and 208 synchronized track files."""
+    """Verify the 5 canonical Codex units, containers, and 272 synchronized track files."""
 
     def test_verify_codex_tracks_passes_cleanly(self) -> None:
         report = verify_codex_tracks()
         assert report["valid"] is True, f"Codex verification errors: {report['errors']}"
         assert report["units"] == 5
-        assert report["track_files"] == 208
+        assert report["track_files"] == 272
         assert report["errors"] == []
 
     def test_all_concordance_section_anchors_exist_in_english_tracks(self) -> None:
         book_dir = default_docsrc_book_dir()
+        for bundled in (
+            book_dir / "definitions" / "definitions-en.rst",
+            book_dir / "postulates-axioms" / "postulates-axioms-en.rst",
+        ):
+            assert not bundled.exists(), f"Legacy bundled file still present: {bundled}"
+
         en_texts: list[str] = []
         for u in CODEX_UNITS:
-            if u.slug == "propositions":
+            if u.slug in ("definitions", "postulates-axioms", "propositions"):
                 en_texts.append((book_dir / u.slug / "index.rst").read_text(encoding="utf-8"))
-                for i in range(1, 49):
-                    en_texts.append((book_dir / u.slug / f"{i:02d}" / "index.rst").read_text(encoding="utf-8"))
+                for sub_idx in sorted((book_dir / u.slug).glob("*/index.rst")):
+                    en_texts.append(sub_idx.read_text(encoding="utf-8"))
             else:
                 en_texts.append((book_dir / u.slug / f"{u.slug}-en.rst").read_text(encoding="utf-8"))
         all_en_text = "\n".join(en_texts)

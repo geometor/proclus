@@ -9,6 +9,7 @@
 :author: Proclus Diadochus
 :year: c. 470 AD
 :tracks: English: index | Greek: title-el
+:folio: Friedlein 1–436
 :excerpt: Proclus's 5th-century Neoplatonic commentary preserving the Eudemian history of geometry, axiomatic philosophy, and the first principles of Euclid's Elements.
 
 .. _in-euclidem-codex:
@@ -61,14 +62,8 @@ Scholarly Apparatus
    prologue-2/prologue-2-el
    prologue-2/prologue-2-summary
    prologue-2/prologue-2-notes
-   definitions/definitions-en
-   definitions/definitions-el
-   definitions/definitions-summary
-   definitions/definitions-notes
-   postulates-axioms/postulates-axioms-en
-   postulates-axioms/postulates-axioms-el
-   postulates-axioms/postulates-axioms-summary
-   postulates-axioms/postulates-axioms-notes
+   definitions/index
+   postulates-axioms/index
    propositions/index
 
 .. toctree::
