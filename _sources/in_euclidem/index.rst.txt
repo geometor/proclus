@@ -7,7 +7,9 @@
 :book_title: Commentary on the First Book of Euclid's Elements
 :book_subtitle: In Primum Euclidis Elementorum Librum Commentarii — Proclus Diadochus (ed. Friedlein 1873 / Taylor 1792)
 :author: Proclus Diadochus
-:year: c. 470 AD
+:year: 470
+:year_label: ca. 470 CE
+:edition_year: 1873
 :tracks: English: index | Greek: title-el
 :folio: Friedlein 1–436
 :excerpt: Proclus's 5th-century Neoplatonic commentary preserving the Eudemian history of geometry, axiomatic philosophy, and the first principles of Euclid's Elements.
