@@ -34,7 +34,7 @@ Works in This Archive
       .. container:: home-actions
 
          * :doc:`Open the Commentary → <in_euclidem/index>`
-         * :doc:`Prologue I (Philosophy) → <in_euclidem/prologue-1/prologue-1-en>`
+         * :doc:`Prologue I (Philosophy) → <in_euclidem/prologue-1/index>`
          * :doc:`Proposition I.1 → <in_euclidem/propositions/01/index>`
 
 Key Features

@@ -23,11 +23,11 @@ Overview by Codex Unit
      - Friedlein Pages
      - Cited Loci
      - Scope
-   * - :doc:`Prologue I <prologue-1/prologue-1-en>`
+   * - :doc:`Prologue I <prologue-1/index>`
      - pp. 3–47
      - 4
      - Intermediate Being (Metaxy), Limit & Unlimited, Common Mathematical Principles, Critique of Abstraction, and the Ascent to Dialectic
-   * - :doc:`Prologue II <prologue-2/prologue-2-en>`
+   * - :doc:`Prologue II <prologue-2/index>`
      - pp. 48–84
      - 27
      - Mathematical Imagination (Phantasia & Probole), Intelligible Matter, The Eudemian Summary of Greek Geometry, and the Purpose of the Elements
@@ -49,7 +49,7 @@ Overview by Codex Unit
 Prologue I (Friedlein pp. 3–47)
 -------------------------------
 
-Codex tracks: :doc:`English <prologue-1/prologue-1-en>` · :doc:`Greek (1873) <prologue-1/prologue-1-el>` · :doc:`Summary <prologue-1/prologue-1-summary>` · :doc:`Notes <prologue-1/prologue-1-notes>`
+Codex tracks: :doc:`English <prologue-1/index>` · :doc:`Greek (1873) <prologue-1/el>` · :doc:`Summary <prologue-1/summary>` · :doc:`Notes <prologue-1/notes>`
 
 .. _conc-friedlein-12-14:
 
@@ -85,7 +85,7 @@ Codex tracks: :doc:`English <prologue-1/prologue-1-en>` · :doc:`Greek (1873) <p
 Prologue II (Friedlein pp. 48–84)
 ---------------------------------
 
-Codex tracks: :doc:`English <prologue-2/prologue-2-en>` · :doc:`Greek (1873) <prologue-2/prologue-2-el>` · :doc:`Summary <prologue-2/prologue-2-summary>` · :doc:`Notes <prologue-2/prologue-2-notes>`
+Codex tracks: :doc:`English <prologue-2/index>` · :doc:`Greek (1873) <prologue-2/el>` · :doc:`Summary <prologue-2/summary>` · :doc:`Notes <prologue-2/notes>`
 
 .. _conc-friedlein-49-12-17:
 

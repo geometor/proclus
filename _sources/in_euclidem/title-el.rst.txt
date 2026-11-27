@@ -29,8 +29,8 @@
 Πίναξ τῶν Περιεχομένων
 ----------------------
 
-* :doc:`prologue-1/prologue-1-el`
-* :doc:`prologue-2/prologue-2-el`
+* :doc:`prologue-1/el`
+* :doc:`prologue-2/el`
 * :doc:`definitions/index`
 * :doc:`postulates-axioms/index`
 * :doc:`propositions/index`
