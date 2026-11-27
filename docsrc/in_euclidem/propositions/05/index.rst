@@ -23,7 +23,7 @@ Prop. I.5: Isosceles Base Angles & Pappus's Symmetry Proof
 
    **Edition Track (English)**: Public-domain translation by :person:`Thomas Taylor <taylor>` (:cite:`London, 1788–1789 / 1792 <taylor:1789>`), collated and synchronized with :person:`Gottfried Friedlein's <friedlein>` :cite:`1873 Teubner Greek edition <friedlein:1873>` (pp. 244–251). Switch tracks above for the **Greek (1873)** text, **Summary**, or **Notes**.
 
-**Editorial Key (Friedlein 248–251)**: Commentary on :just:`Prop. I.5 <I.5>` (*pons asinorum*) recording :person:`Thales's <thales>` discovery and :person:`Pappus's <pappus>` zero-construction symmetry proof (:cite:`Collectio <pappus:collectio>`, comparing $\triangle ABC$ with $\triangle ACB$).
+**Editorial Key (Friedlein 248–251)**: Commentary on :just:`Prop. I.5 <I.5>` (*pons asinorum*) recording :person:`Thales's <thales>` discovery and :person:`Pappus's <pappus>` zero-construction symmetry proof (:cite:`Collectio <pappus:collectio>`, comparing :math:`\triangle ABC` with :math:`\triangle ACB`).
 
 PROPOSITION V. THEOREM II.
 
