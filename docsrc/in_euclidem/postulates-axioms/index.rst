@@ -21,14 +21,3 @@ Postulates, Axioms & Propositional Form Codex
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   epistemology/index
-   post_01_03/index
-   post_04/index
-   post_05/index
-   axioms/index
-   six_parts/index

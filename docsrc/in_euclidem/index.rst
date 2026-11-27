@@ -56,14 +56,14 @@ Scholarly Apparatus
    :hidden:
    :caption: Commentary Units
 
-   prologue-1/prologue-1-en
-   prologue-1/prologue-1-el
-   prologue-1/prologue-1-summary
-   prologue-1/prologue-1-notes
-   prologue-2/prologue-2-en
-   prologue-2/prologue-2-el
-   prologue-2/prologue-2-summary
-   prologue-2/prologue-2-notes
+   prologue-1/index
+   prologue-1/el
+   prologue-1/summary
+   prologue-1/notes
+   prologue-2/index
+   prologue-2/el
+   prologue-2/summary
+   prologue-2/notes
    definitions/index
    postulates-axioms/index
    propositions/index

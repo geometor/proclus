@@ -21,20 +21,3 @@ Definitions Codex (I.Def.1–23)
 
 .. collection::
    :sort: order
-
-.. toctree::
-   :hidden:
-   :maxdepth: 1
-
-   def_01/index
-   def_02/index
-   def_03/index
-   def_04/index
-   def_05_07/index
-   def_08_09/index
-   def_10_12/index
-   def_13_14/index
-   def_15_18/index
-   def_19_21/index
-   def_22/index
-   def_23/index
